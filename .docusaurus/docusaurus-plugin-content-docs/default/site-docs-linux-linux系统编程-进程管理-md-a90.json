@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Linux/Linux系统编程/进程管理",
+  "id": "Linux/Linux系统编程/进程管理",
+  "title": "进程管理",
+  "description": "狭义：进程就是一段程序的执行过程",
+  "source": "@site/docs\\Linux\\Linux系统编程\\进程管理.md",
+  "sourceDirName": "Linux/Linux系统编程",
+  "slug": "/Linux/Linux系统编程/进程管理",
+  "permalink": "/myblog/docs/Linux/Linux系统编程/进程管理",
+  "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Linux/Linux系统编程/进程管理.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "进程管理"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "intro",
+    "permalink": "/myblog/docs/Lang/intro"
+  },
+  "next": {
+    "title": "intro",
+    "permalink": "/myblog/docs/Linux/intro"
+  }
+}

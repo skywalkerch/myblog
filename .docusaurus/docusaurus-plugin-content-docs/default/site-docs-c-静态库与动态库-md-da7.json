@@ -1,0 +1,23 @@
+{
+  "unversionedId": "C++/静态库与动态库",
+  "id": "C++/静态库与动态库",
+  "title": "静态库与动态库",
+  "description": "一直以来我对C系列语言的系统级编程都没有什么经验，每次安装windows软件都会遇到dll，在Linux下编程时也会遇到libxxx缺失等等问题，一直以来都没有对这方面彻底弄懂。正好可以趁这个寒假的机会多写几篇博客彻底弄懂这些有趣的东西，给自己的编程之旅打下基础。",
+  "source": "@site/docs\\C++\\静态库与动态库.md",
+  "sourceDirName": "C++",
+  "slug": "/C++/静态库与动态库",
+  "permalink": "/docs/C++/静态库与动态库",
+  "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/C++/静态库与动态库.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "make与automake",
+    "permalink": "/docs/C++/make与automake"
+  },
+  "next": {
+    "title": "五个英语学习的技巧",
+    "permalink": "/docs/CET6/五个英语学习技巧"
+  }
+}

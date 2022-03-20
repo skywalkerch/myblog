@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Linux/软硬链接",
+  "id": "Linux/软硬链接",
+  "title": "软硬链接",
+  "description": "我们知道任何文件都有文件名与文件内容两个属性，这在Linux操作系统里面被分成两个部分：用户数据(user data)与元数据(mete data)。",
+  "source": "@site/docs\\Linux\\软硬链接.md",
+  "sourceDirName": "Linux",
+  "slug": "/Linux/软硬链接",
+  "permalink": "/myblog/docs/Linux/软硬链接",
+  "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Linux/软硬链接.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "软硬链接"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "wsl中docker换源",
+    "permalink": "/myblog/docs/Linux/wsl中docker换源"
+  },
+  "next": {
+    "title": "机器学习",
+    "permalink": "/myblog/docs/Machine-Learning/intro"
+  }
+}

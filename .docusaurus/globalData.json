@@ -1,0 +1,92 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/myblog/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/myblog/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "CET6/五个英语学习技巧",
+              "path": "/myblog/docs/CET6/五个英语学习技巧",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CET6/六级必会的584个词",
+              "path": "/myblog/docs/CET6/六级必会的584个词",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CET6/关于book的表达",
+              "path": "/myblog/docs/CET6/关于book的表达",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/myblog/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Lang/C++/const与指针",
+              "path": "/myblog/docs/Lang/C++/const与指针",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Lang/C++/make与automake",
+              "path": "/myblog/docs/Lang/C++/make与automake",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Lang/C++/静态库与动态库",
+              "path": "/myblog/docs/Lang/C++/静态库与动态库",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Lang/intro",
+              "path": "/myblog/docs/Lang/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Linux/intro",
+              "path": "/myblog/docs/Linux/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Linux/Linux系统编程/进程管理",
+              "path": "/myblog/docs/Linux/Linux系统编程/进程管理",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Linux/wsl中docker换源",
+              "path": "/myblog/docs/Linux/wsl中docker换源",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Linux/软硬链接",
+              "path": "/myblog/docs/Linux/软硬链接",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Machine-Learning/intro",
+              "path": "/myblog/docs/Machine-Learning/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/myblog/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

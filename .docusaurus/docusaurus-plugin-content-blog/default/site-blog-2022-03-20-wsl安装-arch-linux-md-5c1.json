@@ -1,0 +1,29 @@
+{
+  "permalink": "/myblog/blog/2022/03/20/WSL安装ArchLinux",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2022-03-20-WSL安装ArchLinux.md",
+  "source": "@site/blog\\2022-03-20-WSL安装ArchLinux.md",
+  "title": "WSL安装ArchLinux总结",
+  "description": "不要简单抄袭别人的博客而不加思考。",
+  "date": "2022-03-20T00:00:00.000Z",
+  "formattedDate": "March 20, 2022",
+  "tags": [],
+  "readingTime": 4.75,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Orange.Skywalkerch",
+      "title": "the author of this website",
+      "url": "https://github.com/skywalkerch",
+      "imageURL": "https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201032154362.jpg",
+      "key": "skywalkerch"
+    }
+  ],
+  "frontMatter": {
+    "title": "WSL安装ArchLinux总结",
+    "authors": "skywalkerch"
+  },
+  "prevItem": {
+    "title": "Clion编译运行时中文乱码解决方案",
+    "permalink": "/myblog/blog/2022/03/20/clion编译代码中文乱码解决方案"
+  }
+}

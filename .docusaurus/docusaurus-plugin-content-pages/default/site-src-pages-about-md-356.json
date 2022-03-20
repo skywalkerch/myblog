@@ -1,0 +1,8 @@
+{
+  "type": "mdx",
+  "permalink": "/myblog/about",
+  "source": "@site/src/pages/about.md",
+  "title": "关于",
+  "description": "序言",
+  "frontMatter": {}
+}
