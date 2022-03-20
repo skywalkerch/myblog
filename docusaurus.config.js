@@ -9,7 +9,7 @@ const config = {
   title: '赣南脐橙的小破站',
   tagline: '致力于成为一个合格的赣南脐橙',
   url: '',
-  baseUrl: '/myblog/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
