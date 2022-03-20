@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>赣南脐橙的小破站 Blog</title>
-        <link>https://skywalkerch.github.io/myblog/blog</link>
+        <link>https://skywalkerch.github.io/blog</link>
         <description>赣南脐橙的小破站 Blog</description>
         <lastBuildDate>Sun, 20 Mar 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Clion编译运行时中文乱码解决方案]]></title>
-            <link>https://skywalkerch.github.io/myblog/blog/2022/03/20/clion编译代码中文乱码解决方案</link>
+            <link>https://skywalkerch.github.io/blog/2022/03/20/clion编译代码中文乱码解决方案</link>
             <guid>/2022/03/20/clion编译代码中文乱码解决方案</guid>
             <pubDate>Sun, 20 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[此方案仅在 clion 的编译工具链为 mingw 的环境下测试过！]]></description>
@@ -19,7 +19,7 @@
         </item>
         <item>
             <title><![CDATA[WSL安装ArchLinux总结]]></title>
-            <link>https://skywalkerch.github.io/myblog/blog/2022/03/20/WSL安装ArchLinux</link>
+            <link>https://skywalkerch.github.io/blog/2022/03/20/WSL安装ArchLinux</link>
             <guid>/2022/03/20/WSL安装ArchLinux</guid>
             <pubDate>Sun, 20 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[不要简单抄袭别人的博客而不加思考。]]></description>

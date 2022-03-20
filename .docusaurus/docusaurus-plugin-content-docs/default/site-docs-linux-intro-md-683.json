@@ -6,18 +6,17 @@
   "source": "@site/docs/Linux/intro.md",
   "sourceDirName": "Linux",
   "slug": "/Linux/intro",
-  "permalink": "/myblog/docs/Linux/intro",
-  "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Linux/intro.md",
+  "permalink": "/docs/Linux/intro",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "进程管理",
-    "permalink": "/myblog/docs/Linux/Linux系统编程/进程管理"
+    "permalink": "/docs/Linux/Linux系统编程/进程管理"
   },
   "next": {
     "title": "wsl中docker换源",
-    "permalink": "/myblog/docs/Linux/wsl中docker换源"
+    "permalink": "/docs/Linux/wsl中docker换源"
   }
 }

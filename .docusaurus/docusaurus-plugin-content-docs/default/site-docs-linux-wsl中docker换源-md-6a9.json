@@ -6,8 +6,7 @@
   "source": "@site/docs\\Linux\\wsl中docker换源.md",
   "sourceDirName": "Linux",
   "slug": "/Linux/wsl中docker换源",
-  "permalink": "/myblog/docs/Linux/wsl中docker换源",
-  "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Linux/wsl中docker换源.md",
+  "permalink": "/docs/Linux/wsl中docker换源",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -16,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "intro",
-    "permalink": "/myblog/docs/Linux/intro"
+    "permalink": "/docs/Linux/intro"
   },
   "next": {
     "title": "软硬链接",
-    "permalink": "/myblog/docs/Linux/软硬链接"
+    "permalink": "/docs/Linux/软硬链接"
   }
 }

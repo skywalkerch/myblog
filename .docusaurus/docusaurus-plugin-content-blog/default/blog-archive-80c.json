@@ -4,7 +4,6 @@
       "id": "/2022/03/20/clion编译代码中文乱码解决方案",
       "metadata": {
         "permalink": "/blog/2022/03/20/clion编译代码中文乱码解决方案",
-        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2022-03-20-clion编译代码中文乱码解决方案.md",
         "source": "@site/blog\\2022-03-20-clion编译代码中文乱码解决方案.md",
         "title": "Clion编译运行时中文乱码解决方案",
         "description": "此方案仅在 clion 的编译工具链为 mingw 的环境下测试过！",
@@ -37,7 +36,6 @@
       "id": "/2022/03/20/WSL安装ArchLinux",
       "metadata": {
         "permalink": "/blog/2022/03/20/WSL安装ArchLinux",
-        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2022-03-20-WSL安装ArchLinux.md",
         "source": "@site/blog\\2022-03-20-WSL安装ArchLinux.md",
         "title": "WSL安装ArchLinux总结",
         "description": "不要简单抄袭别人的博客而不加思考。",

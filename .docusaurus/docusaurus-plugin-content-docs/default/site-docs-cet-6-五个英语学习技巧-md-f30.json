@@ -6,8 +6,7 @@
   "source": "@site/docs\\CET6\\五个英语学习技巧.md",
   "sourceDirName": "CET6",
   "slug": "/CET6/五个英语学习技巧",
-  "permalink": "/myblog/docs/CET6/五个英语学习技巧",
-  "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/CET6/五个英语学习技巧.md",
+  "permalink": "/docs/CET6/五个英语学习技巧",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -16,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "intro",
-    "permalink": "/myblog/docs/intro"
+    "permalink": "/docs/intro"
   },
   "next": {
     "title": "六级必会的584个词",
-    "permalink": "/myblog/docs/CET6/六级必会的584个词"
+    "permalink": "/docs/CET6/六级必会的584个词"
   }
 }

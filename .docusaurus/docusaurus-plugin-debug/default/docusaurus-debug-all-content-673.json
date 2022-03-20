@@ -7,8 +7,6 @@
           "versionLabel": "Next",
           "versionPath": "/docs",
           "tagsPath": "/docs/tags",
-          "versionEditUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
-          "versionEditUrlLocalized": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "versionBanner": null,
           "versionBadge": false,
           "versionClassName": "docs-version-current",
@@ -27,7 +25,6 @@
               "sourceDirName": "CET6",
               "slug": "/CET6/五个英语学习技巧",
               "permalink": "/docs/CET6/五个英语学习技巧",
-              "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/CET6/五个英语学习技巧.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -52,7 +49,6 @@
               "sourceDirName": "CET6",
               "slug": "/CET6/六级必会的584个词",
               "permalink": "/docs/CET6/六级必会的584个词",
-              "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/CET6/六级必会的584个词.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -75,7 +71,6 @@
               "sourceDirName": "CET6",
               "slug": "/CET6/关于book的表达",
               "permalink": "/docs/CET6/关于book的表达",
-              "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/CET6/关于book的表达.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -100,7 +95,6 @@
               "sourceDirName": ".",
               "slug": "/intro",
               "permalink": "/docs/intro",
-              "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -122,7 +116,6 @@
               "sourceDirName": "Lang/C++",
               "slug": "/Lang/C++/const与指针",
               "permalink": "/docs/Lang/C++/const与指针",
-              "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Lang/C++/const与指针.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -147,7 +140,6 @@
               "sourceDirName": "Lang/C++",
               "slug": "/Lang/C++/make与automake",
               "permalink": "/docs/Lang/C++/make与automake",
-              "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Lang/C++/make与automake.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -172,7 +164,6 @@
               "sourceDirName": "Lang/C++",
               "slug": "/Lang/C++/静态库与动态库",
               "permalink": "/docs/Lang/C++/静态库与动态库",
-              "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Lang/C++/静态库与动态库.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -182,8 +173,52 @@
                 "permalink": "/docs/Lang/C++/make与automake"
               },
               "next": {
+                "title": "intro",
+                "permalink": "/docs/Lang/intro"
+              }
+            },
+            {
+              "unversionedId": "Lang/intro",
+              "id": "Lang/intro",
+              "title": "intro",
+              "description": "",
+              "source": "@site/docs/Lang/intro.md",
+              "sourceDirName": "Lang",
+              "slug": "/Lang/intro",
+              "permalink": "/docs/Lang/intro",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "静态库与动态库",
+                "permalink": "/docs/Lang/C++/静态库与动态库"
+              },
+              "next": {
                 "title": "进程管理",
                 "permalink": "/docs/Linux/Linux系统编程/进程管理"
+              }
+            },
+            {
+              "unversionedId": "Linux/intro",
+              "id": "Linux/intro",
+              "title": "intro",
+              "description": "",
+              "source": "@site/docs/Linux/intro.md",
+              "sourceDirName": "Linux",
+              "slug": "/Linux/intro",
+              "permalink": "/docs/Linux/intro",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "进程管理",
+                "permalink": "/docs/Linux/Linux系统编程/进程管理"
+              },
+              "next": {
+                "title": "wsl中docker换源",
+                "permalink": "/docs/Linux/wsl中docker换源"
               }
             },
             {
@@ -195,7 +230,6 @@
               "sourceDirName": "Linux/Linux系统编程",
               "slug": "/Linux/Linux系统编程/进程管理",
               "permalink": "/docs/Linux/Linux系统编程/进程管理",
-              "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Linux/Linux系统编程/进程管理.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -203,12 +237,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "静态库与动态库",
-                "permalink": "/docs/Lang/C++/静态库与动态库"
+                "title": "intro",
+                "permalink": "/docs/Lang/intro"
               },
               "next": {
-                "title": "wsl中docker换源",
-                "permalink": "/docs/Linux/wsl中docker换源"
+                "title": "intro",
+                "permalink": "/docs/Linux/intro"
               }
             },
             {
@@ -220,7 +254,6 @@
               "sourceDirName": "Linux",
               "slug": "/Linux/wsl中docker换源",
               "permalink": "/docs/Linux/wsl中docker换源",
-              "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Linux/wsl中docker换源.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -228,8 +261,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "进程管理",
-                "permalink": "/docs/Linux/Linux系统编程/进程管理"
+                "title": "intro",
+                "permalink": "/docs/Linux/intro"
               },
               "next": {
                 "title": "软硬链接",
@@ -245,7 +278,6 @@
               "sourceDirName": "Linux",
               "slug": "/Linux/软硬链接",
               "permalink": "/docs/Linux/软硬链接",
-              "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Linux/软硬链接.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -270,7 +302,6 @@
               "sourceDirName": "Machine-Learning",
               "slug": "/Machine-Learning/intro",
               "permalink": "/docs/Machine-Learning/intro",
-              "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Machine-Learning/intro.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -332,6 +363,10 @@
                         "id": "Lang/C++/静态库与动态库"
                       }
                     ]
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Lang/intro"
                   }
                 ]
               },
@@ -352,6 +387,10 @@
                         "id": "Linux/Linux系统编程/进程管理"
                       }
                     ]
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Linux/intro"
                   },
                   {
                     "type": "doc",
@@ -391,7 +430,6 @@
           "id": "/2022/03/20/clion编译代码中文乱码解决方案",
           "metadata": {
             "permalink": "/blog/2022/03/20/clion编译代码中文乱码解决方案",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2022-03-20-clion编译代码中文乱码解决方案.md",
             "source": "@site/blog\\2022-03-20-clion编译代码中文乱码解决方案.md",
             "title": "Clion编译运行时中文乱码解决方案",
             "description": "此方案仅在 clion 的编译工具链为 mingw 的环境下测试过！",
@@ -424,7 +462,6 @@
           "id": "/2022/03/20/WSL安装ArchLinux",
           "metadata": {
             "permalink": "/blog/2022/03/20/WSL安装ArchLinux",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2022-03-20-WSL安装ArchLinux.md",
             "source": "@site/blog\\2022-03-20-WSL安装ArchLinux.md",
             "title": "WSL安装ArchLinux总结",
             "description": "不要简单抄袭别人的博客而不加思考。",
@@ -508,6 +545,9 @@
     "default": null
   },
   "docusaurus-theme-classic": {
+    "default": null
+  },
+  "docusaurus-theme-search-algolia": {
     "default": null
   }
 }

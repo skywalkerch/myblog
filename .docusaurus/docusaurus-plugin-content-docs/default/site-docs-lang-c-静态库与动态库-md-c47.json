@@ -6,18 +6,17 @@
   "source": "@site/docs\\Lang\\C++\\静态库与动态库.md",
   "sourceDirName": "Lang/C++",
   "slug": "/Lang/C++/静态库与动态库",
-  "permalink": "/myblog/docs/Lang/C++/静态库与动态库",
-  "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Lang/C++/静态库与动态库.md",
+  "permalink": "/docs/Lang/C++/静态库与动态库",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "make与automake",
-    "permalink": "/myblog/docs/Lang/C++/make与automake"
+    "permalink": "/docs/Lang/C++/make与automake"
   },
   "next": {
     "title": "intro",
-    "permalink": "/myblog/docs/Lang/intro"
+    "permalink": "/docs/Lang/intro"
   }
 }

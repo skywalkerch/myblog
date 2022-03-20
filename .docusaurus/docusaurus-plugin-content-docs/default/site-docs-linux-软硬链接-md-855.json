@@ -6,8 +6,7 @@
   "source": "@site/docs\\Linux\\软硬链接.md",
   "sourceDirName": "Linux",
   "slug": "/Linux/软硬链接",
-  "permalink": "/myblog/docs/Linux/软硬链接",
-  "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Linux/软硬链接.md",
+  "permalink": "/docs/Linux/软硬链接",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -16,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "wsl中docker换源",
-    "permalink": "/myblog/docs/Linux/wsl中docker换源"
+    "permalink": "/docs/Linux/wsl中docker换源"
   },
   "next": {
     "title": "机器学习",
-    "permalink": "/myblog/docs/Machine-Learning/intro"
+    "permalink": "/docs/Machine-Learning/intro"
   }
 }

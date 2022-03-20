@@ -11,7 +11,7 @@
       {
         "type": "link",
         "label": "intro",
-        "href": "/myblog/docs/intro",
+        "href": "/docs/intro",
         "docId": "intro"
       },
       {
@@ -23,19 +23,19 @@
           {
             "type": "link",
             "label": "五个英语学习的技巧",
-            "href": "/myblog/docs/CET6/五个英语学习技巧",
+            "href": "/docs/CET6/五个英语学习技巧",
             "docId": "CET6/五个英语学习技巧"
           },
           {
             "type": "link",
             "label": "六级必会的584个词",
-            "href": "/myblog/docs/CET6/六级必会的584个词",
+            "href": "/docs/CET6/六级必会的584个词",
             "docId": "CET6/六级必会的584个词"
           },
           {
             "type": "link",
             "label": "关于book的表达",
-            "href": "/myblog/docs/CET6/关于book的表达",
+            "href": "/docs/CET6/关于book的表达",
             "docId": "CET6/关于book的表达"
           }
         ]
@@ -55,19 +55,19 @@
               {
                 "type": "link",
                 "label": "const与指针",
-                "href": "/myblog/docs/Lang/C++/const与指针",
+                "href": "/docs/Lang/C++/const与指针",
                 "docId": "Lang/C++/const与指针"
               },
               {
                 "type": "link",
                 "label": "make与automake",
-                "href": "/myblog/docs/Lang/C++/make与automake",
+                "href": "/docs/Lang/C++/make与automake",
                 "docId": "Lang/C++/make与automake"
               },
               {
                 "type": "link",
                 "label": "静态库与动态库",
-                "href": "/myblog/docs/Lang/C++/静态库与动态库",
+                "href": "/docs/Lang/C++/静态库与动态库",
                 "docId": "Lang/C++/静态库与动态库"
               }
             ]
@@ -75,7 +75,7 @@
           {
             "type": "link",
             "label": "intro",
-            "href": "/myblog/docs/Lang/intro",
+            "href": "/docs/Lang/intro",
             "docId": "Lang/intro"
           }
         ]
@@ -95,7 +95,7 @@
               {
                 "type": "link",
                 "label": "进程管理",
-                "href": "/myblog/docs/Linux/Linux系统编程/进程管理",
+                "href": "/docs/Linux/Linux系统编程/进程管理",
                 "docId": "Linux/Linux系统编程/进程管理"
               }
             ]
@@ -103,19 +103,19 @@
           {
             "type": "link",
             "label": "intro",
-            "href": "/myblog/docs/Linux/intro",
+            "href": "/docs/Linux/intro",
             "docId": "Linux/intro"
           },
           {
             "type": "link",
             "label": "wsl中docker换源",
-            "href": "/myblog/docs/Linux/wsl中docker换源",
+            "href": "/docs/Linux/wsl中docker换源",
             "docId": "Linux/wsl中docker换源"
           },
           {
             "type": "link",
             "label": "软硬链接",
-            "href": "/myblog/docs/Linux/软硬链接",
+            "href": "/docs/Linux/软硬链接",
             "docId": "Linux/软硬链接"
           }
         ]
@@ -129,7 +129,7 @@
           {
             "type": "link",
             "label": "机器学习",
-            "href": "/myblog/docs/Machine-Learning/intro",
+            "href": "/docs/Machine-Learning/intro",
             "docId": "Machine-Learning/intro"
           }
         ]

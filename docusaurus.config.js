@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '赣南脐橙的小破站',
   tagline: '致力于成为一个合格的赣南脐橙',
-  url: '',
+  url: 'https://myblog.skywalkerch.cn',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Skywalkerch', // Usually your GitHub org/user name.
-  projectName: 'myblog', // Usually your repo name.
+  //organizationName: 'Skywalkerch', // Usually your GitHub org/user name.
+  //projectName: 'myblog', // Usually your repo name.
 
   presets: [
     [
@@ -24,12 +24,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          //editUrl: 'https://github.com/skywalkerch/myblog/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          //editUrl: 'https://github.com/skywalkerch/myblog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -41,6 +41,29 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'D8GSM3SDUV',
+
+        // Public API key: it is safe to commit it
+        apiKey: '3b2768ccb2f62f0a5e199df1e46270e0',
+
+        indexName: 'blog_query_suggestions',
+
+        // Optional: see doc section below
+        contextualSearch: true,
+
+        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+        //externalUrlRegex: 'external\\.com|domain\\.com',
+
+        // Optional: Algolia search parameters
+        searchParameters: {},
+
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'search',
+
+        //... other Algolia params
+      },
       navbar: {
         title: '赣南脐橙的小破站',
         logo: {
@@ -59,7 +82,7 @@ const config = {
             position: 'left'
           },
           {
-            href: 'https://github.com/skywalkerch/myblog',
+            href: 'https://github.com/skywalkerch/',
             label: 'GitHub',
             position: 'right',
           },

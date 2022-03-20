@@ -6,8 +6,7 @@
   "source": "@site/docs\\Linux\\Linux系统编程\\进程管理.md",
   "sourceDirName": "Linux/Linux系统编程",
   "slug": "/Linux/Linux系统编程/进程管理",
-  "permalink": "/myblog/docs/Linux/Linux系统编程/进程管理",
-  "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Linux/Linux系统编程/进程管理.md",
+  "permalink": "/docs/Linux/Linux系统编程/进程管理",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -16,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "intro",
-    "permalink": "/myblog/docs/Lang/intro"
+    "permalink": "/docs/Lang/intro"
   },
   "next": {
     "title": "intro",
-    "permalink": "/myblog/docs/Linux/intro"
+    "permalink": "/docs/Linux/intro"
   }
 }

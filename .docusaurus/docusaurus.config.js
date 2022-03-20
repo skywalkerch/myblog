@@ -7,7 +7,7 @@ export default {
   "title": "赣南脐橙的小破站",
   "tagline": "致力于成为一个合格的赣南脐橙",
   "url": "https://skywalkerch.github.io",
-  "baseUrl": "/myblog/",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
@@ -18,12 +18,10 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\skywalkerch\\myblog\\sidebars.js",
-          "editUrl": "https://github.com/skywalkerch/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "C:\\Users\\skywalkerch\\myblog\\sidebars.js"
         },
         "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "showReadingTime": true
         },
         "theme": {
           "customCss": "C:\\Users\\skywalkerch\\myblog\\src\\css\\custom.css"
@@ -32,6 +30,14 @@ export default {
     ]
   ],
   "themeConfig": {
+    "algolia": {
+      "appId": "D8GSM3SDUV",
+      "apiKey": "3b2768ccb2f62f0a5e199df1e46270e0",
+      "indexName": "blog_query_suggestions",
+      "contextualSearch": true,
+      "searchParameters": {},
+      "searchPagePath": "search"
+    },
     "navbar": {
       "title": "赣南脐橙的小破站",
       "logo": {
@@ -51,7 +57,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/skywalkerch/myblog",
+          "href": "https://github.com/skywalkerch/",
           "label": "GitHub",
           "position": "right"
         },

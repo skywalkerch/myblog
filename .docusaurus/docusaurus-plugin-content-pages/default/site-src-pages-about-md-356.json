@@ -1,6 +1,6 @@
 {
   "type": "mdx",
-  "permalink": "/myblog/about",
+  "permalink": "/about",
   "source": "@site/src/pages/about.md",
   "title": "关于",
   "description": "序言",
