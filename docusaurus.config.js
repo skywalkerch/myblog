@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  //organizationName: 'Skywalkerch', // Usually your GitHub org/user name.
-  //projectName: 'myblog', // Usually your repo name.
+  organizationName: 'Skywalkerch', // Usually your GitHub org/user name.
+  projectName: 'myblog', // Usually your repo name.
 
   presets: [
     [
@@ -24,12 +24,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          //editUrl: 'https://github.com/skywalkerch/myblog/',
+          editUrl: 'https://github.com/skywalkerch/myblog/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          //editUrl: 'https://github.com/skywalkerch/myblog/',
+          editUrl: 'https://github.com/skywalkerch/myblog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
