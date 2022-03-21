@@ -13,7 +13,7 @@
   "frontMatter": {
     "title": "进程管理"
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "Sidebar",
   "previous": {
     "title": "intro",
     "permalink": "/docs/Lang/intro"

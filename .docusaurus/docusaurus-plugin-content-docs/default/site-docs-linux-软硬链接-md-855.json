@@ -13,7 +13,7 @@
   "frontMatter": {
     "title": "软硬链接"
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "Sidebar",
   "previous": {
     "title": "wsl中docker换源",
     "permalink": "/docs/Linux/wsl中docker换源"

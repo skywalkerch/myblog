@@ -13,7 +13,7 @@
   "frontMatter": {
     "title": "五个英语学习的技巧"
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "Sidebar",
   "previous": {
     "title": "intro",
     "permalink": "/docs/intro"

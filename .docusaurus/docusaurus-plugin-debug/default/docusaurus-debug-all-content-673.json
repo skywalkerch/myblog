@@ -33,7 +33,7 @@
               "frontMatter": {
                 "title": "五个英语学习的技巧"
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "Sidebar",
               "previous": {
                 "title": "intro",
                 "permalink": "/docs/intro"
@@ -56,7 +56,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "Sidebar",
               "previous": {
                 "title": "五个英语学习的技巧",
                 "permalink": "/docs/CET6/五个英语学习技巧"
@@ -81,7 +81,7 @@
               "frontMatter": {
                 "title": "关于book的表达"
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "Sidebar",
               "previous": {
                 "title": "六级必会的584个词",
                 "permalink": "/docs/CET6/六级必会的584个词"
@@ -107,7 +107,7 @@
               "frontMatter": {
                 "sidebar_position": 1
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "Sidebar",
               "next": {
                 "title": "五个英语学习的技巧",
                 "permalink": "/docs/CET6/五个英语学习技巧"
@@ -128,7 +128,7 @@
               "frontMatter": {
                 "title": "const与指针"
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "Sidebar",
               "previous": {
                 "title": "关于book的表达",
                 "permalink": "/docs/CET6/关于book的表达"
@@ -153,7 +153,7 @@
               "frontMatter": {
                 "title": "make与automake"
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "Sidebar",
               "previous": {
                 "title": "const与指针",
                 "permalink": "/docs/Lang/C++/const与指针"
@@ -176,7 +176,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "Sidebar",
               "previous": {
                 "title": "make与automake",
                 "permalink": "/docs/Lang/C++/make与automake"
@@ -199,7 +199,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "Sidebar",
               "previous": {
                 "title": "静态库与动态库",
                 "permalink": "/docs/Lang/C++/静态库与动态库"
@@ -222,7 +222,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "Sidebar",
               "previous": {
                 "title": "进程管理",
                 "permalink": "/docs/Linux/Linux系统编程/进程管理"
@@ -247,7 +247,7 @@
               "frontMatter": {
                 "title": "进程管理"
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "Sidebar",
               "previous": {
                 "title": "intro",
                 "permalink": "/docs/Lang/intro"
@@ -272,7 +272,7 @@
               "frontMatter": {
                 "title": "wsl中docker换源"
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "Sidebar",
               "previous": {
                 "title": "intro",
                 "permalink": "/docs/Linux/intro"
@@ -297,7 +297,7 @@
               "frontMatter": {
                 "title": "软硬链接"
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "Sidebar",
               "previous": {
                 "title": "wsl中docker换源",
                 "permalink": "/docs/Linux/wsl中docker换源"
@@ -320,7 +320,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
+              "sidebar": "Sidebar",
               "previous": {
                 "title": "软硬链接",
                 "permalink": "/docs/Linux/软硬链接"
@@ -328,7 +328,7 @@
             }
           ],
           "sidebars": {
-            "tutorialSidebar": [
+            "Sidebar": [
               {
                 "type": "doc",
                 "id": "intro"

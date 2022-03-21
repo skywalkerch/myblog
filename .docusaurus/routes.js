@@ -70,85 +70,85 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','3fc'),
+    component: ComponentCreator('/docs','1c6'),
     routes: [
       {
         path: '/docs/CET6/五个英语学习技巧',
-        component: ComponentCreator('/docs/CET6/五个英语学习技巧','0b4'),
+        component: ComponentCreator('/docs/CET6/五个英语学习技巧','e56'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "Sidebar"
       },
       {
         path: '/docs/CET6/六级必会的584个词',
-        component: ComponentCreator('/docs/CET6/六级必会的584个词','705'),
+        component: ComponentCreator('/docs/CET6/六级必会的584个词','0dc'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "Sidebar"
       },
       {
         path: '/docs/CET6/关于book的表达',
-        component: ComponentCreator('/docs/CET6/关于book的表达','cc3'),
+        component: ComponentCreator('/docs/CET6/关于book的表达','8f4'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "Sidebar"
       },
       {
         path: '/docs/intro',
-        component: ComponentCreator('/docs/intro','aed'),
+        component: ComponentCreator('/docs/intro','c49'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "Sidebar"
       },
       {
         path: '/docs/Lang/C++/const与指针',
-        component: ComponentCreator('/docs/Lang/C++/const与指针','7b6'),
+        component: ComponentCreator('/docs/Lang/C++/const与指针','ee7'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "Sidebar"
       },
       {
         path: '/docs/Lang/C++/make与automake',
-        component: ComponentCreator('/docs/Lang/C++/make与automake','929'),
+        component: ComponentCreator('/docs/Lang/C++/make与automake','e8b'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "Sidebar"
       },
       {
         path: '/docs/Lang/C++/静态库与动态库',
-        component: ComponentCreator('/docs/Lang/C++/静态库与动态库','cdd'),
+        component: ComponentCreator('/docs/Lang/C++/静态库与动态库','8b1'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "Sidebar"
       },
       {
         path: '/docs/Lang/intro',
-        component: ComponentCreator('/docs/Lang/intro','99e'),
+        component: ComponentCreator('/docs/Lang/intro','1f4'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "Sidebar"
       },
       {
         path: '/docs/Linux/intro',
-        component: ComponentCreator('/docs/Linux/intro','c79'),
+        component: ComponentCreator('/docs/Linux/intro','294'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "Sidebar"
       },
       {
         path: '/docs/Linux/Linux系统编程/进程管理',
-        component: ComponentCreator('/docs/Linux/Linux系统编程/进程管理','430'),
+        component: ComponentCreator('/docs/Linux/Linux系统编程/进程管理','47b'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "Sidebar"
       },
       {
         path: '/docs/Linux/wsl中docker换源',
-        component: ComponentCreator('/docs/Linux/wsl中docker换源','12c'),
+        component: ComponentCreator('/docs/Linux/wsl中docker换源','c18'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "Sidebar"
       },
       {
         path: '/docs/Linux/软硬链接',
-        component: ComponentCreator('/docs/Linux/软硬链接','adf'),
+        component: ComponentCreator('/docs/Linux/软硬链接','94c'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "Sidebar"
       },
       {
         path: '/docs/Machine-Learning/intro',
-        component: ComponentCreator('/docs/Machine-Learning/intro','b8b'),
+        component: ComponentCreator('/docs/Machine-Learning/intro','019'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "Sidebar"
       }
     ]
   },

@@ -13,7 +13,7 @@
   "frontMatter": {
     "title": "make与automake"
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "Sidebar",
   "previous": {
     "title": "const与指针",
     "permalink": "/docs/Lang/C++/const与指针"

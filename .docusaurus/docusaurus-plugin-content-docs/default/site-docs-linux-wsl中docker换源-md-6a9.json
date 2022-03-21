@@ -13,7 +13,7 @@
   "frontMatter": {
     "title": "wsl中docker换源"
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "Sidebar",
   "previous": {
     "title": "intro",
     "permalink": "/docs/Linux/intro"
