@@ -40,7 +40,7 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about','383'),
+    component: ComponentCreator('/about','408'),
     exact: true
   },
   {

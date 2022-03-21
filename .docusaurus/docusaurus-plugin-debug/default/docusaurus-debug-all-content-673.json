@@ -536,7 +536,7 @@
       {
         "type": "mdx",
         "permalink": "/about",
-        "source": "@site/src/pages/about.md",
+        "source": "@site/src/pages/about.mdx",
         "title": "关于",
         "description": "序言",
         "frontMatter": {}
