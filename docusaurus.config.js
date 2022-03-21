@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '赣南脐橙的小破站',
-  tagline: '致力于成为一个合格的赣南脐橙',
+  title: '橙子的小破站',
+  tagline: '致力于成为一个合格的小橙子',
   url: 'https://myblog.skywalkerch.cn',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -65,7 +65,7 @@ const config = {
         //... other Algolia params
       },
       navbar: {
-        title: '赣南脐橙的小破站',
+        title: '橙子的小破站',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -123,7 +123,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} 赣南脐橙的小破站, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} \n 橙子的小破站`,
       },
       prism: {
         theme: lightCodeTheme,
