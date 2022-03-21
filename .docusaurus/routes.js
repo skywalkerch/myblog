@@ -64,6 +64,11 @@ export default [
     exact: true
   },
   {
+    path: '/day',
+    component: ComponentCreator('/day','c6e'),
+    exact: true
+  },
+  {
     path: '/search',
     component: ComponentCreator('/search','79a'),
     exact: true

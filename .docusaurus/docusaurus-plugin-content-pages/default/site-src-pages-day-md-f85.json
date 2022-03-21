@@ -1,0 +1,8 @@
+{
+  "type": "mdx",
+  "permalink": "/day",
+  "source": "@site/src/pages/day.md",
+  "title": "每日计划",
+  "description": "2022-03-21",
+  "frontMatter": {}
+}
