@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Lang/intro",
+  "id": "Lang/intro",
+  "title": "intro",
+  "description": "",
+  "source": "@site/docs/Lang/intro.md",
+  "sourceDirName": "Lang",
+  "slug": "/Lang/intro",
+  "permalink": "/docs/Lang/intro",
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Lang/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "静态库与动态库",
+    "permalink": "/docs/Lang/C++/静态库与动态库"
+  },
+  "next": {
+    "title": "进程管理",
+    "permalink": "/docs/Linux/Linux系统编程/进程管理"
+  }
+}

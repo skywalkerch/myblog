@@ -1,0 +1,70 @@
+{
+  "blogPosts": [
+    {
+      "id": "/2022/03/20/clion编译代码中文乱码解决方案",
+      "metadata": {
+        "permalink": "/blog/2022/03/20/clion编译代码中文乱码解决方案",
+        "editUrl": "https://github.com/skywalkerch/myblog/blob/main/blog/2022-03-20-clion编译代码中文乱码解决方案.md",
+        "source": "@site/blog\\2022-03-20-clion编译代码中文乱码解决方案.md",
+        "title": "Clion编译运行时中文乱码解决方案",
+        "description": "此方案仅在 clion 的编译工具链为 mingw 的环境下测试过！",
+        "date": "2022-03-20T00:00:00.000Z",
+        "formattedDate": "March 20, 2022",
+        "tags": [],
+        "readingTime": 1.1,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "Orange.Skywalkerch",
+            "title": "the author of this website",
+            "url": "https://github.com/skywalkerch",
+            "imageURL": "https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201032154362.jpg",
+            "key": "skywalkerch"
+          }
+        ],
+        "frontMatter": {
+          "title": "Clion编译运行时中文乱码解决方案",
+          "authors": "skywalkerch"
+        },
+        "nextItem": {
+          "title": "WSL安装ArchLinux总结",
+          "permalink": "/blog/2022/03/20/WSL安装ArchLinux"
+        }
+      },
+      "content": "> 此方案仅在 clion 的编译工具链为 mingw 的环境下测试过！\r\n环境不同则需要选择对应的方案\r\n> \r\n\r\n在 windows 系统中需要保证默认编码是**GBK**，即下图\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140053064.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140053064.png)\r\n\r\nclion 的控制台其实是一个伪终端，这个伪终端不支持类似中文这种宽字符，所以官方给出的解决方案是将 clion 的`run.processes.with.pty`(一个注册表功能)关掉\r\n\r\n![https://pic3.zhimg.com/80/v2-fc9e19127aeb42f6bd204c849f8de6de_720w.jpg](https://pic3.zhimg.com/80/v2-fc9e19127aeb42f6bd204c849f8de6de_720w.jpg)\r\n\r\n# **第一步**\r\n\r\n将 clion 的`file Encodings`设置全部设置为**`GBK`**\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140057920.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140057920.png)\r\n\r\n# **第二步**\r\n\r\n在 clion 的程序内按快捷键`CTRL SHIFT ALT /`,然后选择`Registry`\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140059877.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140059877.png)\r\n\r\n将`run.processes.with.pty`的勾选框**取消**勾选\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140059728.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140059728.png)\r\n\r\n# **第三步**\r\n\r\n将项目文件的文件编码转成**GBK**\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140101012.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140101012.png)\r\n\r\n然后 clion 的控制台就能正常输入中文了\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140103818.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140103818.png)\r\n\r\n# **参考文章**\r\n\r\n[知乎原文](https://zhuanlan.zhihu.com/p/106747225)  \r\n[腾讯云投稿](https://cloud.tencent.com/developer/article/1858478)"
+    },
+    {
+      "id": "/2022/03/20/WSL安装ArchLinux",
+      "metadata": {
+        "permalink": "/blog/2022/03/20/WSL安装ArchLinux",
+        "editUrl": "https://github.com/skywalkerch/myblog/blob/main/blog/2022-03-20-WSL安装ArchLinux.md",
+        "source": "@site/blog\\2022-03-20-WSL安装ArchLinux.md",
+        "title": "WSL安装ArchLinux总结",
+        "description": "不要简单抄袭别人的博客而不加思考。",
+        "date": "2022-03-20T00:00:00.000Z",
+        "formattedDate": "March 20, 2022",
+        "tags": [],
+        "readingTime": 4.75,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "Orange.Skywalkerch",
+            "title": "the author of this website",
+            "url": "https://github.com/skywalkerch",
+            "imageURL": "https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201032154362.jpg",
+            "key": "skywalkerch"
+          }
+        ],
+        "frontMatter": {
+          "title": "WSL安装ArchLinux总结",
+          "authors": "skywalkerch"
+        },
+        "prevItem": {
+          "title": "Clion编译运行时中文乱码解决方案",
+          "permalink": "/blog/2022/03/20/clion编译代码中文乱码解决方案"
+        }
+      },
+      "content": "> 不要简单抄袭别人的博客而不加思考。\r\n> \r\n\r\n# 准备环境\r\n\r\n## 环境\r\n\r\n- Windows 10(Build 19041 and higher) or Windows 11.\r\n- hyper-V 和 Linux 子系统模块已经**[启用](https://docs.microsoft.com/en-us/windows/wsl/install-manual)**\r\n- 在`ms store`安装`windows terminal`方便在 wsl 和 powershell 中切换\r\n\r\n# 准备 LxRunOffline\r\n\r\nLxRunOffline 是一个用来管理`Windows Subsystem for Linux`的全功能管理工具 其具有以下这些特点\r\n\r\n- 能够把任何发行版安装在任意目录\r\n- 能够将已经安装好的 Linux 子系统的根目录移动到其他目录.\r\n- 可以复制一个已经安装好的子系统\r\n- 注册现有的安装目录。 这使你可以安装到 U 盘并在不同的计算机上使用它。\r\n- 在指定的安装中运行任意 Linux 命令。\r\n- 配置默认用户，环境变量和各种标志。\r\n- 将配置导出到 XML 文件并从文件导入。\r\n- 将安装好的 Linux 子系统导出到 Tar 文件。\r\n\r\n## **[LxRunOffline 主页链接](https://github.com/DDoSolitary/LxRunOffline)**\r\n\r\n## 下载好了`LxRunOffline`之后\r\n\r\n- [**必选**]把**解压目录**加到系统的环境变量中，这样才能在`powershell`里面调用。\r\n- [**可选**]找到解压目录，用**管理员权限**打开 powershell 并 cd 到这个目录，输入\r\n\r\n```powershell\r\nregsvr32 LxRunOfflineShellExt.dll\r\n```\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031008388.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031008388.png)\r\n\r\n此操作是把 LxRunOffline 快速启动 wsl 添加到右键菜单，\r\n\r\n**其实没什么大用**\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031011188.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031011188.png)\r\n\r\n# 下载 ArchLinux BootStrap\r\n\r\n这里给的链接是阿里云的\r\n\r\n**[http://mirrors.aliyun.com/archlinux/iso/2022.01.01/iso/](http://mirrors.aliyun.com/archlinux/iso/)**\r\n\r\n因为 ArchLinux 的更新速度一般很快，所以就直接去找最新日期的版本就行\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031002436.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031002436.png)\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031003288.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031003288.png)\r\n\r\n# 创建安装目录\r\n\r\n选择一个你觉得方便管理的目录，该工具会把 wsl 安装在这里 比如我选择了\r\n\r\n```powershell\r\nc:/Users/skywalkerch/software/Wsl/ArchLinux\r\n```\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031018215.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031018215.png)\r\n\r\n> 虽然说把 wsl 安装在这里了，但是这里只有一个虚拟磁盘文件，想要访问子系统的目录还是得在子系统内部输入explore.exe ./\r\n> \r\n\r\n# 开始安装\r\n\r\n- 在 powershell 中用**管理员权限**执行以下命令\r\n\r\n```powershell\r\nLxRunOffline i -n <ArchLinux的命名> -d <wsl的安装路径> -f <ArchLinux.tar.gz下载路径>  -r root.x86_64\r\n```\r\n\r\n- **安装成功之后需要执行转换到 wsl2 命令**\r\n\r\n```powershell\r\nwsl --set-version <ArchLinux的命名> 2\r\n```\r\n\r\n否则会出现\r\n\r\n```powershell\r\nkernel too old报错\r\n```\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201012257048.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201012257048.png)\r\n\r\n现在就可以进入 ArchLinux 子系统内部 进入命令\r\n\r\n- 在**powershell**中输入\r\n\r\n```powershell\r\nwsl -d <ArchLinux的命名>\r\n```\r\n\r\n进去之后需要做一些事\r\n\r\n- 在**ArchLinux**内输入\r\n\r\n```powershell\r\nrm /etc/resolv.conf #删除resolve.conf\r\n```\r\n\r\n> rosolv.conf 是各种操作系统中使用的计算机文件的名称，用于配置系统的域名系统（DNS）解析器。 该文件是通常由网络管理员或管理系统配置任务的应用程序创建的纯文本文件。 resolveconf 程序是 FreeBSD 或其他 UNIX 计算机上的一个这样的程序，该程序管理 resolv.conf 文件。\r\n> \r\n- 接着关闭 ArchLinux 的终端窗口并在**powershell**中输入\r\n\r\n```powershell\r\nwsl --shutdown <ArchLinux的命名`> ##重启ArchLinux\r\nwsl -d <ArchLinux的命名> #再次进入子系统\r\n```\r\n\r\n- 在**ArchLinux**中输入\r\n\r\n```bash\r\nexplorer.exe ./ #弹出网络目录浏览器\r\n```\r\n\r\n找到并修改\r\n\r\n```bash\r\n/etc/pacman.d/mirrorlist\r\n```\r\n\r\n，随便取消一个中国的镜像源注释\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031050603.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031050603.png)\r\n\r\n- 然后更新镜像源并下载一些必要软件包\r\n\r\n```bash\r\npacman -Syyu\r\npacman-key --init\r\npacman-key --populate\r\npacman -S base base-devel vim git wget nano sudo glibc\r\n```\r\n\r\n- 创建新用户\r\n\r\n```bash\r\nuseradd -m -G wheel -s /bin/bash <用户名>\r\npasswd <用户名>\r\nvisudo ##修改用户以及用户组的sudo权限\r\nid -u <用户名> #获取账户的id号\r\n```\r\n\r\n配置用户 sudo 权限和免密操作\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031333345.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031333345.png)\r\n\r\n- wsl 设置默认登录用户\r\n\r\n```powershell\r\nlxrunoffline su -n <你的arch名字> -v <账户id>\r\n```\r\n\r\n# 开始 ArchLinux 的折腾之旅\r\n\r\n```powershell\r\n#接下来就可以在ArchLinux中安装这些工具软件了\r\nyay\r\nvimplus\r\ndoom-emacs\r\noh-my-zsh+powerline10k\r\njdk\r\n```"
+    }
+  ]
+}

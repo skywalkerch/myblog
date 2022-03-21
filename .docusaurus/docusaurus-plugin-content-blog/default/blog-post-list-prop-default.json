@@ -1,0 +1,13 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Clion编译运行时中文乱码解决方案",
+      "permalink": "/blog/2022/03/20/clion编译代码中文乱码解决方案"
+    },
+    {
+      "title": "WSL安装ArchLinux总结",
+      "permalink": "/blog/2022/03/20/WSL安装ArchLinux"
+    }
+  ]
+}

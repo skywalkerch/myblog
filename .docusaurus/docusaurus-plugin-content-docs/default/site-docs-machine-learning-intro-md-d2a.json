@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Machine-Learning/intro",
+  "id": "Machine-Learning/intro",
+  "title": "机器学习",
+  "description": "",
+  "source": "@site/docs/Machine-Learning/intro.md",
+  "sourceDirName": "Machine-Learning",
+  "slug": "/Machine-Learning/intro",
+  "permalink": "/docs/Machine-Learning/intro",
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Machine-Learning/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "软硬链接",
+    "permalink": "/docs/Linux/软硬链接"
+  }
+}

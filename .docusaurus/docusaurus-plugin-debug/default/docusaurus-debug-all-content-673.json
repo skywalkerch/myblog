@@ -1,0 +1,560 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
+          "versionEditUrl": "https://github.com/skywalkerch/myblog/blob/main/docs",
+          "versionEditUrlLocalized": "https://github.com/skywalkerch/myblog/blob/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\skywalkerch\\myblog\\sidebars.js",
+          "contentPath": "C:\\Users\\skywalkerch\\myblog\\docs",
+          "contentPathLocalized": "C:\\Users\\skywalkerch\\myblog\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "CET6/五个英语学习技巧",
+              "id": "CET6/五个英语学习技巧",
+              "title": "五个英语学习的技巧",
+              "description": "1.学会阅读",
+              "source": "@site/docs\\CET6\\五个英语学习技巧.md",
+              "sourceDirName": "CET6",
+              "slug": "/CET6/五个英语学习技巧",
+              "permalink": "/docs/CET6/五个英语学习技巧",
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/CET6/五个英语学习技巧.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "五个英语学习的技巧"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "intro",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "六级必会的584个词",
+                "permalink": "/docs/CET6/六级必会的584个词"
+              }
+            },
+            {
+              "unversionedId": "CET6/六级必会的584个词",
+              "id": "CET6/六级必会的584个词",
+              "title": "六级必会的584个词",
+              "description": "1. alter v. 改变，改动，变更",
+              "source": "@site/docs\\CET6\\六级必会的584个词.md",
+              "sourceDirName": "CET6",
+              "slug": "/CET6/六级必会的584个词",
+              "permalink": "/docs/CET6/六级必会的584个词",
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/CET6/六级必会的584个词.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "五个英语学习的技巧",
+                "permalink": "/docs/CET6/五个英语学习技巧"
+              },
+              "next": {
+                "title": "关于book的表达",
+                "permalink": "/docs/CET6/关于book的表达"
+              }
+            },
+            {
+              "unversionedId": "CET6/关于book的表达",
+              "id": "CET6/关于book的表达",
+              "title": "关于book的表达",
+              "description": "用功",
+              "source": "@site/docs\\CET6\\关于book的表达.md",
+              "sourceDirName": "CET6",
+              "slug": "/CET6/关于book的表达",
+              "permalink": "/docs/CET6/关于book的表达",
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/CET6/关于book的表达.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "关于book的表达"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "六级必会的584个词",
+                "permalink": "/docs/CET6/六级必会的584个词"
+              },
+              "next": {
+                "title": "const与指针",
+                "permalink": "/docs/Lang/C++/const与指针"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "intro",
+              "description": "此页面暂时留着不写",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "五个英语学习的技巧",
+                "permalink": "/docs/CET6/五个英语学习技巧"
+              }
+            },
+            {
+              "unversionedId": "Lang/C++/const与指针",
+              "id": "Lang/C++/const与指针",
+              "title": "const与指针",
+              "description": "- const 修饰指针",
+              "source": "@site/docs\\Lang\\C++\\const与指针.md",
+              "sourceDirName": "Lang/C++",
+              "slug": "/Lang/C++/const与指针",
+              "permalink": "/docs/Lang/C++/const与指针",
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Lang/C++/const与指针.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "const与指针"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "关于book的表达",
+                "permalink": "/docs/CET6/关于book的表达"
+              },
+              "next": {
+                "title": "make与automake",
+                "permalink": "/docs/Lang/C++/make与automake"
+              }
+            },
+            {
+              "unversionedId": "Lang/C++/make与automake",
+              "id": "Lang/C++/make与automake",
+              "title": "make与automake",
+              "description": "make工程管理器起到了自动编译的作用，这里的自动是它能自动根据文件时间戳发现那个文件更新过，这样便大大减少了编译工作量",
+              "source": "@site/docs\\Lang\\C++\\make与automake.md",
+              "sourceDirName": "Lang/C++",
+              "slug": "/Lang/C++/make与automake",
+              "permalink": "/docs/Lang/C++/make与automake",
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Lang/C++/make与automake.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "make与automake"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "const与指针",
+                "permalink": "/docs/Lang/C++/const与指针"
+              },
+              "next": {
+                "title": "静态库与动态库",
+                "permalink": "/docs/Lang/C++/静态库与动态库"
+              }
+            },
+            {
+              "unversionedId": "Lang/C++/静态库与动态库",
+              "id": "Lang/C++/静态库与动态库",
+              "title": "静态库与动态库",
+              "description": "一直以来我对C系列语言的系统级编程都没有什么经验，每次安装windows软件都会遇到dll，在Linux下编程时也会遇到libxxx缺失等等问题，一直以来都没有对这方面彻底弄懂。正好可以趁这个寒假的机会多写几篇博客彻底弄懂这些有趣的东西，给自己的编程之旅打下基础。",
+              "source": "@site/docs\\Lang\\C++\\静态库与动态库.md",
+              "sourceDirName": "Lang/C++",
+              "slug": "/Lang/C++/静态库与动态库",
+              "permalink": "/docs/Lang/C++/静态库与动态库",
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Lang/C++/静态库与动态库.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "make与automake",
+                "permalink": "/docs/Lang/C++/make与automake"
+              },
+              "next": {
+                "title": "intro",
+                "permalink": "/docs/Lang/intro"
+              }
+            },
+            {
+              "unversionedId": "Lang/intro",
+              "id": "Lang/intro",
+              "title": "intro",
+              "description": "",
+              "source": "@site/docs/Lang/intro.md",
+              "sourceDirName": "Lang",
+              "slug": "/Lang/intro",
+              "permalink": "/docs/Lang/intro",
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Lang/intro.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "静态库与动态库",
+                "permalink": "/docs/Lang/C++/静态库与动态库"
+              },
+              "next": {
+                "title": "进程管理",
+                "permalink": "/docs/Linux/Linux系统编程/进程管理"
+              }
+            },
+            {
+              "unversionedId": "Linux/intro",
+              "id": "Linux/intro",
+              "title": "intro",
+              "description": "",
+              "source": "@site/docs/Linux/intro.md",
+              "sourceDirName": "Linux",
+              "slug": "/Linux/intro",
+              "permalink": "/docs/Linux/intro",
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Linux/intro.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "进程管理",
+                "permalink": "/docs/Linux/Linux系统编程/进程管理"
+              },
+              "next": {
+                "title": "wsl中docker换源",
+                "permalink": "/docs/Linux/wsl中docker换源"
+              }
+            },
+            {
+              "unversionedId": "Linux/Linux系统编程/进程管理",
+              "id": "Linux/Linux系统编程/进程管理",
+              "title": "进程管理",
+              "description": "狭义：进程就是一段程序的执行过程",
+              "source": "@site/docs\\Linux\\Linux系统编程\\进程管理.md",
+              "sourceDirName": "Linux/Linux系统编程",
+              "slug": "/Linux/Linux系统编程/进程管理",
+              "permalink": "/docs/Linux/Linux系统编程/进程管理",
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Linux/Linux系统编程/进程管理.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "进程管理"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "intro",
+                "permalink": "/docs/Lang/intro"
+              },
+              "next": {
+                "title": "intro",
+                "permalink": "/docs/Linux/intro"
+              }
+            },
+            {
+              "unversionedId": "Linux/wsl中docker换源",
+              "id": "Linux/wsl中docker换源",
+              "title": "wsl中docker换源",
+              "description": "今天本来把 ArchLinux 的镜像写进了 U 盘，准备分一块盘然后装双系统，但是又回想起了之前痛苦的经历，又放弃了这个想法，后来就在 windows10 上装上了基于 wsl2 的 ubuntu20.04，在一番艰难折腾下终于成功撞上了 vimplus 和 doom-emacs(别问我为什么要装这两个编辑器，问就是 vim 太难学，准备转 emacs)，",
+              "source": "@site/docs\\Linux\\wsl中docker换源.md",
+              "sourceDirName": "Linux",
+              "slug": "/Linux/wsl中docker换源",
+              "permalink": "/docs/Linux/wsl中docker换源",
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Linux/wsl中docker换源.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "wsl中docker换源"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "intro",
+                "permalink": "/docs/Linux/intro"
+              },
+              "next": {
+                "title": "软硬链接",
+                "permalink": "/docs/Linux/软硬链接"
+              }
+            },
+            {
+              "unversionedId": "Linux/软硬链接",
+              "id": "Linux/软硬链接",
+              "title": "软硬链接",
+              "description": "我们知道任何文件都有文件名与文件内容两个属性，这在Linux操作系统里面被分成两个部分：用户数据(user data)与元数据(mete data)。",
+              "source": "@site/docs\\Linux\\软硬链接.md",
+              "sourceDirName": "Linux",
+              "slug": "/Linux/软硬链接",
+              "permalink": "/docs/Linux/软硬链接",
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Linux/软硬链接.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "软硬链接"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "wsl中docker换源",
+                "permalink": "/docs/Linux/wsl中docker换源"
+              },
+              "next": {
+                "title": "机器学习",
+                "permalink": "/docs/Machine-Learning/intro"
+              }
+            },
+            {
+              "unversionedId": "Machine-Learning/intro",
+              "id": "Machine-Learning/intro",
+              "title": "机器学习",
+              "description": "",
+              "source": "@site/docs/Machine-Learning/intro.md",
+              "sourceDirName": "Machine-Learning",
+              "slug": "/Machine-Learning/intro",
+              "permalink": "/docs/Machine-Learning/intro",
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Machine-Learning/intro.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "软硬链接",
+                "permalink": "/docs/Linux/软硬链接"
+              }
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "CET6",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "CET6/五个英语学习技巧"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "CET6/六级必会的584个词"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "CET6/关于book的表达"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Lang",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "C++",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Lang/C++/const与指针"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Lang/C++/make与automake"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Lang/C++/静态库与动态库"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Lang/intro"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Linux",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Linux系统编程",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Linux/Linux系统编程/进程管理"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Linux/intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Linux/wsl中docker换源"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Linux/软硬链接"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Machine-Learning",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Machine-Learning/intro"
+                  }
+                ]
+              }
+            ]
+          },
+          "mainDocId": "intro",
+          "categoryGeneratedIndices": []
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "/2022/03/20/clion编译代码中文乱码解决方案",
+          "metadata": {
+            "permalink": "/blog/2022/03/20/clion编译代码中文乱码解决方案",
+            "editUrl": "https://github.com/skywalkerch/myblog/blob/main/blog/2022-03-20-clion编译代码中文乱码解决方案.md",
+            "source": "@site/blog\\2022-03-20-clion编译代码中文乱码解决方案.md",
+            "title": "Clion编译运行时中文乱码解决方案",
+            "description": "此方案仅在 clion 的编译工具链为 mingw 的环境下测试过！",
+            "date": "2022-03-20T00:00:00.000Z",
+            "formattedDate": "March 20, 2022",
+            "tags": [],
+            "readingTime": 1.1,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Orange.Skywalkerch",
+                "title": "the author of this website",
+                "url": "https://github.com/skywalkerch",
+                "imageURL": "https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201032154362.jpg",
+                "key": "skywalkerch"
+              }
+            ],
+            "frontMatter": {
+              "title": "Clion编译运行时中文乱码解决方案",
+              "authors": "skywalkerch"
+            },
+            "nextItem": {
+              "title": "WSL安装ArchLinux总结",
+              "permalink": "/blog/2022/03/20/WSL安装ArchLinux"
+            }
+          },
+          "content": "> 此方案仅在 clion 的编译工具链为 mingw 的环境下测试过！\r\n环境不同则需要选择对应的方案\r\n> \r\n\r\n在 windows 系统中需要保证默认编码是**GBK**，即下图\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140053064.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140053064.png)\r\n\r\nclion 的控制台其实是一个伪终端，这个伪终端不支持类似中文这种宽字符，所以官方给出的解决方案是将 clion 的`run.processes.with.pty`(一个注册表功能)关掉\r\n\r\n![https://pic3.zhimg.com/80/v2-fc9e19127aeb42f6bd204c849f8de6de_720w.jpg](https://pic3.zhimg.com/80/v2-fc9e19127aeb42f6bd204c849f8de6de_720w.jpg)\r\n\r\n# **第一步**\r\n\r\n将 clion 的`file Encodings`设置全部设置为**`GBK`**\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140057920.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140057920.png)\r\n\r\n# **第二步**\r\n\r\n在 clion 的程序内按快捷键`CTRL SHIFT ALT /`,然后选择`Registry`\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140059877.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140059877.png)\r\n\r\n将`run.processes.with.pty`的勾选框**取消**勾选\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140059728.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140059728.png)\r\n\r\n# **第三步**\r\n\r\n将项目文件的文件编码转成**GBK**\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140101012.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140101012.png)\r\n\r\n然后 clion 的控制台就能正常输入中文了\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140103818.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201140103818.png)\r\n\r\n# **参考文章**\r\n\r\n[知乎原文](https://zhuanlan.zhihu.com/p/106747225)  \r\n[腾讯云投稿](https://cloud.tencent.com/developer/article/1858478)"
+        },
+        {
+          "id": "/2022/03/20/WSL安装ArchLinux",
+          "metadata": {
+            "permalink": "/blog/2022/03/20/WSL安装ArchLinux",
+            "editUrl": "https://github.com/skywalkerch/myblog/blob/main/blog/2022-03-20-WSL安装ArchLinux.md",
+            "source": "@site/blog\\2022-03-20-WSL安装ArchLinux.md",
+            "title": "WSL安装ArchLinux总结",
+            "description": "不要简单抄袭别人的博客而不加思考。",
+            "date": "2022-03-20T00:00:00.000Z",
+            "formattedDate": "March 20, 2022",
+            "tags": [],
+            "readingTime": 4.75,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Orange.Skywalkerch",
+                "title": "the author of this website",
+                "url": "https://github.com/skywalkerch",
+                "imageURL": "https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201032154362.jpg",
+                "key": "skywalkerch"
+              }
+            ],
+            "frontMatter": {
+              "title": "WSL安装ArchLinux总结",
+              "authors": "skywalkerch"
+            },
+            "prevItem": {
+              "title": "Clion编译运行时中文乱码解决方案",
+              "permalink": "/blog/2022/03/20/clion编译代码中文乱码解决方案"
+            }
+          },
+          "content": "> 不要简单抄袭别人的博客而不加思考。\r\n> \r\n\r\n# 准备环境\r\n\r\n## 环境\r\n\r\n- Windows 10(Build 19041 and higher) or Windows 11.\r\n- hyper-V 和 Linux 子系统模块已经**[启用](https://docs.microsoft.com/en-us/windows/wsl/install-manual)**\r\n- 在`ms store`安装`windows terminal`方便在 wsl 和 powershell 中切换\r\n\r\n# 准备 LxRunOffline\r\n\r\nLxRunOffline 是一个用来管理`Windows Subsystem for Linux`的全功能管理工具 其具有以下这些特点\r\n\r\n- 能够把任何发行版安装在任意目录\r\n- 能够将已经安装好的 Linux 子系统的根目录移动到其他目录.\r\n- 可以复制一个已经安装好的子系统\r\n- 注册现有的安装目录。 这使你可以安装到 U 盘并在不同的计算机上使用它。\r\n- 在指定的安装中运行任意 Linux 命令。\r\n- 配置默认用户，环境变量和各种标志。\r\n- 将配置导出到 XML 文件并从文件导入。\r\n- 将安装好的 Linux 子系统导出到 Tar 文件。\r\n\r\n## **[LxRunOffline 主页链接](https://github.com/DDoSolitary/LxRunOffline)**\r\n\r\n## 下载好了`LxRunOffline`之后\r\n\r\n- [**必选**]把**解压目录**加到系统的环境变量中，这样才能在`powershell`里面调用。\r\n- [**可选**]找到解压目录，用**管理员权限**打开 powershell 并 cd 到这个目录，输入\r\n\r\n```powershell\r\nregsvr32 LxRunOfflineShellExt.dll\r\n```\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031008388.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031008388.png)\r\n\r\n此操作是把 LxRunOffline 快速启动 wsl 添加到右键菜单，\r\n\r\n**其实没什么大用**\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031011188.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031011188.png)\r\n\r\n# 下载 ArchLinux BootStrap\r\n\r\n这里给的链接是阿里云的\r\n\r\n**[http://mirrors.aliyun.com/archlinux/iso/2022.01.01/iso/](http://mirrors.aliyun.com/archlinux/iso/)**\r\n\r\n因为 ArchLinux 的更新速度一般很快，所以就直接去找最新日期的版本就行\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031002436.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031002436.png)\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031003288.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031003288.png)\r\n\r\n# 创建安装目录\r\n\r\n选择一个你觉得方便管理的目录，该工具会把 wsl 安装在这里 比如我选择了\r\n\r\n```powershell\r\nc:/Users/skywalkerch/software/Wsl/ArchLinux\r\n```\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031018215.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031018215.png)\r\n\r\n> 虽然说把 wsl 安装在这里了，但是这里只有一个虚拟磁盘文件，想要访问子系统的目录还是得在子系统内部输入explore.exe ./\r\n> \r\n\r\n# 开始安装\r\n\r\n- 在 powershell 中用**管理员权限**执行以下命令\r\n\r\n```powershell\r\nLxRunOffline i -n <ArchLinux的命名> -d <wsl的安装路径> -f <ArchLinux.tar.gz下载路径>  -r root.x86_64\r\n```\r\n\r\n- **安装成功之后需要执行转换到 wsl2 命令**\r\n\r\n```powershell\r\nwsl --set-version <ArchLinux的命名> 2\r\n```\r\n\r\n否则会出现\r\n\r\n```powershell\r\nkernel too old报错\r\n```\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201012257048.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201012257048.png)\r\n\r\n现在就可以进入 ArchLinux 子系统内部 进入命令\r\n\r\n- 在**powershell**中输入\r\n\r\n```powershell\r\nwsl -d <ArchLinux的命名>\r\n```\r\n\r\n进去之后需要做一些事\r\n\r\n- 在**ArchLinux**内输入\r\n\r\n```powershell\r\nrm /etc/resolv.conf #删除resolve.conf\r\n```\r\n\r\n> rosolv.conf 是各种操作系统中使用的计算机文件的名称，用于配置系统的域名系统（DNS）解析器。 该文件是通常由网络管理员或管理系统配置任务的应用程序创建的纯文本文件。 resolveconf 程序是 FreeBSD 或其他 UNIX 计算机上的一个这样的程序，该程序管理 resolv.conf 文件。\r\n> \r\n- 接着关闭 ArchLinux 的终端窗口并在**powershell**中输入\r\n\r\n```powershell\r\nwsl --shutdown <ArchLinux的命名`> ##重启ArchLinux\r\nwsl -d <ArchLinux的命名> #再次进入子系统\r\n```\r\n\r\n- 在**ArchLinux**中输入\r\n\r\n```bash\r\nexplorer.exe ./ #弹出网络目录浏览器\r\n```\r\n\r\n找到并修改\r\n\r\n```bash\r\n/etc/pacman.d/mirrorlist\r\n```\r\n\r\n，随便取消一个中国的镜像源注释\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031050603.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031050603.png)\r\n\r\n- 然后更新镜像源并下载一些必要软件包\r\n\r\n```bash\r\npacman -Syyu\r\npacman-key --init\r\npacman-key --populate\r\npacman -S base base-devel vim git wget nano sudo glibc\r\n```\r\n\r\n- 创建新用户\r\n\r\n```bash\r\nuseradd -m -G wheel -s /bin/bash <用户名>\r\npasswd <用户名>\r\nvisudo ##修改用户以及用户组的sudo权限\r\nid -u <用户名> #获取账户的id号\r\n```\r\n\r\n配置用户 sudo 权限和免密操作\r\n\r\n![https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031333345.png](https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201031333345.png)\r\n\r\n- wsl 设置默认登录用户\r\n\r\n```powershell\r\nlxrunoffline su -n <你的arch名字> -v <账户id>\r\n```\r\n\r\n# 开始 ArchLinux 的折腾之旅\r\n\r\n```powershell\r\n#接下来就可以在ArchLinux中安装这些工具软件了\r\nyay\r\nvimplus\r\ndoom-emacs\r\noh-my-zsh+powerline10k\r\njdk\r\n```"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "/2022/03/20/clion编译代码中文乱码解决方案",
+            "/2022/03/20/WSL安装ArchLinux"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 2,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {},
+      "blogTagsListPath": null
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/about",
+        "source": "@site/src/pages/about.md",
+        "title": "关于",
+        "description": "序言",
+        "frontMatter": {}
+      },
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.tsx"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  },
+  "docusaurus-theme-search-algolia": {
+    "default": null
+  }
+}

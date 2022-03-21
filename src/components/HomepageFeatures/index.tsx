@@ -19,12 +19,12 @@ const FeatureList: FeatureItem[] = [
         </div>
     ),
     title: 'Machine Learning',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/ai.svg').default,
     
   },
   {
     title: 'Linux',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/linux.svg').default,
     description: (
        <div className={styles.buttons}>
           <Link
@@ -37,7 +37,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Programing Languages',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/c.svg').default,
     description: (
       <div className={styles.buttons}>
           <Link

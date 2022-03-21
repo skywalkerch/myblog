@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Linux/intro",
+  "id": "Linux/intro",
+  "title": "intro",
+  "description": "",
+  "source": "@site/docs/Linux/intro.md",
+  "sourceDirName": "Linux",
+  "slug": "/Linux/intro",
+  "permalink": "/docs/Linux/intro",
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Linux/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "进程管理",
+    "permalink": "/docs/Linux/Linux系统编程/进程管理"
+  },
+  "next": {
+    "title": "wsl中docker换源",
+    "permalink": "/docs/Linux/wsl中docker换源"
+  }
+}
