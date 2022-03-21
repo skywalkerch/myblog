@@ -87,6 +87,11 @@ const config = {
             position: 'right',
           },
           {
+            to: '/day',
+            label: '每日计划',
+            position: 'right'
+          },
+          {
             to: '/about',
             label: '关于',
             position: 'right'
