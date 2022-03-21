@@ -19,6 +19,12 @@ export default {
       {
         "docs": {
           "sidebarPath": "C:\\Users\\skywalkerch\\myblog\\sidebars.js",
+          "remarkPlugins": [
+            null
+          ],
+          "rehypePlugins": [
+            null
+          ],
           "editUrl": "https://github.com/skywalkerch/myblog/blob/main"
         },
         "blog": {
@@ -30,6 +36,14 @@ export default {
         }
       }
     ]
+  ],
+  "stylesheets": [
+    {
+      "href": "https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css",
+      "type": "text/css",
+      "integrity": "sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM",
+      "crossorigin": "anonymous"
+    }
   ],
   "themeConfig": {
     "algolia": {

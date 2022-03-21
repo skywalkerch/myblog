@@ -1,0 +1,25 @@
+{
+  "unversionedId": "mathmodel/第一章 线性规划",
+  "id": "mathmodel/第一章 线性规划",
+  "title": "线性规划🧩",
+  "description": "import TabItem from '@theme/TabItem';",
+  "source": "@site/docs\\mathmodel\\第一章 线性规划.mdx",
+  "sourceDirName": "mathmodel",
+  "slug": "/mathmodel/第一章 线性规划",
+  "permalink": "/docs/mathmodel/第一章 线性规划",
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/第一章 线性规划.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "线性规划🧩"
+  },
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "机器学习",
+    "permalink": "/docs/Machine-Learning/intro"
+  },
+  "next": {
+    "title": "五个英语学习的技巧",
+    "permalink": "/docs/CET6/五个英语学习技巧"
+  }
+}

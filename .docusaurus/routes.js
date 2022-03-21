@@ -75,11 +75,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','1c6'),
+    component: ComponentCreator('/docs','f07'),
     routes: [
       {
-        path: '/docs/CET6/五个英语学习技巧',
-        component: ComponentCreator('/docs/CET6/五个英语学习技巧','e56'),
+        path: '/docs/CET6/关于book的表达',
+        component: ComponentCreator('/docs/CET6/关于book的表达','8f4'),
         exact: true,
         'sidebar': "Sidebar"
       },
@@ -90,14 +90,20 @@ export default [
         'sidebar': "Sidebar"
       },
       {
-        path: '/docs/CET6/关于book的表达',
-        component: ComponentCreator('/docs/CET6/关于book的表达','8f4'),
+        path: '/docs/CET6/五个英语学习技巧',
+        component: ComponentCreator('/docs/CET6/五个英语学习技巧','e56'),
         exact: true,
         'sidebar': "Sidebar"
       },
       {
         path: '/docs/intro',
         component: ComponentCreator('/docs/intro','c49'),
+        exact: true,
+        'sidebar': "Sidebar"
+      },
+      {
+        path: '/docs/Lang/C++/静态库与动态库',
+        component: ComponentCreator('/docs/Lang/C++/静态库与动态库','8b1'),
         exact: true,
         'sidebar': "Sidebar"
       },
@@ -114,14 +120,14 @@ export default [
         'sidebar': "Sidebar"
       },
       {
-        path: '/docs/Lang/C++/静态库与动态库',
-        component: ComponentCreator('/docs/Lang/C++/静态库与动态库','8b1'),
+        path: '/docs/Lang/intro',
+        component: ComponentCreator('/docs/Lang/intro','1f4'),
         exact: true,
         'sidebar': "Sidebar"
       },
       {
-        path: '/docs/Lang/intro',
-        component: ComponentCreator('/docs/Lang/intro','1f4'),
+        path: '/docs/Linux/软硬链接',
+        component: ComponentCreator('/docs/Linux/软硬链接','94c'),
         exact: true,
         'sidebar': "Sidebar"
       },
@@ -144,14 +150,14 @@ export default [
         'sidebar': "Sidebar"
       },
       {
-        path: '/docs/Linux/软硬链接',
-        component: ComponentCreator('/docs/Linux/软硬链接','94c'),
+        path: '/docs/Machine-Learning/intro',
+        component: ComponentCreator('/docs/Machine-Learning/intro','019'),
         exact: true,
         'sidebar': "Sidebar"
       },
       {
-        path: '/docs/Machine-Learning/intro',
-        component: ComponentCreator('/docs/Machine-Learning/intro','019'),
+        path: '/docs/mathmodel/linear_programing',
+        component: ComponentCreator('/docs/mathmodel/linear_programing','170'),
         exact: true,
         'sidebar': "Sidebar"
       }

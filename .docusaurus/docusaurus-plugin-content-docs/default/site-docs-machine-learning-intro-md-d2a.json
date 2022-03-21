@@ -13,7 +13,11 @@
   "frontMatter": {},
   "sidebar": "Sidebar",
   "previous": {
-    "title": "软硬链接",
-    "permalink": "/docs/Linux/软硬链接"
+    "title": "intro",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "线性规划🧩",
+    "permalink": "/docs/mathmodel/linear_programing"
   }
 }
