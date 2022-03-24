@@ -125,7 +125,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2022 \n 橙子的小破站"
+      "copyright": "Copyright © 2022 橙子的小破站 鄂ICP备2020019116"
     },
     "prism": {
       "theme": {

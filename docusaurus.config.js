@@ -1,11 +1,12 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
-
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const math = require('remark-math');
 const katex = require('rehype-katex');
+
 /** @type {import('@docusaurus/types').Config} */
+
 const config = {
   title: '橙子的小破站',
   tagline: '致力于成为一个合格的小橙子',
@@ -137,7 +138,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} \n 橙子的小破站`,
+        copyright: `Copyright © ${new Date().getFullYear()} 橙子的小破站 鄂ICP备2020019116`,
       },
       prism: {
         theme: lightCodeTheme,
