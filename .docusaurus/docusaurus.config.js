@@ -129,6 +129,10 @@ export default {
     },
     "metadata": [
       {
+        "name": "msvalidate.01",
+        "content": "746EDE45770E2CA6A99A4AD87020E42A"
+      },
+      {
         "name": "baidu-site-verification",
         "content": "code-QYVX95fhH3"
       },
