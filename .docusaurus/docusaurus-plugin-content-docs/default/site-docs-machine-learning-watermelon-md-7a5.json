@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Machine-Learning/watermelon",
+  "id": "Machine-Learning/watermelon",
+  "title": "看书记录表",
+  "description": "- 这只是一本入门级教科书,看完可以对机器学习的一些内容按图索骥",
+  "source": "@site/docs/Machine-Learning/watermelon.md",
+  "sourceDirName": "Machine-Learning",
+  "slug": "/Machine-Learning/watermelon",
+  "permalink": "/docs/Machine-Learning/watermelon",
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Machine-Learning/watermelon.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "看书记录表"
+  },
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "intro",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "线性规划🧩",
+    "permalink": "/docs/mathmodel/linear_programing"
+  }
+}

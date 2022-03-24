@@ -75,7 +75,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','f07'),
+    component: ComponentCreator('/docs','d21'),
     routes: [
       {
         path: '/docs/CET6/关于book的表达',
@@ -150,8 +150,8 @@ export default [
         'sidebar': "Sidebar"
       },
       {
-        path: '/docs/Machine-Learning/intro',
-        component: ComponentCreator('/docs/Machine-Learning/intro','019'),
+        path: '/docs/Machine-Learning/watermelon',
+        component: ComponentCreator('/docs/Machine-Learning/watermelon','f59'),
         exact: true,
         'sidebar': "Sidebar"
       },

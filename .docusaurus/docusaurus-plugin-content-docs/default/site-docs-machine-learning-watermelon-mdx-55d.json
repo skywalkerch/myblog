@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Machine-Learning/watermelon",
+  "id": "Machine-Learning/watermelon",
+  "title": "看书记录",
+  "description": "| 章 | 小节 |  |  |  |  |  | | |",
+  "source": "@site/docs/Machine-Learning/watermelon.mdx",
+  "sourceDirName": "Machine-Learning",
+  "slug": "/Machine-Learning/watermelon",
+  "permalink": "/docs/Machine-Learning/watermelon",
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Machine-Learning/watermelon.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "看书记录"
+  },
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "intro",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "看书记录",
+    "permalink": "/docs/Machine-Learning/watermelon"
+  }
+}

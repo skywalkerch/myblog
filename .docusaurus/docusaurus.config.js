@@ -127,6 +127,12 @@ export default {
       ],
       "copyright": "Copyright © 2022 橙子的小破站 鄂ICP备2020019116"
     },
+    "metadata": [
+      {
+        "name": "skywalkerch,橙子,小橙子",
+        "content": "数学建模,博客,Linux,机器学习,神经网络,深度学习"
+      }
+    ],
     "prism": {
       "theme": {
         "plain": {
@@ -329,7 +335,6 @@ export default {
     "docs": {
       "versionPersistence": "localStorage"
     },
-    "metadata": [],
     "hideableSidebar": false,
     "autoCollapseSidebarCategories": false,
     "tableOfContents": {

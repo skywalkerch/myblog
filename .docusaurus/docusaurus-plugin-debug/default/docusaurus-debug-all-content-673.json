@@ -109,8 +109,8 @@
               },
               "sidebar": "Sidebar",
               "next": {
-                "title": "机器学习",
-                "permalink": "/docs/Machine-Learning/intro"
+                "title": "看书记录表",
+                "permalink": "/docs/Machine-Learning/watermelon"
               }
             },
             {
@@ -304,18 +304,20 @@
               }
             },
             {
-              "unversionedId": "Machine-Learning/intro",
-              "id": "Machine-Learning/intro",
-              "title": "机器学习",
-              "description": "",
-              "source": "@site/docs/Machine-Learning/intro.md",
+              "unversionedId": "Machine-Learning/watermelon",
+              "id": "Machine-Learning/watermelon",
+              "title": "看书记录表",
+              "description": "- 这只是一本入门级教科书,看完可以对机器学习的一些内容按图索骥",
+              "source": "@site/docs/Machine-Learning/watermelon.md",
               "sourceDirName": "Machine-Learning",
-              "slug": "/Machine-Learning/intro",
-              "permalink": "/docs/Machine-Learning/intro",
-              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Machine-Learning/intro.md",
+              "slug": "/Machine-Learning/watermelon",
+              "permalink": "/docs/Machine-Learning/watermelon",
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Machine-Learning/watermelon.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "frontMatter": {
+                "title": "看书记录表"
+              },
               "sidebar": "Sidebar",
               "previous": {
                 "title": "intro",
@@ -343,8 +345,8 @@
               },
               "sidebar": "Sidebar",
               "previous": {
-                "title": "机器学习",
-                "permalink": "/docs/Machine-Learning/intro"
+                "title": "看书记录表",
+                "permalink": "/docs/Machine-Learning/watermelon"
               },
               "next": {
                 "title": "五个英语学习的技巧",
@@ -366,7 +368,7 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Machine-Learning/intro"
+                    "id": "Machine-Learning/watermelon"
                   }
                 ]
               },
@@ -583,7 +585,7 @@
         "permalink": "/day",
         "source": "@site/src/pages/day.md",
         "title": "每日计划",
-        "description": "2022-03-21",
+        "description": "2022-03-24",
         "frontMatter": {}
       },
       {
