@@ -140,7 +140,7 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} 橙子的小破站 鄂ICP备2020019116`,
       },
-      metadata: [{name: 'baidu-site-verification', content: 'code-QYVX95fhH3'},{name: 'skywalkerch,橙子,小橙子', content: '数学建模,博客,Linux,机器学习,神经网络,深度学习'}],
+      metadata: [{name:'msvalidate.01',content:'746EDE45770E2CA6A99A4AD87020E42A'},{name: 'baidu-site-verification', content: 'code-QYVX95fhH3'},{name: 'skywalkerch,橙子,小橙子', content: '数学建模,博客,Linux,机器学习,神经网络,深度学习'}],
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,

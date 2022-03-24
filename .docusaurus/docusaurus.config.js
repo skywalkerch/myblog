@@ -129,6 +129,10 @@ export default {
     },
     "metadata": [
       {
+        "name": "baidu-site-verification",
+        "content": "code-QYVX95fhH3"
+      },
+      {
         "name": "skywalkerch,橙子,小橙子",
         "content": "数学建模,博客,Linux,机器学习,神经网络,深度学习"
       }
