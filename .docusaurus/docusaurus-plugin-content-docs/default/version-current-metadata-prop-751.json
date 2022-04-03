@@ -36,7 +36,7 @@
         "items": [
           {
             "type": "link",
-            "label": "层次分析法",
+            "label": "层次分析法🧩",
             "href": "/docs/mathmodel/analytic_hierarchy_process",
             "docId": "mathmodel/analytic_hierarchy_process"
           },
@@ -237,7 +237,7 @@
     },
     "mathmodel/analytic_hierarchy_process": {
       "id": "mathmodel/analytic_hierarchy_process",
-      "title": "层次分析法",
+      "title": "层次分析法🧩",
       "description": "import TabItem from '@theme/TabItem';",
       "sidebar": "Sidebar"
     },

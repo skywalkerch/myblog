@@ -324,14 +324,14 @@
                 "permalink": "/docs/intro"
               },
               "next": {
-                "title": "层次分析法",
+                "title": "层次分析法🧩",
                 "permalink": "/docs/mathmodel/analytic_hierarchy_process"
               }
             },
             {
               "unversionedId": "mathmodel/analytic_hierarchy_process",
               "id": "mathmodel/analytic_hierarchy_process",
-              "title": "层次分析法",
+              "title": "层次分析法🧩",
               "description": "import TabItem from '@theme/TabItem';",
               "source": "@site/docs/mathmodel/analytic_hierarchy_process.mdx",
               "sourceDirName": "mathmodel",
@@ -341,7 +341,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "层次分析法"
+                "title": "层次分析法🧩"
               },
               "sidebar": "Sidebar",
               "previous": {
@@ -370,7 +370,7 @@
               },
               "sidebar": "Sidebar",
               "previous": {
-                "title": "层次分析法",
+                "title": "层次分析法🧩",
                 "permalink": "/docs/mathmodel/analytic_hierarchy_process"
               },
               "next": {
@@ -614,7 +614,7 @@
         "permalink": "/day",
         "source": "@site/src/pages/day.md",
         "title": "每日计划",
-        "description": "2022-03-26",
+        "description": "2022-03-27",
         "frontMatter": {}
       },
       {
