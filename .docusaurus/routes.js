@@ -75,7 +75,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','d21'),
+    component: ComponentCreator('/docs','420'),
     routes: [
       {
         path: '/docs/CET6/关于book的表达',
@@ -150,8 +150,14 @@ export default [
         'sidebar': "Sidebar"
       },
       {
-        path: '/docs/Machine-Learning/watermelon',
-        component: ComponentCreator('/docs/Machine-Learning/watermelon','f59'),
+        path: '/docs/Machine-Learning/intro',
+        component: ComponentCreator('/docs/Machine-Learning/intro','019'),
+        exact: true,
+        'sidebar': "Sidebar"
+      },
+      {
+        path: '/docs/mathmodel/analytic_hierarchy_process',
+        component: ComponentCreator('/docs/mathmodel/analytic_hierarchy_process','d55'),
         exact: true,
         'sidebar': "Sidebar"
       },

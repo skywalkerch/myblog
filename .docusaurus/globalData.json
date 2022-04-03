@@ -71,8 +71,13 @@
               "sidebar": "Sidebar"
             },
             {
-              "id": "Machine-Learning/watermelon",
-              "path": "/docs/Machine-Learning/watermelon",
+              "id": "Machine-Learning/intro",
+              "path": "/docs/Machine-Learning/intro",
+              "sidebar": "Sidebar"
+            },
+            {
+              "id": "mathmodel/analytic_hierarchy_process",
+              "path": "/docs/mathmodel/analytic_hierarchy_process",
               "sidebar": "Sidebar"
             },
             {

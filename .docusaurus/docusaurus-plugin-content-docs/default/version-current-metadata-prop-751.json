@@ -23,8 +23,8 @@
           {
             "type": "link",
             "label": "看书记录表",
-            "href": "/docs/Machine-Learning/watermelon",
-            "docId": "Machine-Learning/watermelon"
+            "href": "/docs/Machine-Learning/intro",
+            "docId": "Machine-Learning/intro"
           }
         ]
       },
@@ -34,6 +34,12 @@
         "collapsible": true,
         "collapsed": true,
         "items": [
+          {
+            "type": "link",
+            "label": "层次分析法",
+            "href": "/docs/mathmodel/analytic_hierarchy_process",
+            "docId": "mathmodel/analytic_hierarchy_process"
+          },
           {
             "type": "link",
             "label": "线性规划🧩",
@@ -223,10 +229,16 @@
       "description": "今天本来把 ArchLinux 的镜像写进了 U 盘，准备分一块盘然后装双系统，但是又回想起了之前痛苦的经历，又放弃了这个想法，后来就在 windows10 上装上了基于 wsl2 的 ubuntu20.04，在一番艰难折腾下终于成功撞上了 vimplus 和 doom-emacs(别问我为什么要装这两个编辑器，问就是 vim 太难学，准备转 emacs)，",
       "sidebar": "Sidebar"
     },
-    "Machine-Learning/watermelon": {
-      "id": "Machine-Learning/watermelon",
+    "Machine-Learning/intro": {
+      "id": "Machine-Learning/intro",
       "title": "看书记录表",
       "description": "- 这只是一本入门级教科书,看完可以对机器学习的一些内容按图索骥",
+      "sidebar": "Sidebar"
+    },
+    "mathmodel/analytic_hierarchy_process": {
+      "id": "mathmodel/analytic_hierarchy_process",
+      "title": "层次分析法",
+      "description": "import TabItem from '@theme/TabItem';",
       "sidebar": "Sidebar"
     },
     "mathmodel/linear_programing": {

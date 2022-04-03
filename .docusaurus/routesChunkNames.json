@@ -59,7 +59,7 @@
   "/search-79a": {
     "component": "component---theme-search-page-1-a-4-d6f"
   },
-  "/docs-d21": {
+  "/docs-420": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -111,9 +111,13 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-linux-wsl中docker换源-6-a-9-705"
   },
-  "/docs/Machine-Learning/watermelon-f59": {
+  "/docs/Machine-Learning/intro-019": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-machine-learning-watermelon-7-a-5-159"
+    "content": "content---docs-machine-learning-introd-2-a-075"
+  },
+  "/docs/mathmodel/analytic_hierarchy_process-d55": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-mathmodel-analytic-hierarchy-process-5-b-9-5e8"
   },
   "/docs/mathmodel/linear_programing-170": {
     "component": "component---theme-doc-item-178-a40",

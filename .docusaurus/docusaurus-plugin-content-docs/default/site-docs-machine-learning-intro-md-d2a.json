@@ -1,8 +1,8 @@
 {
   "unversionedId": "Machine-Learning/intro",
   "id": "Machine-Learning/intro",
-  "title": "机器学习",
-  "description": "",
+  "title": "看书记录表",
+  "description": "- 这只是一本入门级教科书,看完可以对机器学习的一些内容按图索骥",
   "source": "@site/docs/Machine-Learning/intro.md",
   "sourceDirName": "Machine-Learning",
   "slug": "/Machine-Learning/intro",
@@ -10,14 +10,16 @@
   "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Machine-Learning/intro.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "title": "看书记录表"
+  },
   "sidebar": "Sidebar",
   "previous": {
     "title": "intro",
     "permalink": "/docs/intro"
   },
   "next": {
-    "title": "线性规划🧩",
-    "permalink": "/docs/mathmodel/linear_programing"
+    "title": "层次分析法",
+    "permalink": "/docs/mathmodel/analytic_hierarchy_process"
   }
 }
