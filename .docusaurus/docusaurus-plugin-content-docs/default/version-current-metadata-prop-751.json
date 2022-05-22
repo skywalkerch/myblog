@@ -300,7 +300,7 @@
     "mathmodel/record—": {
       "id": "mathmodel/record—",
       "title": "数学建模学习打卡记录",
-      "description": "| Y                                                            | X                                                            | C                                                            |",
+      "description": "| Y    | X    | C    |",
       "sidebar": "Sidebar"
     }
   }
