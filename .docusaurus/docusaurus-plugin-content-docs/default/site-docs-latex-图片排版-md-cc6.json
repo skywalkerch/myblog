@@ -1,0 +1,22 @@
+{
+  "unversionedId": "latex/图片排版",
+  "id": "latex/图片排版",
+  "title": "图片排版",
+  "description": "非浮动环境",
+  "source": "@site/docs\\latex\\图片排版.md",
+  "sourceDirName": "latex",
+  "slug": "/latex/图片排版",
+  "permalink": "/docs/latex/图片排版",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/latex/图片排版.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "图片排版"
+  },
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "软硬链接",
+    "permalink": "/docs/Linux/软硬链接"
+  }
+}

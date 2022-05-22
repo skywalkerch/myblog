@@ -1,0 +1,26 @@
+{
+  "unversionedId": "CET6/翻译",
+  "id": "CET6/翻译",
+  "title": "翻译真题",
+  "description": "2020 12 1",
+  "source": "@site/docs\\CET6\\翻译.md",
+  "sourceDirName": "CET6",
+  "slug": "/CET6/翻译",
+  "permalink": "/docs/CET6/翻译",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/CET6/翻译.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "翻译真题"
+  },
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "关于book的表达",
+    "permalink": "/docs/CET6/关于book的表达"
+  },
+  "next": {
+    "title": "const与指针",
+    "permalink": "/docs/Lang/C++/const与指针"
+  }
+}

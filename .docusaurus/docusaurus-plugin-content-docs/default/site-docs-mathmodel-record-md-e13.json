@@ -1,0 +1,26 @@
+{
+  "unversionedId": "mathmodel/record—",
+  "id": "mathmodel/record—",
+  "title": "数学建模学习打卡记录",
+  "description": "| Y                                                            | X                                                            | C                                                            |",
+  "source": "@site/docs\\mathmodel\\record—.md",
+  "sourceDirName": "mathmodel",
+  "slug": "/mathmodel/record—",
+  "permalink": "/docs/mathmodel/record—",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/record—.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "数学建模学习打卡记录"
+  },
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "线性规划🧩",
+    "permalink": "/docs/mathmodel/linear_programing"
+  },
+  "next": {
+    "title": "五个英语学习的技巧",
+    "permalink": "/docs/CET6/五个英语学习技巧"
+  }
+}

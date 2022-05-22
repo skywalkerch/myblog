@@ -7,6 +7,7 @@
   "sourceDirName": "CET6",
   "slug": "/CET6/五个英语学习技巧",
   "permalink": "/docs/CET6/五个英语学习技巧",
+  "draft": false,
   "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/CET6/五个英语学习技巧.md",
   "tags": [],
   "version": "current",
@@ -15,11 +16,11 @@
   },
   "sidebar": "Sidebar",
   "previous": {
-    "title": "线性规划🧩",
-    "permalink": "/docs/mathmodel/linear_programing"
+    "title": "数学建模学习打卡记录",
+    "permalink": "/docs/mathmodel/record—"
   },
   "next": {
-    "title": "六级必会的584个词",
-    "permalink": "/docs/CET6/六级必会的584个词"
+    "title": "作文真题",
+    "permalink": "/docs/CET6/作文真题"
   }
 }

@@ -45,6 +45,12 @@
             "label": "线性规划🧩",
             "href": "/docs/mathmodel/linear_programing",
             "docId": "mathmodel/linear_programing"
+          },
+          {
+            "type": "link",
+            "label": "数学建模学习打卡记录",
+            "href": "/docs/mathmodel/record—",
+            "docId": "mathmodel/record—"
           }
         ]
       },
@@ -62,6 +68,12 @@
           },
           {
             "type": "link",
+            "label": "作文真题",
+            "href": "/docs/CET6/作文真题",
+            "docId": "CET6/作文真题"
+          },
+          {
+            "type": "link",
             "label": "六级必会的584个词",
             "href": "/docs/CET6/六级必会的584个词",
             "docId": "CET6/六级必会的584个词"
@@ -71,6 +83,12 @@
             "label": "关于book的表达",
             "href": "/docs/CET6/关于book的表达",
             "docId": "CET6/关于book的表达"
+          },
+          {
+            "type": "link",
+            "label": "翻译真题",
+            "href": "/docs/CET6/翻译真题",
+            "docId": "CET6/翻译真题"
           }
         ]
       },
@@ -153,10 +171,30 @@
             "docId": "Linux/软硬链接"
           }
         ]
+      },
+      {
+        "type": "category",
+        "label": "Latex排版",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "图片排版",
+            "href": "/docs/latex/图片排版",
+            "docId": "latex/图片排版"
+          }
+        ]
       }
     ]
   },
   "docs": {
+    "CET6/翻译真题": {
+      "id": "CET6/翻译真题",
+      "title": "翻译真题",
+      "description": "2020 12 1",
+      "sidebar": "Sidebar"
+    },
     "CET6/关于book的表达": {
       "id": "CET6/关于book的表达",
       "title": "关于book的表达",
@@ -173,6 +211,12 @@
       "id": "CET6/五个英语学习技巧",
       "title": "五个英语学习的技巧",
       "description": "1.学会阅读",
+      "sidebar": "Sidebar"
+    },
+    "CET6/作文真题": {
+      "id": "CET6/作文真题",
+      "title": "作文真题",
+      "description": "2020 12 1",
       "sidebar": "Sidebar"
     },
     "intro": {
@@ -203,6 +247,12 @@
       "id": "Lang/intro",
       "title": "intro",
       "description": "",
+      "sidebar": "Sidebar"
+    },
+    "latex/图片排版": {
+      "id": "latex/图片排版",
+      "title": "图片排版",
+      "description": "非浮动环境",
       "sidebar": "Sidebar"
     },
     "Linux/软硬链接": {
@@ -238,13 +288,19 @@
     "mathmodel/analytic_hierarchy_process": {
       "id": "mathmodel/analytic_hierarchy_process",
       "title": "层次分析法🧩",
-      "description": "import TabItem from '@theme/TabItem';",
+      "description": "",
       "sidebar": "Sidebar"
     },
     "mathmodel/linear_programing": {
       "id": "mathmodel/linear_programing",
       "title": "线性规划🧩",
-      "description": "import TabItem from '@theme/TabItem';",
+      "description": "",
+      "sidebar": "Sidebar"
+    },
+    "mathmodel/record—": {
+      "id": "mathmodel/record—",
+      "title": "数学建模学习打卡记录",
+      "description": "| Y                                                            | X                                                            | C                                                            |",
       "sidebar": "Sidebar"
     }
   }

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "CET6/Untitled",
+  "id": "CET6/Untitled",
+  "title": "Untitled",
+  "description": "",
+  "source": "@site/docs/CET6/Untitled.md",
+  "sourceDirName": "CET6",
+  "slug": "/CET6/Untitled",
+  "permalink": "/docs/CET6/Untitled",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/CET6/Untitled.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "数学建模学习打卡记录",
+    "permalink": "/docs/mathmodel/record—"
+  },
+  "next": {
+    "title": "五个英语学习的技巧",
+    "permalink": "/docs/CET6/五个英语学习技巧"
+  }
+}

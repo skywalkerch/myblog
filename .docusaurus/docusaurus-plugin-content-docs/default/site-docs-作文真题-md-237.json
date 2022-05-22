@@ -1,0 +1,20 @@
+{
+  "unversionedId": "作文真题",
+  "id": "作文真题",
+  "title": "作文真题",
+  "description": "",
+  "source": "@site/docs\\作文真题.md",
+  "sourceDirName": ".",
+  "slug": "/作文真题",
+  "permalink": "/docs/作文真题",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/作文真题.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "图片排版",
+    "permalink": "/docs/latex/图片排版"
+  }
+}

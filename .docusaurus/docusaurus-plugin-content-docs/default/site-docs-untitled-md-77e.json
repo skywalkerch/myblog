@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Untitled",
+  "id": "Untitled",
+  "title": "Untitled",
+  "description": "",
+  "source": "@site/docs/Untitled.md",
+  "sourceDirName": ".",
+  "slug": "/Untitled",
+  "permalink": "/docs/Untitled",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Untitled.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "图片排版",
+    "permalink": "/docs/latex/图片排版"
+  }
+}

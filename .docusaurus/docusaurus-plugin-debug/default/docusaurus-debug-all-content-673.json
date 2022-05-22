@@ -4,20 +4,46 @@
       "loadedVersions": [
         {
           "versionName": "current",
-          "versionLabel": "Next",
-          "versionPath": "/docs",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "className": "docs-version-current",
+          "path": "/docs",
           "tagsPath": "/docs/tags",
-          "versionEditUrl": "https://github.com/skywalkerch/myblog/blob/main/docs",
-          "versionEditUrlLocalized": "https://github.com/skywalkerch/myblog/blob/main/i18n/en/docusaurus-plugin-content-docs/current",
-          "versionBanner": null,
-          "versionBadge": false,
-          "versionClassName": "docs-version-current",
+          "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs",
+          "editUrlLocalized": "https://github.com/skywalkerch/myblog/blob/main/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "C:\\Users\\skywalkerch\\myblog\\sidebars.js",
           "contentPath": "C:\\Users\\skywalkerch\\myblog\\docs",
           "contentPathLocalized": "C:\\Users\\skywalkerch\\myblog\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
+            {
+              "unversionedId": "CET6/翻译真题",
+              "id": "CET6/翻译真题",
+              "title": "翻译真题",
+              "description": "2020 12 1",
+              "source": "@site/docs\\CET6\\翻译真题.md",
+              "sourceDirName": "CET6",
+              "slug": "/CET6/翻译真题",
+              "permalink": "/docs/CET6/翻译真题",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/CET6/翻译真题.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "翻译真题"
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "关于book的表达",
+                "permalink": "/docs/CET6/关于book的表达"
+              },
+              "next": {
+                "title": "const与指针",
+                "permalink": "/docs/Lang/C++/const与指针"
+              }
+            },
             {
               "unversionedId": "CET6/关于book的表达",
               "id": "CET6/关于book的表达",
@@ -27,6 +53,7 @@
               "sourceDirName": "CET6",
               "slug": "/CET6/关于book的表达",
               "permalink": "/docs/CET6/关于book的表达",
+              "draft": false,
               "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/CET6/关于book的表达.md",
               "tags": [],
               "version": "current",
@@ -39,8 +66,8 @@
                 "permalink": "/docs/CET6/六级必会的584个词"
               },
               "next": {
-                "title": "const与指针",
-                "permalink": "/docs/Lang/C++/const与指针"
+                "title": "翻译真题",
+                "permalink": "/docs/CET6/翻译真题"
               }
             },
             {
@@ -52,14 +79,15 @@
               "sourceDirName": "CET6",
               "slug": "/CET6/六级必会的584个词",
               "permalink": "/docs/CET6/六级必会的584个词",
+              "draft": false,
               "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/CET6/六级必会的584个词.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "Sidebar",
               "previous": {
-                "title": "五个英语学习的技巧",
-                "permalink": "/docs/CET6/五个英语学习技巧"
+                "title": "作文真题",
+                "permalink": "/docs/CET6/作文真题"
               },
               "next": {
                 "title": "关于book的表达",
@@ -75,6 +103,7 @@
               "sourceDirName": "CET6",
               "slug": "/CET6/五个英语学习技巧",
               "permalink": "/docs/CET6/五个英语学习技巧",
+              "draft": false,
               "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/CET6/五个英语学习技巧.md",
               "tags": [],
               "version": "current",
@@ -83,8 +112,34 @@
               },
               "sidebar": "Sidebar",
               "previous": {
-                "title": "线性规划🧩",
-                "permalink": "/docs/mathmodel/linear_programing"
+                "title": "数学建模学习打卡记录",
+                "permalink": "/docs/mathmodel/record—"
+              },
+              "next": {
+                "title": "作文真题",
+                "permalink": "/docs/CET6/作文真题"
+              }
+            },
+            {
+              "unversionedId": "CET6/作文真题",
+              "id": "CET6/作文真题",
+              "title": "作文真题",
+              "description": "2020 12 1",
+              "source": "@site/docs\\CET6\\作文真题.md",
+              "sourceDirName": "CET6",
+              "slug": "/CET6/作文真题",
+              "permalink": "/docs/CET6/作文真题",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/CET6/作文真题.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "作文真题"
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "五个英语学习的技巧",
+                "permalink": "/docs/CET6/五个英语学习技巧"
               },
               "next": {
                 "title": "六级必会的584个词",
@@ -100,6 +155,7 @@
               "sourceDirName": ".",
               "slug": "/intro",
               "permalink": "/docs/intro",
+              "draft": false,
               "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/intro.md",
               "tags": [],
               "version": "current",
@@ -122,6 +178,7 @@
               "sourceDirName": "Lang/C++",
               "slug": "/Lang/C++/静态库与动态库",
               "permalink": "/docs/Lang/C++/静态库与动态库",
+              "draft": false,
               "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Lang/C++/静态库与动态库.md",
               "tags": [],
               "version": "current",
@@ -145,6 +202,7 @@
               "sourceDirName": "Lang/C++",
               "slug": "/Lang/C++/const与指针",
               "permalink": "/docs/Lang/C++/const与指针",
+              "draft": false,
               "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Lang/C++/const与指针.md",
               "tags": [],
               "version": "current",
@@ -153,8 +211,8 @@
               },
               "sidebar": "Sidebar",
               "previous": {
-                "title": "关于book的表达",
-                "permalink": "/docs/CET6/关于book的表达"
+                "title": "翻译真题",
+                "permalink": "/docs/CET6/翻译真题"
               },
               "next": {
                 "title": "make与automake",
@@ -170,6 +228,7 @@
               "sourceDirName": "Lang/C++",
               "slug": "/Lang/C++/make与automake",
               "permalink": "/docs/Lang/C++/make与automake",
+              "draft": false,
               "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Lang/C++/make与automake.md",
               "tags": [],
               "version": "current",
@@ -195,6 +254,7 @@
               "sourceDirName": "Lang",
               "slug": "/Lang/intro",
               "permalink": "/docs/Lang/intro",
+              "draft": false,
               "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Lang/intro.md",
               "tags": [],
               "version": "current",
@@ -210,6 +270,28 @@
               }
             },
             {
+              "unversionedId": "latex/图片排版",
+              "id": "latex/图片排版",
+              "title": "图片排版",
+              "description": "非浮动环境",
+              "source": "@site/docs\\latex\\图片排版.md",
+              "sourceDirName": "latex",
+              "slug": "/latex/图片排版",
+              "permalink": "/docs/latex/图片排版",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/latex/图片排版.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "图片排版"
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "软硬链接",
+                "permalink": "/docs/Linux/软硬链接"
+              }
+            },
+            {
               "unversionedId": "Linux/软硬链接",
               "id": "Linux/软硬链接",
               "title": "软硬链接",
@@ -218,6 +300,7 @@
               "sourceDirName": "Linux",
               "slug": "/Linux/软硬链接",
               "permalink": "/docs/Linux/软硬链接",
+              "draft": false,
               "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Linux/软硬链接.md",
               "tags": [],
               "version": "current",
@@ -228,6 +311,10 @@
               "previous": {
                 "title": "wsl中docker换源",
                 "permalink": "/docs/Linux/wsl中docker换源"
+              },
+              "next": {
+                "title": "图片排版",
+                "permalink": "/docs/latex/图片排版"
               }
             },
             {
@@ -239,6 +326,7 @@
               "sourceDirName": "Linux",
               "slug": "/Linux/intro",
               "permalink": "/docs/Linux/intro",
+              "draft": false,
               "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Linux/intro.md",
               "tags": [],
               "version": "current",
@@ -262,6 +350,7 @@
               "sourceDirName": "Linux/Linux系统编程",
               "slug": "/Linux/Linux系统编程/进程管理",
               "permalink": "/docs/Linux/Linux系统编程/进程管理",
+              "draft": false,
               "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Linux/Linux系统编程/进程管理.md",
               "tags": [],
               "version": "current",
@@ -287,6 +376,7 @@
               "sourceDirName": "Linux",
               "slug": "/Linux/wsl中docker换源",
               "permalink": "/docs/Linux/wsl中docker换源",
+              "draft": false,
               "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Linux/wsl中docker换源.md",
               "tags": [],
               "version": "current",
@@ -312,6 +402,7 @@
               "sourceDirName": "Machine-Learning",
               "slug": "/Machine-Learning/intro",
               "permalink": "/docs/Machine-Learning/intro",
+              "draft": false,
               "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Machine-Learning/intro.md",
               "tags": [],
               "version": "current",
@@ -332,11 +423,12 @@
               "unversionedId": "mathmodel/analytic_hierarchy_process",
               "id": "mathmodel/analytic_hierarchy_process",
               "title": "层次分析法🧩",
-              "description": "import TabItem from '@theme/TabItem';",
+              "description": "",
               "source": "@site/docs/mathmodel/analytic_hierarchy_process.mdx",
               "sourceDirName": "mathmodel",
               "slug": "/mathmodel/analytic_hierarchy_process",
               "permalink": "/docs/mathmodel/analytic_hierarchy_process",
+              "draft": false,
               "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/analytic_hierarchy_process.mdx",
               "tags": [],
               "version": "current",
@@ -357,11 +449,12 @@
               "unversionedId": "mathmodel/linear_programing",
               "id": "mathmodel/linear_programing",
               "title": "线性规划🧩",
-              "description": "import TabItem from '@theme/TabItem';",
+              "description": "",
               "source": "@site/docs/mathmodel/linear_programing.mdx",
               "sourceDirName": "mathmodel",
               "slug": "/mathmodel/linear_programing",
               "permalink": "/docs/mathmodel/linear_programing",
+              "draft": false,
               "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/linear_programing.mdx",
               "tags": [],
               "version": "current",
@@ -374,11 +467,38 @@
                 "permalink": "/docs/mathmodel/analytic_hierarchy_process"
               },
               "next": {
+                "title": "数学建模学习打卡记录",
+                "permalink": "/docs/mathmodel/record—"
+              }
+            },
+            {
+              "unversionedId": "mathmodel/record—",
+              "id": "mathmodel/record—",
+              "title": "数学建模学习打卡记录",
+              "description": "| Y                                                            | X                                                            | C                                                            |",
+              "source": "@site/docs\\mathmodel\\record—.md",
+              "sourceDirName": "mathmodel",
+              "slug": "/mathmodel/record—",
+              "permalink": "/docs/mathmodel/record—",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/record—.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "数学建模学习打卡记录"
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "线性规划🧩",
+                "permalink": "/docs/mathmodel/linear_programing"
+              },
+              "next": {
                 "title": "五个英语学习的技巧",
                 "permalink": "/docs/CET6/五个英语学习技巧"
               }
             }
           ],
+          "drafts": [],
           "sidebars": {
             "Sidebar": [
               {
@@ -410,6 +530,10 @@
                   {
                     "type": "doc",
                     "id": "mathmodel/linear_programing"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "mathmodel/record—"
                   }
                 ]
               },
@@ -425,11 +549,19 @@
                   },
                   {
                     "type": "doc",
+                    "id": "CET6/作文真题"
+                  },
+                  {
+                    "type": "doc",
                     "id": "CET6/六级必会的584个词"
                   },
                   {
                     "type": "doc",
                     "id": "CET6/关于book的表达"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "CET6/翻译真题"
                   }
                 ]
               },
@@ -496,11 +628,21 @@
                     "id": "Linux/软硬链接"
                   }
                 ]
+              },
+              {
+                "type": "category",
+                "label": "Latex排版",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "latex/图片排版"
+                  }
+                ]
               }
             ]
-          },
-          "mainDocId": "intro",
-          "categoryGeneratedIndices": []
+          }
         }
       ]
     }
@@ -588,15 +730,13 @@
             "postsPerPage": 10,
             "totalPages": 1,
             "totalCount": 2,
-            "previousPage": null,
-            "nextPage": null,
             "blogDescription": "Blog",
             "blogTitle": "Blog"
           }
         }
       ],
       "blogTags": {},
-      "blogTagsListPath": null
+      "blogTagsListPath": "/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
@@ -624,13 +764,9 @@
       }
     ]
   },
-  "docusaurus-plugin-debug": {
-    "default": null
-  },
-  "docusaurus-theme-classic": {
-    "default": null
-  },
-  "docusaurus-theme-search-algolia": {
-    "default": null
-  }
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-theme-search-algolia": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
 }
