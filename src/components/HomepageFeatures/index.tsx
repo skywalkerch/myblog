@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
           <Link
             className="button button--secondary button--lg"
             to="/docs/Machine-Learning/intro">
-            机器学习
+            Machine Learning
           </Link>
         </div>
     ),
@@ -23,27 +23,27 @@ const FeatureList: FeatureItem[] = [
     
   },
   {
-    title: 'Linux',
-    Svg: require('@site/static/img/linux.svg').default,
+    title: 'English',
+    Svg: require('@site/static/img/english.svg').default,
     description: (
        <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/Linux/intro">
-            Linux
+            to="/docs/CET6/五个英语学习技巧">
+            English
           </Link>
         </div>
     ),
   },
   {
-    title: 'Programing Languages',
-    Svg: require('@site/static/img/c.svg').default,
+    title: 'Mathematical modeling',
+    Svg: require('@site/static/img/math.svg').default,
     description: (
       <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/Lang/intro">
-            编程语言
+            to="/docs/mathmodel/record">
+            Mathematical modeling
           </Link>
         </div>
     ),

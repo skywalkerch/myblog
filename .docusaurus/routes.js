@@ -74,7 +74,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '544'),
+    component: ComponentCreator('/docs', '96c'),
     routes: [
       {
         path: '/docs/CET6/翻译真题',
@@ -185,8 +185,8 @@ export default [
         sidebar: "Sidebar"
       },
       {
-        path: '/docs/mathmodel/record—',
-        component: ComponentCreator('/docs/mathmodel/record—', '474'),
+        path: '/docs/mathmodel/record',
+        component: ComponentCreator('/docs/mathmodel/record', '43a'),
         exact: true,
         sidebar: "Sidebar"
       }

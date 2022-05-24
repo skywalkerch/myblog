@@ -49,8 +49,8 @@
           {
             "type": "link",
             "label": "数学建模学习打卡记录",
-            "href": "/docs/mathmodel/record—",
-            "docId": "mathmodel/record—"
+            "href": "/docs/mathmodel/record",
+            "docId": "mathmodel/record"
           }
         ]
       },
@@ -297,10 +297,10 @@
       "description": "",
       "sidebar": "Sidebar"
     },
-    "mathmodel/record—": {
-      "id": "mathmodel/record—",
+    "mathmodel/record": {
+      "id": "mathmodel/record",
       "title": "数学建模学习打卡记录",
-      "description": "| Y    | X    | C    |",
+      "description": "| Date | Y    | X    | C    |",
       "sidebar": "Sidebar"
     }
   }

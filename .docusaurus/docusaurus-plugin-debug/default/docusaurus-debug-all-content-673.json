@@ -113,7 +113,7 @@
               "sidebar": "Sidebar",
               "previous": {
                 "title": "数学建模学习打卡记录",
-                "permalink": "/docs/mathmodel/record—"
+                "permalink": "/docs/mathmodel/record"
               },
               "next": {
                 "title": "作文真题",
@@ -468,20 +468,20 @@
               },
               "next": {
                 "title": "数学建模学习打卡记录",
-                "permalink": "/docs/mathmodel/record—"
+                "permalink": "/docs/mathmodel/record"
               }
             },
             {
-              "unversionedId": "mathmodel/record—",
-              "id": "mathmodel/record—",
+              "unversionedId": "mathmodel/record",
+              "id": "mathmodel/record",
               "title": "数学建模学习打卡记录",
-              "description": "| Y    | X    | C    |",
-              "source": "@site/docs\\mathmodel\\record—.md",
+              "description": "| Date | Y    | X    | C    |",
+              "source": "@site/docs/mathmodel/record.md",
               "sourceDirName": "mathmodel",
-              "slug": "/mathmodel/record—",
-              "permalink": "/docs/mathmodel/record—",
+              "slug": "/mathmodel/record",
+              "permalink": "/docs/mathmodel/record",
               "draft": false,
-              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/record—.md",
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/record.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -533,7 +533,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "mathmodel/record—"
+                    "id": "mathmodel/record"
                   }
                 ]
               },
