@@ -11,7 +11,7 @@ title: 关于book的表达
 
 一无所知，一窍不通
 
-1. for me,geology is a closed book `对我来说，地质学是一门我一窍不通的学科`
+1. for me, geology is a closed book `对我来说，地质学是一门我一窍不通的学科`
 2. the man’s early life is a closed book `这个人的早年生活是个谜`
 
 # 3. like a book
@@ -31,4 +31,4 @@ title: 关于book的表达
 
 严惩
 
-1. if you break the law,the court will throw the book at you `如果你违反法律，法院会严惩你的`
+1. if you break the law, the court will throw the book at you `如果你违反法律，法院会严惩你的`
