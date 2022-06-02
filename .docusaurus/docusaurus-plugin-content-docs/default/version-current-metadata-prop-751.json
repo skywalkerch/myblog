@@ -189,24 +189,6 @@
     ]
   },
   "docs": {
-    "CET6/翻译真题": {
-      "id": "CET6/翻译真题",
-      "title": "翻译真题",
-      "description": "2020 12",
-      "sidebar": "Sidebar"
-    },
-    "CET6/关于book的表达": {
-      "id": "CET6/关于book的表达",
-      "title": "关于book的表达",
-      "description": "用功",
-      "sidebar": "Sidebar"
-    },
-    "CET6/六级必会的584个词": {
-      "id": "CET6/六级必会的584个词",
-      "title": "六级必会的584个词",
-      "description": "1. alter v. 改变，改动，变更",
-      "sidebar": "Sidebar"
-    },
     "CET6/五个英语学习技巧": {
       "id": "CET6/五个英语学习技巧",
       "title": "五个英语学习的技巧",
@@ -219,16 +201,28 @@
       "description": "2020 12",
       "sidebar": "Sidebar"
     },
+    "CET6/六级必会的584个词": {
+      "id": "CET6/六级必会的584个词",
+      "title": "六级必会的584个词",
+      "description": "1. alter v. 改变，改动，变更",
+      "sidebar": "Sidebar"
+    },
+    "CET6/关于book的表达": {
+      "id": "CET6/关于book的表达",
+      "title": "关于book的表达",
+      "description": "用功",
+      "sidebar": "Sidebar"
+    },
+    "CET6/翻译真题": {
+      "id": "CET6/翻译真题",
+      "title": "翻译真题",
+      "description": "2020 12",
+      "sidebar": "Sidebar"
+    },
     "intro": {
       "id": "intro",
       "title": "intro",
       "description": "此页面暂时留着不写",
-      "sidebar": "Sidebar"
-    },
-    "Lang/C++/静态库与动态库": {
-      "id": "Lang/C++/静态库与动态库",
-      "title": "静态库与动态库",
-      "description": "一直以来我对C系列语言的系统级编程都没有什么经验，每次安装windows软件都会遇到dll，在Linux下编程时也会遇到libxxx缺失等等问题，一直以来都没有对这方面彻底弄懂。正好可以趁这个寒假的机会多写几篇博客彻底弄懂这些有趣的东西，给自己的编程之旅打下基础。",
       "sidebar": "Sidebar"
     },
     "Lang/C++/const与指针": {
@@ -243,6 +237,12 @@
       "description": "make工程管理器起到了自动编译的作用，这里的自动是它能自动根据文件时间戳发现那个文件更新过，这样便大大减少了编译工作量",
       "sidebar": "Sidebar"
     },
+    "Lang/C++/静态库与动态库": {
+      "id": "Lang/C++/静态库与动态库",
+      "title": "静态库与动态库",
+      "description": "一直以来我对C系列语言的系统级编程都没有什么经验，每次安装windows软件都会遇到dll，在Linux下编程时也会遇到libxxx缺失等等问题，一直以来都没有对这方面彻底弄懂。正好可以趁这个寒假的机会多写几篇博客彻底弄懂这些有趣的东西，给自己的编程之旅打下基础。",
+      "sidebar": "Sidebar"
+    },
     "Lang/intro": {
       "id": "Lang/intro",
       "title": "intro",
@@ -253,12 +253,6 @@
       "id": "latex/图片排版",
       "title": "图片排版",
       "description": "非浮动环境",
-      "sidebar": "Sidebar"
-    },
-    "Linux/软硬链接": {
-      "id": "Linux/软硬链接",
-      "title": "软硬链接",
-      "description": "我们知道任何文件都有文件名与文件内容两个属性，这在Linux操作系统里面被分成两个部分：用户数据(user data)与元数据(mete data)。",
       "sidebar": "Sidebar"
     },
     "Linux/intro": {
@@ -277,6 +271,12 @@
       "id": "Linux/wsl中docker换源",
       "title": "wsl中docker换源",
       "description": "今天本来把 ArchLinux 的镜像写进了 U 盘，准备分一块盘然后装双系统，但是又回想起了之前痛苦的经历，又放弃了这个想法，后来就在 windows10 上装上了基于 wsl2 的 ubuntu20.04，在一番艰难折腾下终于成功撞上了 vimplus 和 doom-emacs(别问我为什么要装这两个编辑器，问就是 vim 太难学，准备转 emacs)，",
+      "sidebar": "Sidebar"
+    },
+    "Linux/软硬链接": {
+      "id": "Linux/软硬链接",
+      "title": "软硬链接",
+      "description": "我们知道任何文件都有文件名与文件内容两个属性，这在Linux操作系统里面被分成两个部分：用户数据(user data)与元数据(mete data)。",
       "sidebar": "Sidebar"
     },
     "Machine-Learning/intro": {

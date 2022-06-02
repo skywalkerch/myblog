@@ -68,32 +68,19 @@ export default [
     exact: true
   },
   {
+    path: '/nevigation',
+    component: ComponentCreator('/nevigation', '88d'),
+    exact: true
+  },
+  {
     path: '/search',
     component: ComponentCreator('/search', '0d6'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '96c'),
+    component: ComponentCreator('/docs', 'e34'),
     routes: [
-      {
-        path: '/docs/CET6/翻译真题',
-        component: ComponentCreator('/docs/CET6/翻译真题', 'ebc'),
-        exact: true,
-        sidebar: "Sidebar"
-      },
-      {
-        path: '/docs/CET6/关于book的表达',
-        component: ComponentCreator('/docs/CET6/关于book的表达', '8f4'),
-        exact: true,
-        sidebar: "Sidebar"
-      },
-      {
-        path: '/docs/CET6/六级必会的584个词',
-        component: ComponentCreator('/docs/CET6/六级必会的584个词', '0dc'),
-        exact: true,
-        sidebar: "Sidebar"
-      },
       {
         path: '/docs/CET6/五个英语学习技巧',
         component: ComponentCreator('/docs/CET6/五个英语学习技巧', 'e56'),
@@ -107,14 +94,26 @@ export default [
         sidebar: "Sidebar"
       },
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'c49'),
+        path: '/docs/CET6/六级必会的584个词',
+        component: ComponentCreator('/docs/CET6/六级必会的584个词', '0dc'),
         exact: true,
         sidebar: "Sidebar"
       },
       {
-        path: '/docs/Lang/C++/静态库与动态库',
-        component: ComponentCreator('/docs/Lang/C++/静态库与动态库', '8b1'),
+        path: '/docs/CET6/关于book的表达',
+        component: ComponentCreator('/docs/CET6/关于book的表达', '8f4'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/CET6/翻译真题',
+        component: ComponentCreator('/docs/CET6/翻译真题', 'ebc'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/intro',
+        component: ComponentCreator('/docs/intro', 'c49'),
         exact: true,
         sidebar: "Sidebar"
       },
@@ -131,6 +130,12 @@ export default [
         sidebar: "Sidebar"
       },
       {
+        path: '/docs/Lang/C++/静态库与动态库',
+        component: ComponentCreator('/docs/Lang/C++/静态库与动态库', '8b1'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
         path: '/docs/Lang/intro',
         component: ComponentCreator('/docs/Lang/intro', '1f4'),
         exact: true,
@@ -139,12 +144,6 @@ export default [
       {
         path: '/docs/latex/图片排版',
         component: ComponentCreator('/docs/latex/图片排版', '50f'),
-        exact: true,
-        sidebar: "Sidebar"
-      },
-      {
-        path: '/docs/Linux/软硬链接',
-        component: ComponentCreator('/docs/Linux/软硬链接', '94c'),
         exact: true,
         sidebar: "Sidebar"
       },
@@ -163,6 +162,12 @@ export default [
       {
         path: '/docs/Linux/wsl中docker换源',
         component: ComponentCreator('/docs/Linux/wsl中docker换源', 'c18'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/Linux/软硬链接',
+        component: ComponentCreator('/docs/Linux/软硬链接', '94c'),
         exact: true,
         sidebar: "Sidebar"
       },

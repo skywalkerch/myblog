@@ -19,82 +19,6 @@
           "contentPathLocalized": "C:\\Users\\skywalkerch\\myblog\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
-              "unversionedId": "CET6/翻译真题",
-              "id": "CET6/翻译真题",
-              "title": "翻译真题",
-              "description": "2020 12",
-              "source": "@site/docs\\CET6\\翻译真题.md",
-              "sourceDirName": "CET6",
-              "slug": "/CET6/翻译真题",
-              "permalink": "/docs/CET6/翻译真题",
-              "draft": false,
-              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/CET6/翻译真题.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "翻译真题"
-              },
-              "sidebar": "Sidebar",
-              "previous": {
-                "title": "关于book的表达",
-                "permalink": "/docs/CET6/关于book的表达"
-              },
-              "next": {
-                "title": "const与指针",
-                "permalink": "/docs/Lang/C++/const与指针"
-              }
-            },
-            {
-              "unversionedId": "CET6/关于book的表达",
-              "id": "CET6/关于book的表达",
-              "title": "关于book的表达",
-              "description": "用功",
-              "source": "@site/docs\\CET6\\关于book的表达.md",
-              "sourceDirName": "CET6",
-              "slug": "/CET6/关于book的表达",
-              "permalink": "/docs/CET6/关于book的表达",
-              "draft": false,
-              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/CET6/关于book的表达.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "关于book的表达"
-              },
-              "sidebar": "Sidebar",
-              "previous": {
-                "title": "六级必会的584个词",
-                "permalink": "/docs/CET6/六级必会的584个词"
-              },
-              "next": {
-                "title": "翻译真题",
-                "permalink": "/docs/CET6/翻译真题"
-              }
-            },
-            {
-              "unversionedId": "CET6/六级必会的584个词",
-              "id": "CET6/六级必会的584个词",
-              "title": "六级必会的584个词",
-              "description": "1. alter v. 改变，改动，变更",
-              "source": "@site/docs\\CET6\\六级必会的584个词.md",
-              "sourceDirName": "CET6",
-              "slug": "/CET6/六级必会的584个词",
-              "permalink": "/docs/CET6/六级必会的584个词",
-              "draft": false,
-              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/CET6/六级必会的584个词.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "Sidebar",
-              "previous": {
-                "title": "作文真题",
-                "permalink": "/docs/CET6/作文真题"
-              },
-              "next": {
-                "title": "关于book的表达",
-                "permalink": "/docs/CET6/关于book的表达"
-              }
-            },
-            {
               "unversionedId": "CET6/五个英语学习技巧",
               "id": "CET6/五个英语学习技巧",
               "title": "五个英语学习的技巧",
@@ -147,6 +71,82 @@
               }
             },
             {
+              "unversionedId": "CET6/六级必会的584个词",
+              "id": "CET6/六级必会的584个词",
+              "title": "六级必会的584个词",
+              "description": "1. alter v. 改变，改动，变更",
+              "source": "@site/docs\\CET6\\六级必会的584个词.md",
+              "sourceDirName": "CET6",
+              "slug": "/CET6/六级必会的584个词",
+              "permalink": "/docs/CET6/六级必会的584个词",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/CET6/六级必会的584个词.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "作文真题",
+                "permalink": "/docs/CET6/作文真题"
+              },
+              "next": {
+                "title": "关于book的表达",
+                "permalink": "/docs/CET6/关于book的表达"
+              }
+            },
+            {
+              "unversionedId": "CET6/关于book的表达",
+              "id": "CET6/关于book的表达",
+              "title": "关于book的表达",
+              "description": "用功",
+              "source": "@site/docs\\CET6\\关于book的表达.md",
+              "sourceDirName": "CET6",
+              "slug": "/CET6/关于book的表达",
+              "permalink": "/docs/CET6/关于book的表达",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/CET6/关于book的表达.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "关于book的表达"
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "六级必会的584个词",
+                "permalink": "/docs/CET6/六级必会的584个词"
+              },
+              "next": {
+                "title": "翻译真题",
+                "permalink": "/docs/CET6/翻译真题"
+              }
+            },
+            {
+              "unversionedId": "CET6/翻译真题",
+              "id": "CET6/翻译真题",
+              "title": "翻译真题",
+              "description": "2020 12",
+              "source": "@site/docs\\CET6\\翻译真题.md",
+              "sourceDirName": "CET6",
+              "slug": "/CET6/翻译真题",
+              "permalink": "/docs/CET6/翻译真题",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/CET6/翻译真题.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "翻译真题"
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "关于book的表达",
+                "permalink": "/docs/CET6/关于book的表达"
+              },
+              "next": {
+                "title": "const与指针",
+                "permalink": "/docs/Lang/C++/const与指针"
+              }
+            },
+            {
               "unversionedId": "intro",
               "id": "intro",
               "title": "intro",
@@ -167,30 +167,6 @@
               "next": {
                 "title": "看书记录表",
                 "permalink": "/docs/Machine-Learning/intro"
-              }
-            },
-            {
-              "unversionedId": "Lang/C++/静态库与动态库",
-              "id": "Lang/C++/静态库与动态库",
-              "title": "静态库与动态库",
-              "description": "一直以来我对C系列语言的系统级编程都没有什么经验，每次安装windows软件都会遇到dll，在Linux下编程时也会遇到libxxx缺失等等问题，一直以来都没有对这方面彻底弄懂。正好可以趁这个寒假的机会多写几篇博客彻底弄懂这些有趣的东西，给自己的编程之旅打下基础。",
-              "source": "@site/docs\\Lang\\C++\\静态库与动态库.md",
-              "sourceDirName": "Lang/C++",
-              "slug": "/Lang/C++/静态库与动态库",
-              "permalink": "/docs/Lang/C++/静态库与动态库",
-              "draft": false,
-              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Lang/C++/静态库与动态库.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "Sidebar",
-              "previous": {
-                "title": "make与automake",
-                "permalink": "/docs/Lang/C++/make与automake"
-              },
-              "next": {
-                "title": "intro",
-                "permalink": "/docs/Lang/intro"
               }
             },
             {
@@ -246,6 +222,30 @@
               }
             },
             {
+              "unversionedId": "Lang/C++/静态库与动态库",
+              "id": "Lang/C++/静态库与动态库",
+              "title": "静态库与动态库",
+              "description": "一直以来我对C系列语言的系统级编程都没有什么经验，每次安装windows软件都会遇到dll，在Linux下编程时也会遇到libxxx缺失等等问题，一直以来都没有对这方面彻底弄懂。正好可以趁这个寒假的机会多写几篇博客彻底弄懂这些有趣的东西，给自己的编程之旅打下基础。",
+              "source": "@site/docs\\Lang\\C++\\静态库与动态库.md",
+              "sourceDirName": "Lang/C++",
+              "slug": "/Lang/C++/静态库与动态库",
+              "permalink": "/docs/Lang/C++/静态库与动态库",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Lang/C++/静态库与动态库.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "make与automake",
+                "permalink": "/docs/Lang/C++/make与automake"
+              },
+              "next": {
+                "title": "intro",
+                "permalink": "/docs/Lang/intro"
+              }
+            },
+            {
               "unversionedId": "Lang/intro",
               "id": "Lang/intro",
               "title": "intro",
@@ -289,32 +289,6 @@
               "previous": {
                 "title": "软硬链接",
                 "permalink": "/docs/Linux/软硬链接"
-              }
-            },
-            {
-              "unversionedId": "Linux/软硬链接",
-              "id": "Linux/软硬链接",
-              "title": "软硬链接",
-              "description": "我们知道任何文件都有文件名与文件内容两个属性，这在Linux操作系统里面被分成两个部分：用户数据(user data)与元数据(mete data)。",
-              "source": "@site/docs\\Linux\\软硬链接.md",
-              "sourceDirName": "Linux",
-              "slug": "/Linux/软硬链接",
-              "permalink": "/docs/Linux/软硬链接",
-              "draft": false,
-              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Linux/软硬链接.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "软硬链接"
-              },
-              "sidebar": "Sidebar",
-              "previous": {
-                "title": "wsl中docker换源",
-                "permalink": "/docs/Linux/wsl中docker换源"
-              },
-              "next": {
-                "title": "图片排版",
-                "permalink": "/docs/latex/图片排版"
               }
             },
             {
@@ -391,6 +365,32 @@
               "next": {
                 "title": "软硬链接",
                 "permalink": "/docs/Linux/软硬链接"
+              }
+            },
+            {
+              "unversionedId": "Linux/软硬链接",
+              "id": "Linux/软硬链接",
+              "title": "软硬链接",
+              "description": "我们知道任何文件都有文件名与文件内容两个属性，这在Linux操作系统里面被分成两个部分：用户数据(user data)与元数据(mete data)。",
+              "source": "@site/docs\\Linux\\软硬链接.md",
+              "sourceDirName": "Linux",
+              "slug": "/Linux/软硬链接",
+              "permalink": "/docs/Linux/软硬链接",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Linux/软硬链接.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "软硬链接"
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "wsl中docker换源",
+                "permalink": "/docs/Linux/wsl中docker换源"
+              },
+              "next": {
+                "title": "图片排版",
+                "permalink": "/docs/latex/图片排版"
               }
             },
             {
@@ -761,6 +761,13 @@
         "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.tsx"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/nevigation",
+        "source": "@site/src/pages/nevigation.md",
+        "description": "Books",
+        "frontMatter": {}
       }
     ]
   },

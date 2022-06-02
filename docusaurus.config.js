@@ -46,7 +46,7 @@ const config = {
     type: 'text/css',
     integrity: 'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
     crossorigin: 'anonymous',
-  }, ],
+  },],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -81,64 +81,80 @@ const config = {
           src: 'img/orange.svg',
         },
         items: [{
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: '所得所感',
-          },
-          {
-            to: '/blog',
-            label: '博客',
-            position: 'left'
-          },
-          {
-            href: 'https://github.com/skywalkerch/',
-            label: 'GitHub',
-            position: 'right',
-          },
-          {
-            to: '/about',
-            label: '关于',
-            position: 'right'
-          },
+          type: 'doc',
+          docId: 'intro',
+          position: 'left',
+          label: '所得所感',
+        },
+        {
+          to: '/blog',
+          label: '博客',
+          position: 'left'
+        },
+
+
+
+
+
+        {
+          href: 'https://github.com/skywalkerch/',
+          label: 'GitHub',
+          position: 'right',
+        },
+
+
+
+        {
+          to: '/nevigation',
+          label: '导航',
+          position: 'right'
+        },
+
+
+
+        {
+          to: '/about',
+          label: '关于',
+          position: 'right'
+        },
 
         ],
       },
       footer: {
         style: 'dark',
         links: [{
-            title: '文档',
-            items: [{
-              label: '所得所感',
-              to: '/docs/intro',
-            }, ],
+          title: '文档',
+          items: [{
+            label: '所得所感',
+            to: '/docs/intro',
+          },],
+        },
+        {
+          title: '社交',
+          items: [{
+            label: '邮箱',
+            href: 'mailto:skywalkerch@foxmail.com',
+          },],
+        },
+        {
+          title: '更多',
+          items: [{
+            label: '博客',
+            to: '/blog',
           },
           {
-            title: '社交',
-            items: [{
-              label: '邮箱',
-              href: 'mailto:skywalkerch@foxmail.com',
-            }, ],
+            label: 'GitHub',
+            href: 'https://github.com/skywalkerch',
           },
-          {
-            title: '更多',
-            items: [{
-                label: '博客',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/skywalkerch',
-              },
-            ],
-          },
+          ],
+        },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} 橙子的小破站 鄂ICP备2020019116`,
       },
       metadata: [
-        {name:'msvalidate.01',content:'746EDE45770E2CA6A99A4AD87020E42A'},
-        {name: 'baidu-site-verification', content: 'code-QYVX95fhH3'},
-        {name: 'skywalkerch,橙子,小橙子', content: '数学建模,博客,Linux,机器学习,神经网络,深度学习'}],
+        { name: 'msvalidate.01', content: '746EDE45770E2CA6A99A4AD87020E42A' },
+        { name: 'baidu-site-verification', content: 'code-QYVX95fhH3' },
+        { name: 'skywalkerch,橙子,小橙子', content: '数学建模,博客,Linux,机器学习,神经网络,深度学习' }],
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
