@@ -149,7 +149,7 @@ const config = {
           ],
         },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} 橙子的小破站 鄂ICP备2020019116`,
+        copyright: `Copyright © ${new Date().getFullYear()} 橙子的小破站`,
       },
       metadata: [
         { name: 'msvalidate.01', content: '746EDE45770E2CA6A99A4AD87020E42A' },
