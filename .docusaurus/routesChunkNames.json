@@ -95,6 +95,13 @@
     },
     "content": "content---dayf-85-835"
   },
+  "/modernHistory-361": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---about-38-e-e66"
+    },
+    "content": "content---modern-history-5-c-5-f5b"
+  },
   "/nevigation-88d": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
@@ -107,6 +114,13 @@
     "__context": {
       "plugin": "plugin---searchb-23-f69"
     }
+  },
+  "/thoughtDay-ade": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---about-38-e-e66"
+    },
+    "content": "content---thought-day-88-f-704"
   },
   "/docs-e34": {
     "__comp": "__comp---theme-doc-page-1-be-9be",

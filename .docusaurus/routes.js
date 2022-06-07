@@ -68,6 +68,11 @@ export default [
     exact: true
   },
   {
+    path: '/modernHistory',
+    component: ComponentCreator('/modernHistory', '361'),
+    exact: true
+  },
+  {
     path: '/nevigation',
     component: ComponentCreator('/nevigation', '88d'),
     exact: true
@@ -75,6 +80,11 @@ export default [
   {
     path: '/search',
     component: ComponentCreator('/search', '0d6'),
+    exact: true
+  },
+  {
+    path: '/thoughtDay',
+    component: ComponentCreator('/thoughtDay', 'ade'),
     exact: true
   },
   {

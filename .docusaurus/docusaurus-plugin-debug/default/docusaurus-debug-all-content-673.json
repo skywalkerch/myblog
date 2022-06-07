@@ -764,9 +764,24 @@
       },
       {
         "type": "mdx",
+        "permalink": "/modernHistory",
+        "source": "@site/src/pages/modernHistory.md",
+        "description": "简单题1 简述近现代以来反侵略战争失败的原因和教训",
+        "frontMatter": {}
+      },
+      {
+        "type": "mdx",
         "permalink": "/nevigation",
         "source": "@site/src/pages/nevigation.md",
         "description": "Books",
+        "frontMatter": {}
+      },
+      {
+        "type": "mdx",
+        "permalink": "/thoughtDay",
+        "source": "@site/src/pages/thoughtDay.md",
+        "title": "记录一些感想吧",
+        "description": "2022 6-6",
         "frontMatter": {}
       }
     ]
