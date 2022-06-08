@@ -14,6 +14,8 @@
 
 - [NASA](https://www.nasa.gov/)
 
+- [豆瓣](https://www.douban.com)
+
 ## paper
 
 - [paper with code](https://paperswithcode.com/)
