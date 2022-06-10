@@ -89,7 +89,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e34'),
+    component: ComponentCreator('/docs', '49d'),
     routes: [
       {
         path: '/docs/CET6/五个英语学习技巧',
@@ -100,6 +100,12 @@ export default [
       {
         path: '/docs/CET6/作文真题',
         component: ComponentCreator('/docs/CET6/作文真题', '4bd'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/CET6/作文预测',
+        component: ComponentCreator('/docs/CET6/作文预测', '955'),
         exact: true,
         sidebar: "Sidebar"
       },
@@ -118,6 +124,12 @@ export default [
       {
         path: '/docs/CET6/翻译真题',
         component: ComponentCreator('/docs/CET6/翻译真题', 'ebc'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/CET6/翻译预测',
+        component: ComponentCreator('/docs/CET6/翻译预测', 'c36'),
         exact: true,
         sidebar: "Sidebar"
       },

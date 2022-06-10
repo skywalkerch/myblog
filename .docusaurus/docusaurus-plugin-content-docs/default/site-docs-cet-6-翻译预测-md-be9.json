@@ -1,0 +1,26 @@
+{
+  "unversionedId": "CET6/翻译预测",
+  "id": "CET6/翻译预测",
+  "title": "翻译预测",
+  "description": "中国书法作为汉字书写的艺术,具有非常悠久的历史。它是中国艺术的最高形式之一,既能传达思想,又能展示线条抽象的美感。人们还普遍认为,练习书法能够使人保持身体健康。中国历史上的书法家多有长寿之辈,也证实了这一说法。人们在练习书法时全神贯注,被书法作品的魅力深深吸引,从而对令人不快的事情视而不见,听而不闻,取而代之的是一种平静和轻松,以及一种舒适怡然的心理状态,这对身心大有裨益。",
+  "source": "@site/docs\\CET6\\翻译预测.md",
+  "sourceDirName": "CET6",
+  "slug": "/CET6/翻译预测",
+  "permalink": "/docs/CET6/翻译预测",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/CET6/翻译预测.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "翻译预测"
+  },
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "翻译真题",
+    "permalink": "/docs/CET6/翻译真题"
+  },
+  "next": {
+    "title": "const与指针",
+    "permalink": "/docs/Lang/C++/const与指针"
+  }
+}

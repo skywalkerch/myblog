@@ -21,6 +21,11 @@
               "sidebar": "Sidebar"
             },
             {
+              "id": "CET6/作文预测",
+              "path": "/docs/CET6/作文预测",
+              "sidebar": "Sidebar"
+            },
+            {
               "id": "CET6/六级必会的584个词",
               "path": "/docs/CET6/六级必会的584个词",
               "sidebar": "Sidebar"
@@ -33,6 +38,11 @@
             {
               "id": "CET6/翻译真题",
               "path": "/docs/CET6/翻译真题",
+              "sidebar": "Sidebar"
+            },
+            {
+              "id": "CET6/翻译预测",
+              "path": "/docs/CET6/翻译预测",
               "sidebar": "Sidebar"
             },
             {

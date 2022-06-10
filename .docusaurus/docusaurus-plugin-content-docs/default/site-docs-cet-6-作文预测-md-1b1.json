@@ -1,0 +1,26 @@
+{
+  "unversionedId": "CET6/作文预测",
+  "id": "CET6/作文预测",
+  "title": "作文预测",
+  "description": "孩子越早接触网络越好么？",
+  "source": "@site/docs\\CET6\\作文预测.md",
+  "sourceDirName": "CET6",
+  "slug": "/CET6/作文预测",
+  "permalink": "/docs/CET6/作文预测",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/CET6/作文预测.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "作文预测"
+  },
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "作文真题",
+    "permalink": "/docs/CET6/作文真题"
+  },
+  "next": {
+    "title": "六级必会的584个词",
+    "permalink": "/docs/CET6/六级必会的584个词"
+  }
+}
