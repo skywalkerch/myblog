@@ -101,6 +101,11 @@
               "sidebar": "Sidebar"
             },
             {
+              "id": "Machine-Learning/KNN",
+              "path": "/docs/Machine-Learning/KNN",
+              "sidebar": "Sidebar"
+            },
+            {
               "id": "Machine-Learning/SLM-SL-Perceptron",
               "path": "/docs/Machine-Learning/SLM-SL-Perceptron",
               "sidebar": "Sidebar"

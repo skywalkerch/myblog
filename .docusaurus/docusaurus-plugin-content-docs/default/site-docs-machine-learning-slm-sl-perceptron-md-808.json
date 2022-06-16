@@ -16,8 +16,8 @@
   },
   "sidebar": "Sidebar",
   "previous": {
-    "title": "intro",
-    "permalink": "/docs/intro"
+    "title": "KNN",
+    "permalink": "/docs/Machine-Learning/KNN"
   },
   "next": {
     "title": "看书记录表",

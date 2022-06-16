@@ -22,6 +22,12 @@
         "items": [
           {
             "type": "link",
+            "label": "KNN",
+            "href": "/docs/Machine-Learning/KNN",
+            "docId": "Machine-Learning/KNN"
+          },
+          {
+            "type": "link",
             "label": "SL-1.感知机",
             "href": "/docs/Machine-Learning/SLM-SL-Perceptron",
             "docId": "Machine-Learning/SLM-SL-Perceptron"
@@ -313,6 +319,12 @@
       "id": "Machine-Learning/intro",
       "title": "看书记录表",
       "description": "- 这只是一本入门级教科书,看完可以对机器学习的一些内容按图索骥",
+      "sidebar": "Sidebar"
+    },
+    "Machine-Learning/KNN": {
+      "id": "Machine-Learning/KNN",
+      "title": "KNN",
+      "description": "",
       "sidebar": "Sidebar"
     },
     "Machine-Learning/SLM-SL-Perceptron": {

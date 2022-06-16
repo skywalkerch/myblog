@@ -17,7 +17,7 @@
   },
   "sidebar": "Sidebar",
   "next": {
-    "title": "SL-1.感知机",
-    "permalink": "/docs/Machine-Learning/SLM-SL-Perceptron"
+    "title": "KNN",
+    "permalink": "/docs/Machine-Learning/KNN"
   }
 }

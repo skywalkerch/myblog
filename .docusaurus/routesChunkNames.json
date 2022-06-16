@@ -49,13 +49,16 @@
     },
     "content": "content---aboutc-9-f-e93"
   },
-  "/blog-07b": {
+  "/blog-0ca": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---bloge-1-f-c13"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
+      {
+        "content": "content---blog-4-b-4-8c3"
+      },
       {
         "content": "content---blog-052-5be"
       },
@@ -80,6 +83,14 @@
     },
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-2022-03-20-wsl安装-arch-linux-5-c-1-f5a"
+  },
+  "/blog/2022/06/16/后验概率最大化的含义-793": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---bloge-1-f-c13"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2022-06-16-后验概率最大化的含义-6-ad-e51"
   },
   "/blog/archive-307": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
@@ -122,7 +133,7 @@
     },
     "content": "content---thought-day-88-f-704"
   },
-  "/docs-096": {
+  "/docs-a79": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-61-a-fff"
@@ -200,6 +211,10 @@
   "/docs/Machine-Learning/intro-019": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-machine-learning-introd-2-a-075"
+  },
+  "/docs/Machine-Learning/KNN-0a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-machine-learning-knn-0-cf-cce"
   },
   "/docs/Machine-Learning/SLM-SL-Perceptron-dfc": {
     "__comp": "__comp---theme-doc-item-178-a40",

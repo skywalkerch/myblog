@@ -22,6 +22,10 @@
     "title": "Clion编译运行时中文乱码解决方案",
     "authors": "skywalkerch"
   },
+  "prevItem": {
+    "title": "后验概率最大化的含义解读",
+    "permalink": "/blog/2022/06/16/后验概率最大化的含义"
+  },
   "nextItem": {
     "title": "WSL安装ArchLinux总结",
     "permalink": "/blog/2022/03/20/WSL安装ArchLinux"

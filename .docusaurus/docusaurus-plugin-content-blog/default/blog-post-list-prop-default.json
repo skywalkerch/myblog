@@ -2,6 +2,10 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "后验概率最大化的含义解读",
+      "permalink": "/blog/2022/06/16/后验概率最大化的含义"
+    },
+    {
       "title": "Clion编译运行时中文乱码解决方案",
       "permalink": "/blog/2022/03/20/clion编译代码中文乱码解决方案"
     },

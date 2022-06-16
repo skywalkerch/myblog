@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '07b'),
+    component: ComponentCreator('/blog', '0ca'),
     exact: true
   },
   {
@@ -55,6 +55,11 @@ export default [
   {
     path: '/blog/2022/03/20/WSL安装ArchLinux',
     component: ComponentCreator('/blog/2022/03/20/WSL安装ArchLinux', '765'),
+    exact: true
+  },
+  {
+    path: '/blog/2022/06/16/后验概率最大化的含义',
+    component: ComponentCreator('/blog/2022/06/16/后验概率最大化的含义', '793'),
     exact: true
   },
   {
@@ -89,7 +94,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '096'),
+    component: ComponentCreator('/docs', 'a79'),
     routes: [
       {
         path: '/docs/CET6/翻译预测',
@@ -196,6 +201,12 @@ export default [
       {
         path: '/docs/Machine-Learning/intro',
         component: ComponentCreator('/docs/Machine-Learning/intro', '019'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/Machine-Learning/KNN',
+        component: ComponentCreator('/docs/Machine-Learning/KNN', '0a6'),
         exact: true,
         sidebar: "Sidebar"
       },

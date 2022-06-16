@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Machine-Learning/KNN",
+  "id": "Machine-Learning/KNN",
+  "title": "KNN",
+  "description": "",
+  "source": "@site/docs/Machine-Learning/KNN.md",
+  "sourceDirName": "Machine-Learning",
+  "slug": "/Machine-Learning/KNN",
+  "permalink": "/docs/Machine-Learning/KNN",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Machine-Learning/KNN.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "intro",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "SL-1.感知机",
+    "permalink": "/docs/Machine-Learning/SLM-SL-Perceptron"
+  }
+}

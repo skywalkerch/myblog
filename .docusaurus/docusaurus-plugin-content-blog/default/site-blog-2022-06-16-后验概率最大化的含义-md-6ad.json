@@ -1,0 +1,29 @@
+{
+  "permalink": "/blog/2022/06/16/后验概率最大化的含义",
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/blog/2022-06-16-后验概率最大化的含义.md",
+  "source": "@site/blog\\2022-06-16-后验概率最大化的含义.md",
+  "title": "后验概率最大化的含义解读",
+  "description": "最近在啃《统计学习方法》，说实话，我一个土木专业的大二学生的数学水平想要顺利吃透这本机器学习经典非常有难度，昨天看完了第四章“朴素贝叶斯的学习方法与分类”，并存在一个问题——[后验概率最大化的详细证明]。今天在网上看到好多博客对这个地方做了详细的解释，我也在这里写下我自己的见解",
+  "date": "2022-06-16T00:00:00.000Z",
+  "formattedDate": "June 16, 2022",
+  "tags": [],
+  "readingTime": 2.56,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Orange.Skywalkerch",
+      "title": "the author of this website",
+      "url": "https://github.com/skywalkerch",
+      "imageURL": "https://picbed-1303839378.cos.ap-nanjing.myqcloud.com/picbed/202201032154362.jpg",
+      "key": "skywalkerch"
+    }
+  ],
+  "frontMatter": {
+    "title": "后验概率最大化的含义解读",
+    "authors": "skywalkerch"
+  },
+  "nextItem": {
+    "title": "Clion编译运行时中文乱码解决方案",
+    "permalink": "/blog/2022/03/20/clion编译代码中文乱码解决方案"
+  }
+}
