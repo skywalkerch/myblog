@@ -16,8 +16,8 @@
   },
   "sidebar": "Sidebar",
   "previous": {
-    "title": "intro",
-    "permalink": "/docs/intro"
+    "title": "SL-1.感知机",
+    "permalink": "/docs/Machine-Learning/SLM-SL-Perceptron"
   },
   "next": {
     "title": "层次分析法🧩",

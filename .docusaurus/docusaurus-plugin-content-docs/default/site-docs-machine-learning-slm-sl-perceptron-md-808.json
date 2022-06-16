@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Machine-Learning/SLM-SL-Perceptron",
+  "id": "Machine-Learning/SLM-SL-Perceptron",
+  "title": "SL-1.感知机",
+  "description": "- 二类分类的线性分类模型",
+  "source": "@site/docs/Machine-Learning/SLM-SL-Perceptron.md",
+  "sourceDirName": "Machine-Learning",
+  "slug": "/Machine-Learning/SLM-SL-Perceptron",
+  "permalink": "/docs/Machine-Learning/SLM-SL-Perceptron",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/Machine-Learning/SLM-SL-Perceptron.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SL-1.感知机"
+  },
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "intro",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "看书记录表",
+    "permalink": "/docs/Machine-Learning/intro"
+  }
+}

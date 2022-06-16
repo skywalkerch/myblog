@@ -89,35 +89,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '49d'),
+    component: ComponentCreator('/docs', '096'),
     routes: [
       {
-        path: '/docs/CET6/五个英语学习技巧',
-        component: ComponentCreator('/docs/CET6/五个英语学习技巧', 'e56'),
-        exact: true,
-        sidebar: "Sidebar"
-      },
-      {
-        path: '/docs/CET6/作文真题',
-        component: ComponentCreator('/docs/CET6/作文真题', '4bd'),
-        exact: true,
-        sidebar: "Sidebar"
-      },
-      {
-        path: '/docs/CET6/作文预测',
-        component: ComponentCreator('/docs/CET6/作文预测', '955'),
-        exact: true,
-        sidebar: "Sidebar"
-      },
-      {
-        path: '/docs/CET6/六级必会的584个词',
-        component: ComponentCreator('/docs/CET6/六级必会的584个词', '0dc'),
-        exact: true,
-        sidebar: "Sidebar"
-      },
-      {
-        path: '/docs/CET6/关于book的表达',
-        component: ComponentCreator('/docs/CET6/关于book的表达', '8f4'),
+        path: '/docs/CET6/翻译预测',
+        component: ComponentCreator('/docs/CET6/翻译预测', 'c36'),
         exact: true,
         sidebar: "Sidebar"
       },
@@ -128,14 +104,44 @@ export default [
         sidebar: "Sidebar"
       },
       {
-        path: '/docs/CET6/翻译预测',
-        component: ComponentCreator('/docs/CET6/翻译预测', 'c36'),
+        path: '/docs/CET6/关于book的表达',
+        component: ComponentCreator('/docs/CET6/关于book的表达', '8f4'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/CET6/六级必会的584个词',
+        component: ComponentCreator('/docs/CET6/六级必会的584个词', '0dc'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/CET6/五个英语学习技巧',
+        component: ComponentCreator('/docs/CET6/五个英语学习技巧', 'e56'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/CET6/作文预测',
+        component: ComponentCreator('/docs/CET6/作文预测', '955'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/CET6/作文真题',
+        component: ComponentCreator('/docs/CET6/作文真题', '4bd'),
         exact: true,
         sidebar: "Sidebar"
       },
       {
         path: '/docs/intro',
         component: ComponentCreator('/docs/intro', 'c49'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/Lang/C++/静态库与动态库',
+        component: ComponentCreator('/docs/Lang/C++/静态库与动态库', '8b1'),
         exact: true,
         sidebar: "Sidebar"
       },
@@ -152,12 +158,6 @@ export default [
         sidebar: "Sidebar"
       },
       {
-        path: '/docs/Lang/C++/静态库与动态库',
-        component: ComponentCreator('/docs/Lang/C++/静态库与动态库', '8b1'),
-        exact: true,
-        sidebar: "Sidebar"
-      },
-      {
         path: '/docs/Lang/intro',
         component: ComponentCreator('/docs/Lang/intro', '1f4'),
         exact: true,
@@ -166,6 +166,12 @@ export default [
       {
         path: '/docs/latex/图片排版',
         component: ComponentCreator('/docs/latex/图片排版', '50f'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/Linux/软硬链接',
+        component: ComponentCreator('/docs/Linux/软硬链接', '94c'),
         exact: true,
         sidebar: "Sidebar"
       },
@@ -188,14 +194,14 @@ export default [
         sidebar: "Sidebar"
       },
       {
-        path: '/docs/Linux/软硬链接',
-        component: ComponentCreator('/docs/Linux/软硬链接', '94c'),
+        path: '/docs/Machine-Learning/intro',
+        component: ComponentCreator('/docs/Machine-Learning/intro', '019'),
         exact: true,
         sidebar: "Sidebar"
       },
       {
-        path: '/docs/Machine-Learning/intro',
-        component: ComponentCreator('/docs/Machine-Learning/intro', '019'),
+        path: '/docs/Machine-Learning/SLM-SL-Perceptron',
+        component: ComponentCreator('/docs/Machine-Learning/SLM-SL-Perceptron', 'dfc'),
         exact: true,
         sidebar: "Sidebar"
       },

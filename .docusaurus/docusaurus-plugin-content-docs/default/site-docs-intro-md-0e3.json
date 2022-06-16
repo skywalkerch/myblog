@@ -17,7 +17,7 @@
   },
   "sidebar": "Sidebar",
   "next": {
-    "title": "看书记录表",
-    "permalink": "/docs/Machine-Learning/intro"
+    "title": "SL-1.感知机",
+    "permalink": "/docs/Machine-Learning/SLM-SL-Perceptron"
   }
 }
