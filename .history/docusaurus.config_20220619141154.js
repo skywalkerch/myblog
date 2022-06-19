@@ -140,7 +140,7 @@ const config = {
           title: '更多',
           items: [{
             label: '博客',
-            to: 'https://myblog2-five.vercel.app/',
+            to: '/blog',
           },
           {
             label: 'GitHub',

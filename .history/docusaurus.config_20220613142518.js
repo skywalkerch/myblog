@@ -87,7 +87,7 @@ const config = {
           label: '所得所感',
         },
         {
-          to: 'https://myblog2-five.vercel.app/',
+          to: '/blog',
           label: '博客',
           position: 'left'
         },
@@ -140,7 +140,7 @@ const config = {
           title: '更多',
           items: [{
             label: '博客',
-            to: 'https://myblog2-five.vercel.app/',
+            to: '/blog',
           },
           {
             label: 'GitHub',
