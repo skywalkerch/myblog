@@ -1,142 +1,92 @@
 {
-  "/__docusaurus/debug-884": {
+  "/__docusaurus/debug-fd6": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-3-fe-c29"
+      "plugin": "plugin---docusaurus-debug-005-017"
     }
   },
-  "/__docusaurus/debug/config-623": {
+  "/__docusaurus/debug/config-355": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-3-fe-c29"
+      "plugin": "plugin---docusaurus-debug-005-017"
     }
   },
-  "/__docusaurus/debug/content-866": {
+  "/__docusaurus/debug/content-2e2": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-3-fe-c29"
+      "plugin": "plugin---docusaurus-debug-005-017"
     },
     "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/__docusaurus/debug/globalData-241": {
+  "/__docusaurus/debug/globalData-c8a": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-3-fe-c29"
+      "plugin": "plugin---docusaurus-debug-005-017"
     }
   },
-  "/__docusaurus/debug/metadata-5fa": {
+  "/__docusaurus/debug/metadata-4bb": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-3-fe-c29"
+      "plugin": "plugin---docusaurus-debug-005-017"
     }
   },
-  "/__docusaurus/debug/registry-b5a": {
+  "/__docusaurus/debug/registry-ba6": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-3-fe-c29"
+      "plugin": "plugin---docusaurus-debug-005-017"
     }
   },
-  "/__docusaurus/debug/routes-40d": {
+  "/__docusaurus/debug/routes-bbb": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-3-fe-c29"
+      "plugin": "plugin---docusaurus-debug-005-017"
     }
   },
-  "/about-3f4": {
+  "/about-527": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---about-38-e-e66"
+      "plugin": "plugin---about-942-6e2"
     },
     "content": "content---aboutc-9-f-e93"
   },
-  "/blog-0ca": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
-    "__context": {
-      "plugin": "plugin---bloge-1-f-c13"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blog-4-b-4-8c3"
-      },
-      {
-        "content": "content---blog-052-5be"
-      },
-      {
-        "content": "content---blogc-56-cce"
-      }
-    ],
-    "metadata": "metadata---blogb-2-b-df1"
-  },
-  "/blog/2022/03/20/clion编译代码中文乱码解决方案-dfe": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---bloge-1-f-c13"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2022-03-20-clion编译代码中文乱码解决方案-90-f-87a"
-  },
-  "/blog/2022/03/20/WSL安装ArchLinux-765": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---bloge-1-f-c13"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2022-03-20-wsl安装-arch-linux-5-c-1-f5a"
-  },
-  "/blog/2022/06/16/后验概率最大化的含义-793": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---bloge-1-f-c13"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2022-06-16-后验概率最大化的含义-6-ad-e51"
-  },
-  "/blog/archive-307": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
-    "__context": {
-      "plugin": "plugin---bloge-1-f-c13"
-    },
-    "archive": "archive---blog-archiveb-2-f-393"
-  },
-  "/day-310": {
+  "/day-44a": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---about-38-e-e66"
+      "plugin": "plugin---about-942-6e2"
     },
     "content": "content---dayf-85-835"
   },
-  "/modernHistory-361": {
+  "/modernHistory-8ce": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---about-38-e-e66"
+      "plugin": "plugin---about-942-6e2"
     },
     "content": "content---modern-history-5-c-5-f5b"
   },
-  "/nevigation-88d": {
+  "/nevigation-e0e": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---about-38-e-e66"
+      "plugin": "plugin---about-942-6e2"
     },
     "content": "content---nevigatione-24-332"
   },
-  "/search-0d6": {
+  "/search-c6f": {
     "__comp": "__comp---theme-search-page-1-a-4-d6f",
     "__context": {
-      "plugin": "plugin---searchb-23-f69"
+      "plugin": "plugin---searchb-65-435"
     }
   },
-  "/thoughtDay-ade": {
+  "/thoughtDay-b65": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---about-38-e-e66"
+      "plugin": "plugin---about-942-6e2"
     },
     "content": "content---thought-day-88-f-704"
   },
-  "/docs-a79": {
+  "/docs-b1f": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---docs-61-a-fff"
+      "plugin": "plugin---docs-092-37e"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -232,10 +182,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-mathmodel-recordd-5-b-6a4"
   },
-  "/-0e7": {
+  "/-812": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "plugin---about-38-e-e66"
+      "plugin": "plugin---about-942-6e2"
     },
     "config": "config---5-e-9-4f3"
   }

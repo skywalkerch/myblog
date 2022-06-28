@@ -18,7 +18,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\skywalkerch\\myblog\\sidebars.js",
+          "sidebarPath": "C:\\Users\\skywalkerch\\mysite\\sidebars.js",
           "remarkPlugins": [
             null
           ],
@@ -32,7 +32,7 @@ export default {
           "editUrl": "https://github.com/skywalkerch/myblog/blob/main"
         },
         "theme": {
-          "customCss": "C:\\Users\\skywalkerch\\myblog\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\skywalkerch\\mysite\\src\\css\\custom.css"
         }
       }
     ]
@@ -68,7 +68,7 @@ export default {
           "label": "所得所感"
         },
         {
-          "to": "/blog",
+          "to": "https://myblog2-five.vercel.app/",
           "label": "博客",
           "position": "left"
         },
@@ -116,7 +116,7 @@ export default {
           "items": [
             {
               "label": "博客",
-              "to": "/blog"
+              "to": "https://myblog2-five.vercel.app/"
             },
             {
               "label": "GitHub",

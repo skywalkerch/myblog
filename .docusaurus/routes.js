@@ -4,97 +4,72 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '884'),
+    component: ComponentCreator('/__docusaurus/debug', 'fd6'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '623'),
+    component: ComponentCreator('/__docusaurus/debug/config', '355'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '866'),
+    component: ComponentCreator('/__docusaurus/debug/content', '2e2'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '241'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c8a'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '5fa'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '4bb'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', 'b5a'),
+    component: ComponentCreator('/__docusaurus/debug/registry', 'ba6'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '40d'),
+    component: ComponentCreator('/__docusaurus/debug/routes', 'bbb'),
     exact: true
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '3f4'),
-    exact: true
-  },
-  {
-    path: '/blog',
-    component: ComponentCreator('/blog', '0ca'),
-    exact: true
-  },
-  {
-    path: '/blog/2022/03/20/clion编译代码中文乱码解决方案',
-    component: ComponentCreator('/blog/2022/03/20/clion编译代码中文乱码解决方案', 'dfe'),
-    exact: true
-  },
-  {
-    path: '/blog/2022/03/20/WSL安装ArchLinux',
-    component: ComponentCreator('/blog/2022/03/20/WSL安装ArchLinux', '765'),
-    exact: true
-  },
-  {
-    path: '/blog/2022/06/16/后验概率最大化的含义',
-    component: ComponentCreator('/blog/2022/06/16/后验概率最大化的含义', '793'),
-    exact: true
-  },
-  {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '307'),
+    component: ComponentCreator('/about', '527'),
     exact: true
   },
   {
     path: '/day',
-    component: ComponentCreator('/day', '310'),
+    component: ComponentCreator('/day', '44a'),
     exact: true
   },
   {
     path: '/modernHistory',
-    component: ComponentCreator('/modernHistory', '361'),
+    component: ComponentCreator('/modernHistory', '8ce'),
     exact: true
   },
   {
     path: '/nevigation',
-    component: ComponentCreator('/nevigation', '88d'),
+    component: ComponentCreator('/nevigation', 'e0e'),
     exact: true
   },
   {
     path: '/search',
-    component: ComponentCreator('/search', '0d6'),
+    component: ComponentCreator('/search', 'c6f'),
     exact: true
   },
   {
     path: '/thoughtDay',
-    component: ComponentCreator('/thoughtDay', 'ade'),
+    component: ComponentCreator('/thoughtDay', 'b65'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a79'),
+    component: ComponentCreator('/docs', 'b1f'),
     routes: [
       {
         path: '/docs/CET6/翻译预测',
@@ -238,7 +213,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '0e7'),
+    component: ComponentCreator('/', '812'),
     exact: true
   },
   {
