@@ -1,0 +1,27 @@
+{
+  "unversionedId": "write/WSL安装ArchLinux",
+  "id": "write/WSL安装ArchLinux",
+  "title": "WSL安装ArchLinux总结",
+  "description": "不要简单抄袭别人的博客而不加思考。",
+  "source": "@site/docs\\write\\WSL安装ArchLinux.md",
+  "sourceDirName": "write",
+  "slug": "/write/WSL安装ArchLinux",
+  "permalink": "/docs/write/WSL安装ArchLinux",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/write/WSL安装ArchLinux.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WSL安装ArchLinux总结",
+    "authors": "skywalkerch"
+  },
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "图片排版",
+    "permalink": "/docs/latex/图片排版"
+  },
+  "next": {
+    "title": "Clion编译运行时中文乱码解决方案",
+    "permalink": "/docs/write/clion编译代码中文乱码解决方案"
+  }
+}

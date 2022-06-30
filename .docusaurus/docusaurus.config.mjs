@@ -20,6 +20,7 @@ export default {
         "docs": {
           "sidebarPath": "C:\\Users\\skywalkerch\\mysite\\sidebars.js",
           "remarkPlugins": [
+            null,
             null
           ],
           "rehypePlugins": [
@@ -46,14 +47,6 @@ export default {
     }
   ],
   "themeConfig": {
-    "algolia": {
-      "appId": "D8GSM3SDUV",
-      "apiKey": "3b2768ccb2f62f0a5e199df1e46270e0",
-      "indexName": "blog_query_suggestions",
-      "contextualSearch": true,
-      "searchParameters": {},
-      "searchPagePath": "search"
-    },
     "navbar": {
       "title": "橙子的小破站",
       "logo": {
@@ -66,11 +59,6 @@ export default {
           "docId": "intro",
           "position": "left",
           "label": "所得所感"
-        },
-        {
-          "to": "https://myblog2-five.vercel.app/",
-          "label": "博客",
-          "position": "left"
         },
         {
           "href": "https://github.com/skywalkerch/",
@@ -114,10 +102,6 @@ export default {
         {
           "title": "更多",
           "items": [
-            {
-              "label": "博客",
-              "to": "https://myblog2-five.vercel.app/"
-            },
             {
               "label": "GitHub",
               "href": "https://github.com/skywalkerch"
@@ -362,6 +346,21 @@ export default {
       "maxHeadingLevel": 3
     }
   },
+  "themes": [
+    [
+      "C:\\Users\\skywalkerch\\mysite\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      {
+        "hashed": true,
+        "language": [
+          "en",
+          "zh"
+        ]
+      }
+    ]
+  ],
+  "plugins": [
+    "plugin-image-zoom"
+  ],
   "baseUrlIssueBanner": true,
   "i18n": {
     "defaultLocale": "en",
@@ -375,8 +374,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
-  "themes": [],
   "scripts": [],
   "clientModules": [],
   "titleDelimiter": "|",

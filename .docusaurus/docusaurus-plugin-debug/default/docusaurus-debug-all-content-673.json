@@ -341,6 +341,10 @@
               "previous": {
                 "title": "软硬链接",
                 "permalink": "/docs/Linux/软硬链接"
+              },
+              "next": {
+                "title": "WSL安装ArchLinux总结",
+                "permalink": "/docs/write/WSL安装ArchLinux"
               }
             },
             {
@@ -637,6 +641,82 @@
                 "title": "五个英语学习的技巧",
                 "permalink": "/docs/CET6/五个英语学习技巧"
               }
+            },
+            {
+              "unversionedId": "write/后验概率最大化的含义",
+              "id": "write/后验概率最大化的含义",
+              "title": "后验概率最大化的含义解读",
+              "description": "最近在啃《统计学习方法》，说实话，我一个土木专业的大二学生的数学水平想要顺利吃透这本机器学习经典非常有难度，昨天看完了第四章“朴素贝叶斯的学习方法与分类”，并存在一个问题——[后验概率最大化的详细证明]。今天在网上看到好多博客对这个地方做了详细的解释，我也在这里写下我自己的见解",
+              "source": "@site/docs\\write\\后验概率最大化的含义.md",
+              "sourceDirName": "write",
+              "slug": "/write/后验概率最大化的含义",
+              "permalink": "/docs/write/后验概率最大化的含义",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/write/后验概率最大化的含义.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "后验概率最大化的含义解读"
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "Clion编译运行时中文乱码解决方案",
+                "permalink": "/docs/write/clion编译代码中文乱码解决方案"
+              }
+            },
+            {
+              "unversionedId": "write/clion编译代码中文乱码解决方案",
+              "id": "write/clion编译代码中文乱码解决方案",
+              "title": "Clion编译运行时中文乱码解决方案",
+              "description": "此方案仅在 clion 的编译工具链为 mingw 的环境下测试过！",
+              "source": "@site/docs\\write\\clion编译代码中文乱码解决方案.md",
+              "sourceDirName": "write",
+              "slug": "/write/clion编译代码中文乱码解决方案",
+              "permalink": "/docs/write/clion编译代码中文乱码解决方案",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/write/clion编译代码中文乱码解决方案.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Clion编译运行时中文乱码解决方案",
+                "authors": "skywalkerch"
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "WSL安装ArchLinux总结",
+                "permalink": "/docs/write/WSL安装ArchLinux"
+              },
+              "next": {
+                "title": "后验概率最大化的含义解读",
+                "permalink": "/docs/write/后验概率最大化的含义"
+              }
+            },
+            {
+              "unversionedId": "write/WSL安装ArchLinux",
+              "id": "write/WSL安装ArchLinux",
+              "title": "WSL安装ArchLinux总结",
+              "description": "不要简单抄袭别人的博客而不加思考。",
+              "source": "@site/docs\\write\\WSL安装ArchLinux.md",
+              "sourceDirName": "write",
+              "slug": "/write/WSL安装ArchLinux",
+              "permalink": "/docs/write/WSL安装ArchLinux",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/write/WSL安装ArchLinux.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "WSL安装ArchLinux总结",
+                "authors": "skywalkerch"
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "图片排版",
+                "permalink": "/docs/latex/图片排版"
+              },
+              "next": {
+                "title": "Clion编译运行时中文乱码解决方案",
+                "permalink": "/docs/write/clion编译代码中文乱码解决方案"
+              }
             }
           ],
           "drafts": [],
@@ -809,6 +889,26 @@
                     "id": "latex/图片排版"
                   }
                 ]
+              },
+              {
+                "type": "category",
+                "label": "随笔",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "write/WSL安装ArchLinux"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "write/clion编译代码中文乱码解决方案"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "write/后验概率最大化的含义"
+                  }
+                ]
               }
             ]
           }
@@ -876,7 +976,8 @@
   },
   "docusaurus-plugin-debug": {},
   "docusaurus-theme-classic": {},
-  "docusaurus-theme-search-algolia": {},
+  "docusaurus-plugin-image-zoom": {},
+  "@easyops-cn/docusaurus-search-local": {},
   "docusaurus-bootstrap-plugin": {},
   "docusaurus-mdx-fallback-plugin": {}
 }

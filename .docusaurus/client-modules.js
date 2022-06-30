@@ -4,4 +4,5 @@ export default [
   require('C:\\Users\\skywalkerch\\mysite\\node_modules\\@docusaurus\\theme-classic\\lib\\admonitions.css'),
   require('C:\\Users\\skywalkerch\\mysite\\node_modules\\@docusaurus\\theme-classic\\lib\\nprogress'),
   require('C:\\Users\\skywalkerch\\mysite\\src\\css\\custom.css'),
+  require('C:\\Users\\skywalkerch\\mysite\\node_modules\\plugin-image-zoom\\src\\zoom'),
 ];

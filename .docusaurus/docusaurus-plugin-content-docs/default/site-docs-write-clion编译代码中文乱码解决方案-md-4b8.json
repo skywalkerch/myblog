@@ -1,0 +1,27 @@
+{
+  "unversionedId": "write/clion编译代码中文乱码解决方案",
+  "id": "write/clion编译代码中文乱码解决方案",
+  "title": "Clion编译运行时中文乱码解决方案",
+  "description": "此方案仅在 clion 的编译工具链为 mingw 的环境下测试过！",
+  "source": "@site/docs\\write\\clion编译代码中文乱码解决方案.md",
+  "sourceDirName": "write",
+  "slug": "/write/clion编译代码中文乱码解决方案",
+  "permalink": "/docs/write/clion编译代码中文乱码解决方案",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/write/clion编译代码中文乱码解决方案.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Clion编译运行时中文乱码解决方案",
+    "authors": "skywalkerch"
+  },
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "WSL安装ArchLinux总结",
+    "permalink": "/docs/write/WSL安装ArchLinux"
+  },
+  "next": {
+    "title": "后验概率最大化的含义解读",
+    "permalink": "/docs/write/后验概率最大化的含义"
+  }
+}

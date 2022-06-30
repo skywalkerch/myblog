@@ -223,6 +223,32 @@
             "docId": "latex/图片排版"
           }
         ]
+      },
+      {
+        "type": "category",
+        "label": "随笔",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "WSL安装ArchLinux总结",
+            "href": "/docs/write/WSL安装ArchLinux",
+            "docId": "write/WSL安装ArchLinux"
+          },
+          {
+            "type": "link",
+            "label": "Clion编译运行时中文乱码解决方案",
+            "href": "/docs/write/clion编译代码中文乱码解决方案",
+            "docId": "write/clion编译代码中文乱码解决方案"
+          },
+          {
+            "type": "link",
+            "label": "后验概率最大化的含义解读",
+            "href": "/docs/write/后验概率最大化的含义",
+            "docId": "write/后验概率最大化的含义"
+          }
+        ]
       }
     ]
   },
@@ -369,6 +395,24 @@
       "id": "mathmodel/record",
       "title": "数学建模学习打卡记录",
       "description": "| Date | Y    | X    | C    |",
+      "sidebar": "Sidebar"
+    },
+    "write/后验概率最大化的含义": {
+      "id": "write/后验概率最大化的含义",
+      "title": "后验概率最大化的含义解读",
+      "description": "最近在啃《统计学习方法》，说实话，我一个土木专业的大二学生的数学水平想要顺利吃透这本机器学习经典非常有难度，昨天看完了第四章“朴素贝叶斯的学习方法与分类”，并存在一个问题——[后验概率最大化的详细证明]。今天在网上看到好多博客对这个地方做了详细的解释，我也在这里写下我自己的见解",
+      "sidebar": "Sidebar"
+    },
+    "write/clion编译代码中文乱码解决方案": {
+      "id": "write/clion编译代码中文乱码解决方案",
+      "title": "Clion编译运行时中文乱码解决方案",
+      "description": "此方案仅在 clion 的编译工具链为 mingw 的环境下测试过！",
+      "sidebar": "Sidebar"
+    },
+    "write/WSL安装ArchLinux": {
+      "id": "write/WSL安装ArchLinux",
+      "title": "WSL安装ArchLinux总结",
+      "description": "不要简单抄袭别人的博客而不加思考。",
       "sidebar": "Sidebar"
     }
   }

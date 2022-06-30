@@ -129,6 +129,21 @@
               "id": "mathmodel/record",
               "path": "/docs/mathmodel/record",
               "sidebar": "Sidebar"
+            },
+            {
+              "id": "write/后验概率最大化的含义",
+              "path": "/docs/write/后验概率最大化的含义",
+              "sidebar": "Sidebar"
+            },
+            {
+              "id": "write/clion编译代码中文乱码解决方案",
+              "path": "/docs/write/clion编译代码中文乱码解决方案",
+              "sidebar": "Sidebar"
+            },
+            {
+              "id": "write/WSL安装ArchLinux",
+              "path": "/docs/write/WSL安装ArchLinux",
+              "sidebar": "Sidebar"
             }
           ],
           "draftIds": [],

@@ -27,10 +27,15 @@
       "name": "@docusaurus/theme-classic",
       "version": "2.0.0-beta.21"
     },
-    "docusaurus-theme-search-algolia": {
+    "docusaurus-plugin-image-zoom": {
       "type": "package",
-      "name": "@docusaurus/theme-search-algolia",
-      "version": "2.0.0-beta.21"
+      "name": "plugin-image-zoom",
+      "version": "0.0.0"
+    },
+    "@easyops-cn/docusaurus-search-local": {
+      "type": "package",
+      "name": "@easyops-cn/docusaurus-search-local",
+      "version": "0.28.0"
     }
   }
 }

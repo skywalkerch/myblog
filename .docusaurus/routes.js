@@ -74,7 +74,7 @@ export default [
   },
   {
     path: '/search',
-    component: ComponentCreator('/search', 'c6f'),
+    component: ComponentCreator('/search', '532'),
     exact: true
   },
   {
@@ -84,7 +84,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '4eb'),
+    component: ComponentCreator('/docs', 'b97'),
     routes: [
       {
         path: '/docs/CET6/翻译预测',
@@ -227,6 +227,24 @@ export default [
       {
         path: '/docs/mathmodel/record',
         component: ComponentCreator('/docs/mathmodel/record', '43a'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/write/后验概率最大化的含义',
+        component: ComponentCreator('/docs/write/后验概率最大化的含义', 'd91'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/write/clion编译代码中文乱码解决方案',
+        component: ComponentCreator('/docs/write/clion编译代码中文乱码解决方案', '451'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/write/WSL安装ArchLinux',
+        component: ComponentCreator('/docs/write/WSL安装ArchLinux', '152'),
         exact: true,
         sidebar: "Sidebar"
       }

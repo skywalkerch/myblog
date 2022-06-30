@@ -91,10 +91,10 @@
     },
     "content": "content---nevigatione-24-332"
   },
-  "/search-c6f": {
+  "/search-532": {
     "__comp": "__comp---theme-search-page-1-a-4-d6f",
     "__context": {
-      "plugin": "plugin---searchb-65-435"
+      "plugin": "plugin---searchf-96-cc7"
     }
   },
   "/thoughtDay-b65": {
@@ -104,7 +104,7 @@
     },
     "content": "content---thought-day-88-f-704"
   },
-  "/docs-4eb": {
+  "/docs-b97": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-tags-092-6c8"
@@ -206,6 +206,18 @@
   "/docs/mathmodel/record-43a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-mathmodel-recordd-5-b-6a4"
+  },
+  "/docs/write/后验概率最大化的含义-d91": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-write-后验概率最大化的含义-4-ef-e95"
+  },
+  "/docs/write/clion编译代码中文乱码解决方案-451": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-write-clion编译代码中文乱码解决方案-4-b-8-f95"
+  },
+  "/docs/write/WSL安装ArchLinux-152": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-write-wsl安装-arch-linuxabc-e80"
   },
   "/-812": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
