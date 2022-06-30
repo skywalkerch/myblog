@@ -50,6 +50,35 @@ blockquote {
 }
 
 
+
+.markdown h1{
+  text-align: center;
+  text-shadow: 0.15rem 0.15rem 0.3rem rgb(187, 187, 187);
+};
+
+h1,h2,h3,h4,h5{
+  text-shadow: 0.15rem 0.15rem 0.3rem rgb(187, 187, 187);
+};
+
+p{
+  text-shadow: 0.15rem 0.15rem 0.3rem rgb(187, 187, 187);
+}
+
+.katex-display {
+  background-color: #F2F2F2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 /*highlightr*/
 
 /*highlighter style*/

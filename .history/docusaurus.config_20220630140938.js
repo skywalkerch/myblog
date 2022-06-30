@@ -87,6 +87,8 @@ const config = {
           label: '所得所感',
         },
         
+
+
         {
           href: 'https://github.com/skywalkerch/',
           label: 'GitHub',
@@ -129,7 +131,10 @@ const config = {
         },
         {
           title: '更多',
-          items: [
+          items: [{
+            label: '博客',
+            to: 'https://myblog2-five.vercel.app/',
+          },
           {
             label: 'GitHub',
             href: 'https://github.com/skywalkerch',

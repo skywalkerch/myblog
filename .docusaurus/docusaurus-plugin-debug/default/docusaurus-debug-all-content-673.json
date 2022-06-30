@@ -467,8 +467,8 @@
                 "permalink": "/docs/Machine-Learning/SLM-SL-Perceptron"
               },
               "next": {
-                "title": "层次分析法🧩",
-                "permalink": "/docs/mathmodel/analytic_hierarchy_process"
+                "title": "常用的等价无穷小",
+                "permalink": "/docs/MathCompetetion/常用的等价无穷小"
               }
             },
             {
@@ -522,6 +522,45 @@
               }
             },
             {
+              "unversionedId": "MathCompetetion/常用的等价无穷小",
+              "id": "MathCompetetion/常用的等价无穷小",
+              "title": "常用的等价无穷小",
+              "description": "等价无穷小",
+              "source": "@site/docs\\MathCompetetion\\常用的等价无穷小.md",
+              "sourceDirName": "MathCompetetion",
+              "slug": "/MathCompetetion/常用的等价无穷小",
+              "permalink": "/docs/MathCompetetion/常用的等价无穷小",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/MathCompetetion/常用的等价无穷小.md",
+              "tags": [
+                {
+                  "label": "数学竞赛",
+                  "permalink": "/docs/tags/数学竞赛"
+                },
+                {
+                  "label": "极限",
+                  "permalink": "/docs/tags/极限"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "常用的等价无穷小",
+                "tags": [
+                  "数学竞赛",
+                  "极限"
+                ]
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "看书记录表",
+                "permalink": "/docs/Machine-Learning/intro"
+              },
+              "next": {
+                "title": "层次分析法🧩",
+                "permalink": "/docs/mathmodel/analytic_hierarchy_process"
+              }
+            },
+            {
               "unversionedId": "mathmodel/analytic_hierarchy_process",
               "id": "mathmodel/analytic_hierarchy_process",
               "title": "层次分析法🧩",
@@ -539,8 +578,8 @@
               },
               "sidebar": "Sidebar",
               "previous": {
-                "title": "看书记录表",
-                "permalink": "/docs/Machine-Learning/intro"
+                "title": "常用的等价无穷小",
+                "permalink": "/docs/MathCompetetion/常用的等价无穷小"
               },
               "next": {
                 "title": "线性规划🧩",
@@ -624,6 +663,18 @@
                   {
                     "type": "doc",
                     "id": "Machine-Learning/intro"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "数学竞赛",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "MathCompetetion/常用的等价无穷小"
                   }
                 ]
               },
@@ -802,7 +853,8 @@
         "type": "mdx",
         "permalink": "/modernHistory",
         "source": "@site/src/pages/modernHistory.md",
-        "description": "简答题1 简述近现代以来反侵略战争失败的原因和教训",
+        "title": "简答题1 简述近现代以来反侵略战争失败的原因和教训",
+        "description": "原因",
         "frontMatter": {}
       },
       {

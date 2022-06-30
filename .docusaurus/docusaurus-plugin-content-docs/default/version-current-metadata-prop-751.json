@@ -42,6 +42,20 @@
       },
       {
         "type": "category",
+        "label": "数学竞赛",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "常用的等价无穷小",
+            "href": "/docs/MathCompetetion/常用的等价无穷小",
+            "docId": "MathCompetetion/常用的等价无穷小"
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "数学建模",
         "collapsible": true,
         "collapsed": true,
@@ -331,6 +345,12 @@
       "id": "Machine-Learning/SLM-SL-Perceptron",
       "title": "SL-1.感知机",
       "description": "- 二类分类的线性分类模型",
+      "sidebar": "Sidebar"
+    },
+    "MathCompetetion/常用的等价无穷小": {
+      "id": "MathCompetetion/常用的等价无穷小",
+      "title": "常用的等价无穷小",
+      "description": "等价无穷小",
       "sidebar": "Sidebar"
     },
     "mathmodel/analytic_hierarchy_process": {

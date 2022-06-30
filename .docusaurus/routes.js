@@ -48,6 +48,21 @@ export default [
     exact: true
   },
   {
+    path: '/docs/tags',
+    component: ComponentCreator('/docs/tags', '6fd'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/极限',
+    component: ComponentCreator('/docs/tags/极限', '4a4'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/数学竞赛',
+    component: ComponentCreator('/docs/tags/数学竞赛', '953'),
+    exact: true
+  },
+  {
     path: '/modernHistory',
     component: ComponentCreator('/modernHistory', '8ce'),
     exact: true
@@ -69,7 +84,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b1f'),
+    component: ComponentCreator('/docs', '4eb'),
     routes: [
       {
         path: '/docs/CET6/翻译预测',
@@ -188,6 +203,12 @@ export default [
       {
         path: '/docs/Machine-Learning/SLM-SL-Perceptron',
         component: ComponentCreator('/docs/Machine-Learning/SLM-SL-Perceptron', 'dfc'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/MathCompetetion/常用的等价无穷小',
+        component: ComponentCreator('/docs/MathCompetetion/常用的等价无穷小', '8a2'),
         exact: true,
         sidebar: "Sidebar"
       },

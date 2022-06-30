@@ -129,7 +129,8 @@ const config = {
         },
         {
           title: '更多',
-          items: [
+          items: [{
+            
           {
             label: 'GitHub',
             href: 'https://github.com/skywalkerch',

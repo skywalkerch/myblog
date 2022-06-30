@@ -111,6 +111,11 @@
               "sidebar": "Sidebar"
             },
             {
+              "id": "MathCompetetion/常用的等价无穷小",
+              "path": "/docs/MathCompetetion/常用的等价无穷小",
+              "sidebar": "Sidebar"
+            },
+            {
               "id": "mathmodel/analytic_hierarchy_process",
               "path": "/docs/mathmodel/analytic_hierarchy_process",
               "sidebar": "Sidebar"
