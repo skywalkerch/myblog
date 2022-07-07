@@ -42,7 +42,7 @@ const FeatureList: FeatureItem[] = [
       <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/mathmodel/intro">
+            to="/docs/mathmodel/record">
             Mathematical modeling
           </Link>
         </div>
