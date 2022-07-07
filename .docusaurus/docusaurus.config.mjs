@@ -5,7 +5,7 @@
  */
 export default {
   "title": "橙子的小破站",
-  "tagline": "致力于成为一个合格的小橙子",
+  "tagline": "做一名终身学习的小橙子",
   "url": "https://myblog.skywalkerch.cn",
   "baseUrl": "/",
   "onBrokenLinks": "throw",

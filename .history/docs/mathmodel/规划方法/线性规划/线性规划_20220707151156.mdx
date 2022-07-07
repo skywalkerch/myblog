@@ -1,0 +1,99 @@
+---
+title: "🪅线性规划"
+---
+    import Tabs from '@theme/Tabs';
+    import TabItem from '@theme/TabItem';
+
+# 线性规划
+## 线性规划的三要素
+1. **`决策变量`**: 问题中要确定的未知量
+2. **`目标函数`**: 是决策变量的函数,优化目标通常是求该函数的最大值或最小值
+3. **`约束条件`**:是决策变量的取值收到的约束和限制条件,通常用等式或不等式表示
+## 建立线性规划模型的步骤
+- 分析问题,找出决策变量
+- 根据问题所给的条件,找出决策变量必须满足的一组线性等式或者不等式约束,及约束条件
+- 根据问题的目标,构造关于决策变量的一个**`线性函数`**,即目标函数
+
+## 标准模型格式
+
+$$
+\mathop {min} \limits_{x} \ \  f^{T}x \\
+s.t. \left \{
+\begin{aligned}
+A \cdot x \leq b, \\
+Aeq \cdot x=beq, \\
+lb \leq x \leq ub.
+\end{aligned}
+\right.
+$$
+式中
+
+$f,x,b,beq,lb,ub$为**列向量**
+
+$f$:价值向量
+
+$b$:资源向量
+
+$A,Aeq$:不等式约束和等式约束对应的系数阵
+
+### 例如
+
+$$
+\mathop{max} \limits_{x} \ f^Tx,\\
+s.t. Ax \geq b.
+$$
+化为matlab的标准型为
+$$
+\mathop{min} \limits_{x} \ -f^Tx,\\
+s.t. -Ax \leq -b.
+$$
+## matlab求解线性规划问题
+### matlab工具求解
+**实例**
+$$
+\mathop{max}  z=4x_1+3x_2 \\
+s.t. \left\{
+    \begin{aligned}
+    2x_1+x_2 \leq 10, \\
+    x_1+x_2 \leq 8, \\
+    x_2 \leq 7, \\
+    x_1,x_2 \geq 0
+    \end{aligned}
+    \right.
+$$
+则有
+$$c=-f=\begin{bmatrix} 4 \\ 3 \end{bmatrix}$$
+$$b=\begin{bmatrix}10\\8\\7\end{bmatrix}$$
+$$a=\begin{bmatrix}2&1\\1&1\\0&1\end{bmatrix}$$
+$$lb=\begin{bmatrix}0\\0\end{bmatrix}$$
+
+<Tabs className="unique-tabs">
+<TabItem value="matlab1" label="基于求解器">
+
+```matlab
+%求解器函数
+%[x,fval]=linprog(f,A,b)
+%[x,fval]=linprog(f,A,b,Aeq,beq)
+%[x,fval]=linprog(f,A,b,Aeq,beq,lb,ub)
+clc, clear
+c = [4;3]; b = [10;8;7];
+a = [2,1;1,1;0,1]; lb = zeros(2,1);
+[x,fval] = linprog(-c,a,b,[],[],lb) %没有等号约束
+y = -fval  %目标函数为最大化
+```
+</TabItem>
+<TabItem value="matlab2" label="基于问题">
+
+```matlab
+clc, clear
+prob = optimproblem('ObjectiveSense', 'max')
+c = [4;3]; b = [10;8;7];
+a = [2,1;1,1;0,1]; lb = zeros(2,1);
+x = optimvar('x',2,'LowerBound',0);
+prob.Objective = c'*x;
+prob.Constraints.con = a*x<=b;
+[sol, fval, flage, out] = solve(prob)
+sol.x  %显示决策变量的值
+```
+</TabItem>
+</Tabs>

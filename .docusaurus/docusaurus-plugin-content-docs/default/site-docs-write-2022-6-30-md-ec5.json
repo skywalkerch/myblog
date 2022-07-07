@@ -1,0 +1,26 @@
+{
+  "unversionedId": "write/2022-6-30",
+  "id": "write/2022-6-30",
+  "title": "请不要被他人所束缚",
+  "description": "大二下学期终于结束了，但是对于我来说只是课堂上的结束而不是学业上的结束，还有很长的实习呢...😭",
+  "source": "@site/docs/write/2022-6-30.md",
+  "sourceDirName": "write",
+  "slug": "/write/2022-6-30",
+  "permalink": "/docs/write/2022-6-30",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/write/2022-6-30.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "请不要被他人所束缚"
+  },
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "图片排版",
+    "permalink": "/docs/latex/图片排版"
+  },
+  "next": {
+    "title": "WSL安装ArchLinux总结",
+    "permalink": "/docs/write/WSL安装ArchLinux"
+  }
+}

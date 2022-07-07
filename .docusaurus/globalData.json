@@ -116,18 +116,28 @@
               "sidebar": "Sidebar"
             },
             {
-              "id": "mathmodel/analytic_hierarchy_process",
-              "path": "/docs/mathmodel/analytic_hierarchy_process",
+              "id": "mathmodel/多元分析方法/层次分析法/层次分析法",
+              "path": "/docs/mathmodel/多元分析方法/层次分析法/",
               "sidebar": "Sidebar"
             },
             {
-              "id": "mathmodel/linear_programing",
-              "path": "/docs/mathmodel/linear_programing",
+              "id": "mathmodel/多元分析方法/主成分分析/主成分分析的原理",
+              "path": "/docs/mathmodel/多元分析方法/主成分分析/主成分分析的原理",
               "sidebar": "Sidebar"
             },
             {
-              "id": "mathmodel/record",
-              "path": "/docs/mathmodel/record",
+              "id": "mathmodel/规划方法/线性规划/线性规划",
+              "path": "/docs/mathmodel/规划方法/线性规划/",
+              "sidebar": "Sidebar"
+            },
+            {
+              "id": "mathmodel/ALL打卡",
+              "path": "/docs/mathmodel/ALL打卡",
+              "sidebar": "Sidebar"
+            },
+            {
+              "id": "write/2022-6-30",
+              "path": "/docs/write/2022-6-30",
               "sidebar": "Sidebar"
             },
             {
@@ -138,6 +148,11 @@
             {
               "id": "write/clion编译代码中文乱码解决方案",
               "path": "/docs/write/clion编译代码中文乱码解决方案",
+              "sidebar": "Sidebar"
+            },
+            {
+              "id": "write/clion配置QT6.2.4环境",
+              "path": "/docs/write/clion配置QT6.2.4环境",
               "sidebar": "Sidebar"
             },
             {

@@ -139,7 +139,7 @@
               "sidebar": "Sidebar",
               "previous": {
                 "title": "数学建模学习打卡记录",
-                "permalink": "/docs/mathmodel/record"
+                "permalink": "/docs/mathmodel/ALL打卡"
               },
               "next": {
                 "title": "作文真题",
@@ -343,8 +343,8 @@
                 "permalink": "/docs/Linux/软硬链接"
               },
               "next": {
-                "title": "WSL安装ArchLinux总结",
-                "permalink": "/docs/write/WSL安装ArchLinux"
+                "title": "请不要被他人所束缚",
+                "permalink": "/docs/write/2022-6-30"
               }
             },
             {
@@ -560,25 +560,90 @@
                 "permalink": "/docs/Machine-Learning/intro"
               },
               "next": {
-                "title": "层次分析法🧩",
-                "permalink": "/docs/mathmodel/analytic_hierarchy_process"
+                "title": "🪅线性规划",
+                "permalink": "/docs/mathmodel/规划方法/线性规划/"
               }
             },
             {
-              "unversionedId": "mathmodel/analytic_hierarchy_process",
-              "id": "mathmodel/analytic_hierarchy_process",
-              "title": "层次分析法🧩",
+              "unversionedId": "mathmodel/多元分析方法/层次分析法/层次分析法",
+              "id": "mathmodel/多元分析方法/层次分析法/层次分析法",
+              "title": "🪅层次分析法",
               "description": "",
-              "source": "@site/docs/mathmodel/analytic_hierarchy_process.mdx",
-              "sourceDirName": "mathmodel",
-              "slug": "/mathmodel/analytic_hierarchy_process",
-              "permalink": "/docs/mathmodel/analytic_hierarchy_process",
+              "source": "@site/docs\\mathmodel\\多元分析方法\\层次分析法\\层次分析法.mdx",
+              "sourceDirName": "mathmodel/多元分析方法/层次分析法",
+              "slug": "/mathmodel/多元分析方法/层次分析法/",
+              "permalink": "/docs/mathmodel/多元分析方法/层次分析法/",
               "draft": false,
-              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/analytic_hierarchy_process.mdx",
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/多元分析方法/层次分析法/层次分析法.mdx",
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "层次分析法🧩"
+                "title": "🪅层次分析法"
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "🪅主成分分析的原理",
+                "permalink": "/docs/mathmodel/多元分析方法/主成分分析/主成分分析的原理"
+              },
+              "next": {
+                "title": "数学建模学习打卡记录",
+                "permalink": "/docs/mathmodel/ALL打卡"
+              }
+            },
+            {
+              "unversionedId": "mathmodel/多元分析方法/主成分分析/主成分分析的原理",
+              "id": "mathmodel/多元分析方法/主成分分析/主成分分析的原理",
+              "title": "🪅主成分分析的原理",
+              "description": "主成分分析：Pricipal Component Analysis(PCA)",
+              "source": "@site/docs\\mathmodel\\多元分析方法\\主成分分析\\主成分分析的原理.md",
+              "sourceDirName": "mathmodel/多元分析方法/主成分分析",
+              "slug": "/mathmodel/多元分析方法/主成分分析/主成分分析的原理",
+              "permalink": "/docs/mathmodel/多元分析方法/主成分分析/主成分分析的原理",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/多元分析方法/主成分分析/主成分分析的原理.md",
+              "tags": [
+                {
+                  "label": "数学建模",
+                  "permalink": "/docs/tags/数学建模"
+                },
+                {
+                  "label": "主成分分析",
+                  "permalink": "/docs/tags/主成分分析"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "🪅主成分分析的原理",
+                "tags": [
+                  "数学建模",
+                  "主成分分析"
+                ]
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "🪅线性规划",
+                "permalink": "/docs/mathmodel/规划方法/线性规划/"
+              },
+              "next": {
+                "title": "🪅层次分析法",
+                "permalink": "/docs/mathmodel/多元分析方法/层次分析法/"
+              }
+            },
+            {
+              "unversionedId": "mathmodel/规划方法/线性规划/线性规划",
+              "id": "mathmodel/规划方法/线性规划/线性规划",
+              "title": "🪅线性规划",
+              "description": "",
+              "source": "@site/docs\\mathmodel\\规划方法\\线性规划\\线性规划.mdx",
+              "sourceDirName": "mathmodel/规划方法/线性规划",
+              "slug": "/mathmodel/规划方法/线性规划/",
+              "permalink": "/docs/mathmodel/规划方法/线性规划/",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/规划方法/线性规划/线性规划.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "🪅线性规划"
               },
               "sidebar": "Sidebar",
               "previous": {
@@ -586,47 +651,21 @@
                 "permalink": "/docs/MathCompetetion/常用的等价无穷小"
               },
               "next": {
-                "title": "线性规划🧩",
-                "permalink": "/docs/mathmodel/linear_programing"
+                "title": "🪅主成分分析的原理",
+                "permalink": "/docs/mathmodel/多元分析方法/主成分分析/主成分分析的原理"
               }
             },
             {
-              "unversionedId": "mathmodel/linear_programing",
-              "id": "mathmodel/linear_programing",
-              "title": "线性规划🧩",
-              "description": "",
-              "source": "@site/docs/mathmodel/linear_programing.mdx",
-              "sourceDirName": "mathmodel",
-              "slug": "/mathmodel/linear_programing",
-              "permalink": "/docs/mathmodel/linear_programing",
-              "draft": false,
-              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/linear_programing.mdx",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "线性规划🧩"
-              },
-              "sidebar": "Sidebar",
-              "previous": {
-                "title": "层次分析法🧩",
-                "permalink": "/docs/mathmodel/analytic_hierarchy_process"
-              },
-              "next": {
-                "title": "数学建模学习打卡记录",
-                "permalink": "/docs/mathmodel/record"
-              }
-            },
-            {
-              "unversionedId": "mathmodel/record",
-              "id": "mathmodel/record",
+              "unversionedId": "mathmodel/ALL打卡",
+              "id": "mathmodel/ALL打卡",
               "title": "数学建模学习打卡记录",
               "description": "| Date | Y    | X    | C    |",
-              "source": "@site/docs/mathmodel/record.md",
+              "source": "@site/docs\\mathmodel\\ALL打卡.md",
               "sourceDirName": "mathmodel",
-              "slug": "/mathmodel/record",
-              "permalink": "/docs/mathmodel/record",
+              "slug": "/mathmodel/ALL打卡",
+              "permalink": "/docs/mathmodel/ALL打卡",
               "draft": false,
-              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/record.md",
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/ALL打卡.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -634,12 +673,38 @@
               },
               "sidebar": "Sidebar",
               "previous": {
-                "title": "线性规划🧩",
-                "permalink": "/docs/mathmodel/linear_programing"
+                "title": "🪅层次分析法",
+                "permalink": "/docs/mathmodel/多元分析方法/层次分析法/"
               },
               "next": {
                 "title": "五个英语学习的技巧",
                 "permalink": "/docs/CET6/五个英语学习技巧"
+              }
+            },
+            {
+              "unversionedId": "write/2022-6-30",
+              "id": "write/2022-6-30",
+              "title": "请不要被他人所束缚",
+              "description": "大二下学期终于结束了，但是对于我来说只是课堂上的结束而不是学业上的结束，还有很长的实习呢...😭",
+              "source": "@site/docs/write/2022-6-30.md",
+              "sourceDirName": "write",
+              "slug": "/write/2022-6-30",
+              "permalink": "/docs/write/2022-6-30",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/write/2022-6-30.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "请不要被他人所束缚"
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "图片排版",
+                "permalink": "/docs/latex/图片排版"
+              },
+              "next": {
+                "title": "WSL安装ArchLinux总结",
+                "permalink": "/docs/write/WSL安装ArchLinux"
               }
             },
             {
@@ -660,8 +725,8 @@
               },
               "sidebar": "Sidebar",
               "previous": {
-                "title": "Clion编译运行时中文乱码解决方案",
-                "permalink": "/docs/write/clion编译代码中文乱码解决方案"
+                "title": "clion配置qt6.2.4环境",
+                "permalink": "/docs/write/clion配置QT6.2.4环境"
               }
             },
             {
@@ -687,6 +752,32 @@
                 "permalink": "/docs/write/WSL安装ArchLinux"
               },
               "next": {
+                "title": "clion配置qt6.2.4环境",
+                "permalink": "/docs/write/clion配置QT6.2.4环境"
+              }
+            },
+            {
+              "unversionedId": "write/clion配置QT6.2.4环境",
+              "id": "write/clion配置QT6.2.4环境",
+              "title": "clion配置qt6.2.4环境",
+              "description": "最近突然一时来了兴致，就想用QT实现一个电子书管理系统。我比较喜欢clion的集成环境，因此不想用Qtcreator。",
+              "source": "@site/docs\\write\\clion配置QT6.2.4环境.md",
+              "sourceDirName": "write",
+              "slug": "/write/clion配置QT6.2.4环境",
+              "permalink": "/docs/write/clion配置QT6.2.4环境",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/write/clion配置QT6.2.4环境.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "clion配置qt6.2.4环境"
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "Clion编译运行时中文乱码解决方案",
+                "permalink": "/docs/write/clion编译代码中文乱码解决方案"
+              },
+              "next": {
                 "title": "后验概率最大化的含义解读",
                 "permalink": "/docs/write/后验概率最大化的含义"
               }
@@ -710,8 +801,8 @@
               },
               "sidebar": "Sidebar",
               "previous": {
-                "title": "图片排版",
-                "permalink": "/docs/latex/图片排版"
+                "title": "请不要被他人所束缚",
+                "permalink": "/docs/write/2022-6-30"
               },
               "next": {
                 "title": "Clion编译运行时中文乱码解决方案",
@@ -760,21 +851,65 @@
               },
               {
                 "type": "category",
-                "label": "数学建模",
+                "label": "🎉数学建模",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
-                    "type": "doc",
-                    "id": "mathmodel/analytic_hierarchy_process"
+                    "type": "category",
+                    "label": "🧸规划方法",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "category",
+                        "label": "🧸线性规划",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "mathmodel/规划方法/线性规划/线性规划"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "🧸多元分析方法",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "category",
+                        "label": "🧸主成分分析",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "mathmodel/多元分析方法/主成分分析/主成分分析的原理"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "category",
+                        "label": "🧸层次分析法",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "mathmodel/多元分析方法/层次分析法/层次分析法"
+                          }
+                        ]
+                      }
+                    ]
                   },
                   {
                     "type": "doc",
-                    "id": "mathmodel/linear_programing"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "mathmodel/record"
+                    "id": "mathmodel/ALL打卡"
                   }
                 ]
               },
@@ -898,11 +1033,19 @@
                 "items": [
                   {
                     "type": "doc",
+                    "id": "write/2022-6-30"
+                  },
+                  {
+                    "type": "doc",
                     "id": "write/WSL安装ArchLinux"
                   },
                   {
                     "type": "doc",
                     "id": "write/clion编译代码中文乱码解决方案"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "write/clion配置QT6.2.4环境"
                   },
                   {
                     "type": "doc",
@@ -937,39 +1080,15 @@
         "frontMatter": {}
       },
       {
-        "type": "mdx",
-        "permalink": "/day",
-        "source": "@site/src/pages/day.md",
-        "title": "每日计划",
-        "description": "2022-03-27",
-        "frontMatter": {}
-      },
-      {
         "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.tsx"
       },
       {
         "type": "mdx",
-        "permalink": "/modernHistory",
-        "source": "@site/src/pages/modernHistory.md",
-        "title": "简答题1 简述近现代以来反侵略战争失败的原因和教训",
-        "description": "原因",
-        "frontMatter": {}
-      },
-      {
-        "type": "mdx",
         "permalink": "/nevigation",
         "source": "@site/src/pages/nevigation.md",
         "description": "Books",
-        "frontMatter": {}
-      },
-      {
-        "type": "mdx",
-        "permalink": "/thoughtDay",
-        "source": "@site/src/pages/thoughtDay.md",
-        "title": "记录一些感想吧",
-        "description": "2022 6-6",
         "frontMatter": {}
       }
     ]

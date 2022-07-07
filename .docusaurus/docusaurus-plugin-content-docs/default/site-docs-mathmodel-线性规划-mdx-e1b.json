@@ -1,0 +1,26 @@
+{
+  "unversionedId": "mathmodel/线性规划",
+  "id": "mathmodel/线性规划",
+  "title": "线性规划🧩",
+  "description": "",
+  "source": "@site/docs\\mathmodel\\线性规划.mdx",
+  "sourceDirName": "mathmodel",
+  "slug": "/mathmodel/线性规划",
+  "permalink": "/docs/mathmodel/线性规划",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/线性规划.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "线性规划🧩"
+  },
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "层次分析法🧩",
+    "permalink": "/docs/mathmodel/层次分析法"
+  },
+  "next": {
+    "title": "五个英语学习的技巧",
+    "permalink": "/docs/CET6/五个英语学习技巧"
+  }
+}

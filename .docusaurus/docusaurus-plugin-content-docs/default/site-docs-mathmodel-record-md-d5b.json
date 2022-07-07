@@ -16,11 +16,11 @@
   },
   "sidebar": "Sidebar",
   "previous": {
-    "title": "线性规划🧩",
-    "permalink": "/docs/mathmodel/linear_programing"
+    "title": "常用的等价无穷小",
+    "permalink": "/docs/MathCompetetion/常用的等价无穷小"
   },
   "next": {
-    "title": "五个英语学习的技巧",
-    "permalink": "/docs/CET6/五个英语学习技巧"
+    "title": "主成分分析的原理",
+    "permalink": "/docs/mathmodel/主成分分析的原理"
   }
 }

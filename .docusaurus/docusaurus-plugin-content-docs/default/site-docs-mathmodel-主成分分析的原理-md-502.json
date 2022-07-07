@@ -1,0 +1,39 @@
+{
+  "unversionedId": "mathmodel/主成分分析的原理",
+  "id": "mathmodel/主成分分析的原理",
+  "title": "主成分分析的原理",
+  "description": "主成分分析：Pricipal Component Analysis(PCA)",
+  "source": "@site/docs\\mathmodel\\主成分分析的原理.md",
+  "sourceDirName": "mathmodel",
+  "slug": "/mathmodel/主成分分析的原理",
+  "permalink": "/docs/mathmodel/主成分分析的原理",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/主成分分析的原理.md",
+  "tags": [
+    {
+      "label": "数学建模",
+      "permalink": "/docs/tags/数学建模"
+    },
+    {
+      "label": "主成分分析",
+      "permalink": "/docs/tags/主成分分析"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "主成分分析的原理",
+    "tags": [
+      "数学建模",
+      "主成分分析"
+    ]
+  },
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "数学建模学习打卡记录",
+    "permalink": "/docs/mathmodel/ALL打卡"
+  },
+  "next": {
+    "title": "层次分析法🧩",
+    "permalink": "/docs/mathmodel/层次分析法"
+  }
+}

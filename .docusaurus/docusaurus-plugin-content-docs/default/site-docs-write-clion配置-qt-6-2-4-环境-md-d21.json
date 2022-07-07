@@ -1,0 +1,26 @@
+{
+  "unversionedId": "write/clion配置QT6.2.4环境",
+  "id": "write/clion配置QT6.2.4环境",
+  "title": "clion配置qt6.2.4环境",
+  "description": "最近突然一时来了兴致，就想用QT实现一个电子书管理系统。我比较喜欢clion的集成环境，因此不想用Qtcreator。",
+  "source": "@site/docs\\write\\clion配置QT6.2.4环境.md",
+  "sourceDirName": "write",
+  "slug": "/write/clion配置QT6.2.4环境",
+  "permalink": "/docs/write/clion配置QT6.2.4环境",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/write/clion配置QT6.2.4环境.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "clion配置qt6.2.4环境"
+  },
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "Clion编译运行时中文乱码解决方案",
+    "permalink": "/docs/write/clion编译代码中文乱码解决方案"
+  },
+  "next": {
+    "title": "后验概率最大化的含义解读",
+    "permalink": "/docs/write/后验概率最大化的含义"
+  }
+}

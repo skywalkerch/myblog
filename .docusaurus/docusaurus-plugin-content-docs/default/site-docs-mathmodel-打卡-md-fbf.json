@@ -1,0 +1,26 @@
+{
+  "unversionedId": "mathmodel/打卡",
+  "id": "mathmodel/打卡",
+  "title": "数学建模学习打卡记录",
+  "description": "| Date | Y    | X    | C    |",
+  "source": "@site/docs\\mathmodel\\打卡.md",
+  "sourceDirName": "mathmodel",
+  "slug": "/mathmodel/打卡",
+  "permalink": "/docs/mathmodel/打卡",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/打卡.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "数学建模学习打卡记录"
+  },
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "层次分析法🧩",
+    "permalink": "/docs/mathmodel/层次分析法"
+  },
+  "next": {
+    "title": "线性规划🧩",
+    "permalink": "/docs/mathmodel/线性规划"
+  }
+}

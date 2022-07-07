@@ -43,11 +43,6 @@ export default [
     exact: true
   },
   {
-    path: '/day',
-    component: ComponentCreator('/day', '44a'),
-    exact: true
-  },
-  {
     path: '/docs/tags',
     component: ComponentCreator('/docs/tags', '6fd'),
     exact: true
@@ -58,13 +53,18 @@ export default [
     exact: true
   },
   {
+    path: '/docs/tags/数学建模',
+    component: ComponentCreator('/docs/tags/数学建模', 'd72'),
+    exact: true
+  },
+  {
     path: '/docs/tags/数学竞赛',
     component: ComponentCreator('/docs/tags/数学竞赛', '953'),
     exact: true
   },
   {
-    path: '/modernHistory',
-    component: ComponentCreator('/modernHistory', '8ce'),
+    path: '/docs/tags/主成分分析',
+    component: ComponentCreator('/docs/tags/主成分分析', '0bc'),
     exact: true
   },
   {
@@ -78,13 +78,8 @@ export default [
     exact: true
   },
   {
-    path: '/thoughtDay',
-    component: ComponentCreator('/thoughtDay', 'b65'),
-    exact: true
-  },
-  {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b97'),
+    component: ComponentCreator('/docs', 'ec8'),
     routes: [
       {
         path: '/docs/CET6/翻译预测',
@@ -213,20 +208,32 @@ export default [
         sidebar: "Sidebar"
       },
       {
-        path: '/docs/mathmodel/analytic_hierarchy_process',
-        component: ComponentCreator('/docs/mathmodel/analytic_hierarchy_process', 'd55'),
+        path: '/docs/mathmodel/多元分析方法/层次分析法/',
+        component: ComponentCreator('/docs/mathmodel/多元分析方法/层次分析法/', 'a65'),
         exact: true,
         sidebar: "Sidebar"
       },
       {
-        path: '/docs/mathmodel/linear_programing',
-        component: ComponentCreator('/docs/mathmodel/linear_programing', '170'),
+        path: '/docs/mathmodel/多元分析方法/主成分分析/主成分分析的原理',
+        component: ComponentCreator('/docs/mathmodel/多元分析方法/主成分分析/主成分分析的原理', '837'),
         exact: true,
         sidebar: "Sidebar"
       },
       {
-        path: '/docs/mathmodel/record',
-        component: ComponentCreator('/docs/mathmodel/record', '43a'),
+        path: '/docs/mathmodel/规划方法/线性规划/',
+        component: ComponentCreator('/docs/mathmodel/规划方法/线性规划/', '0e2'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/mathmodel/ALL打卡',
+        component: ComponentCreator('/docs/mathmodel/ALL打卡', 'b99'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/write/2022-6-30',
+        component: ComponentCreator('/docs/write/2022-6-30', '05b'),
         exact: true,
         sidebar: "Sidebar"
       },
@@ -239,6 +246,12 @@ export default [
       {
         path: '/docs/write/clion编译代码中文乱码解决方案',
         component: ComponentCreator('/docs/write/clion编译代码中文乱码解决方案', '451'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/write/clion配置QT6.2.4环境',
+        component: ComponentCreator('/docs/write/clion配置QT6.2.4环境', '3e9'),
         exact: true,
         sidebar: "Sidebar"
       },

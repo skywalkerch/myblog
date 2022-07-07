@@ -49,13 +49,6 @@
     },
     "content": "content---aboutc-9-f-e93"
   },
-  "/day-44a": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
-    "__context": {
-      "plugin": "plugin---about-942-6e2"
-    },
-    "content": "content---dayf-85-835"
-  },
   "/docs/tags-6fd": {
     "__comp": "__comp---theme-doc-tags-list-page-372-89e",
     "__context": {
@@ -70,6 +63,13 @@
     },
     "tag": "tag---docs-tags-极限-496-bc8"
   },
+  "/docs/tags/数学建模-d72": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---docs-tags-092-6c8"
+    },
+    "tag": "tag---docs-tags-数学建模-1-f-7-d35"
+  },
   "/docs/tags/数学竞赛-953": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__context": {
@@ -77,12 +77,12 @@
     },
     "tag": "tag---docs-tags-数学竞赛-66-d-3d5"
   },
-  "/modernHistory-8ce": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/docs/tags/主成分分析-0bc": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__context": {
-      "plugin": "plugin---about-942-6e2"
+      "plugin": "plugin---docs-tags-092-6c8"
     },
-    "content": "content---modern-history-5-c-5-f5b"
+    "tag": "tag---docs-tags-主成分分析-0-ca-c66"
   },
   "/nevigation-e0e": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
@@ -97,14 +97,7 @@
       "plugin": "plugin---searchf-96-cc7"
     }
   },
-  "/thoughtDay-b65": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
-    "__context": {
-      "plugin": "plugin---about-942-6e2"
-    },
-    "content": "content---thought-day-88-f-704"
-  },
-  "/docs-b97": {
+  "/docs-ec8": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-tags-092-6c8"
@@ -195,17 +188,25 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-math-competetion-常用的等价无穷小a-2-a-d7c"
   },
-  "/docs/mathmodel/analytic_hierarchy_process-d55": {
+  "/docs/mathmodel/多元分析方法/层次分析法/-a65": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-mathmodel-analytic-hierarchy-process-5-b-9-5e8"
+    "content": "content---docs-mathmodel-多元分析方法-层次分析法-584-eee"
   },
-  "/docs/mathmodel/linear_programing-170": {
+  "/docs/mathmodel/多元分析方法/主成分分析/主成分分析的原理-837": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-mathmodel-linear-programingddb-91c"
+    "content": "content---docs-mathmodel-多元分析方法-主成分分析-主成分分析的原理-453-ae1"
   },
-  "/docs/mathmodel/record-43a": {
+  "/docs/mathmodel/规划方法/线性规划/-0e2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-mathmodel-recordd-5-b-6a4"
+    "content": "content---docs-mathmodel-规划方法-线性规划-be-8-0b2"
+  },
+  "/docs/mathmodel/ALL打卡-b99": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-mathmodel-al-l打卡e-79-885"
+  },
+  "/docs/write/2022-6-30-05b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-write-2022-6-30-ec-5-85b"
   },
   "/docs/write/后验概率最大化的含义-d91": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -214,6 +215,10 @@
   "/docs/write/clion编译代码中文乱码解决方案-451": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-write-clion编译代码中文乱码解决方案-4-b-8-f95"
+  },
+  "/docs/write/clion配置QT6.2.4环境-3e9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-write-clion配置-qt-6-2-4-环境d-21-00b"
   },
   "/docs/write/WSL安装ArchLinux-152": {
     "__comp": "__comp---theme-doc-item-178-a40",

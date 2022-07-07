@@ -56,27 +56,73 @@
       },
       {
         "type": "category",
-        "label": "数学建模",
+        "label": "🎉数学建模",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
-            "type": "link",
-            "label": "层次分析法🧩",
-            "href": "/docs/mathmodel/analytic_hierarchy_process",
-            "docId": "mathmodel/analytic_hierarchy_process"
+            "type": "category",
+            "label": "🧸规划方法",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "category",
+                "label": "🧸线性规划",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "🪅线性规划",
+                    "href": "/docs/mathmodel/规划方法/线性规划/",
+                    "docId": "mathmodel/规划方法/线性规划/线性规划"
+                  }
+                ]
+              }
+            ]
           },
           {
-            "type": "link",
-            "label": "线性规划🧩",
-            "href": "/docs/mathmodel/linear_programing",
-            "docId": "mathmodel/linear_programing"
+            "type": "category",
+            "label": "🧸多元分析方法",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "category",
+                "label": "🧸主成分分析",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "🪅主成分分析的原理",
+                    "href": "/docs/mathmodel/多元分析方法/主成分分析/主成分分析的原理",
+                    "docId": "mathmodel/多元分析方法/主成分分析/主成分分析的原理"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "🧸层次分析法",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "🪅层次分析法",
+                    "href": "/docs/mathmodel/多元分析方法/层次分析法/",
+                    "docId": "mathmodel/多元分析方法/层次分析法/层次分析法"
+                  }
+                ]
+              }
+            ]
           },
           {
             "type": "link",
             "label": "数学建模学习打卡记录",
-            "href": "/docs/mathmodel/record",
-            "docId": "mathmodel/record"
+            "href": "/docs/mathmodel/ALL打卡",
+            "docId": "mathmodel/ALL打卡"
           }
         ]
       },
@@ -232,6 +278,12 @@
         "items": [
           {
             "type": "link",
+            "label": "请不要被他人所束缚",
+            "href": "/docs/write/2022-6-30",
+            "docId": "write/2022-6-30"
+          },
+          {
+            "type": "link",
             "label": "WSL安装ArchLinux总结",
             "href": "/docs/write/WSL安装ArchLinux",
             "docId": "write/WSL安装ArchLinux"
@@ -241,6 +293,12 @@
             "label": "Clion编译运行时中文乱码解决方案",
             "href": "/docs/write/clion编译代码中文乱码解决方案",
             "docId": "write/clion编译代码中文乱码解决方案"
+          },
+          {
+            "type": "link",
+            "label": "clion配置qt6.2.4环境",
+            "href": "/docs/write/clion配置QT6.2.4环境",
+            "docId": "write/clion配置QT6.2.4环境"
           },
           {
             "type": "link",
@@ -379,22 +437,34 @@
       "description": "等价无穷小",
       "sidebar": "Sidebar"
     },
-    "mathmodel/analytic_hierarchy_process": {
-      "id": "mathmodel/analytic_hierarchy_process",
-      "title": "层次分析法🧩",
+    "mathmodel/多元分析方法/层次分析法/层次分析法": {
+      "id": "mathmodel/多元分析方法/层次分析法/层次分析法",
+      "title": "🪅层次分析法",
       "description": "",
       "sidebar": "Sidebar"
     },
-    "mathmodel/linear_programing": {
-      "id": "mathmodel/linear_programing",
-      "title": "线性规划🧩",
+    "mathmodel/多元分析方法/主成分分析/主成分分析的原理": {
+      "id": "mathmodel/多元分析方法/主成分分析/主成分分析的原理",
+      "title": "🪅主成分分析的原理",
+      "description": "主成分分析：Pricipal Component Analysis(PCA)",
+      "sidebar": "Sidebar"
+    },
+    "mathmodel/规划方法/线性规划/线性规划": {
+      "id": "mathmodel/规划方法/线性规划/线性规划",
+      "title": "🪅线性规划",
       "description": "",
       "sidebar": "Sidebar"
     },
-    "mathmodel/record": {
-      "id": "mathmodel/record",
+    "mathmodel/ALL打卡": {
+      "id": "mathmodel/ALL打卡",
       "title": "数学建模学习打卡记录",
       "description": "| Date | Y    | X    | C    |",
+      "sidebar": "Sidebar"
+    },
+    "write/2022-6-30": {
+      "id": "write/2022-6-30",
+      "title": "请不要被他人所束缚",
+      "description": "大二下学期终于结束了，但是对于我来说只是课堂上的结束而不是学业上的结束，还有很长的实习呢...😭",
       "sidebar": "Sidebar"
     },
     "write/后验概率最大化的含义": {
@@ -407,6 +477,12 @@
       "id": "write/clion编译代码中文乱码解决方案",
       "title": "Clion编译运行时中文乱码解决方案",
       "description": "此方案仅在 clion 的编译工具链为 mingw 的环境下测试过！",
+      "sidebar": "Sidebar"
+    },
+    "write/clion配置QT6.2.4环境": {
+      "id": "write/clion配置QT6.2.4环境",
+      "title": "clion配置qt6.2.4环境",
+      "description": "最近突然一时来了兴致，就想用QT实现一个电子书管理系统。我比较喜欢clion的集成环境，因此不想用Qtcreator。",
       "sidebar": "Sidebar"
     },
     "write/WSL安装ArchLinux": {

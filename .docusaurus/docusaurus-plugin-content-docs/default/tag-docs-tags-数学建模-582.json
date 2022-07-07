@@ -1,0 +1,14 @@
+{
+  "label": "数学建模",
+  "permalink": "/docs/tags/数学建模",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "mathmodel/多元分析方法/主成分分析/主成分分析的原理",
+      "title": "🪅主成分分析的原理",
+      "description": "主成分分析：Pricipal Component Analysis(PCA)",
+      "permalink": "/docs/mathmodel/多元分析方法/主成分分析/主成分分析的原理"
+    }
+  ]
+}
