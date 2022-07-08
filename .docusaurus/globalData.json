@@ -116,23 +116,38 @@
               "sidebar": "Sidebar"
             },
             {
-              "id": "mathmodel/多元分析方法/层次分析法/层次分析法",
-              "path": "/docs/mathmodel/多元分析方法/层次分析法/",
+              "id": "mathmodel/第十章 多元分析方法/10.1 主成分分析/降维",
+              "path": "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/降维",
               "sidebar": "Sidebar"
             },
             {
-              "id": "mathmodel/多元分析方法/主成分分析/主成分分析的原理",
-              "path": "/docs/mathmodel/多元分析方法/主成分分析/主成分分析的原理",
+              "id": "mathmodel/第十章 多元分析方法/10.1 主成分分析/协方差矩阵",
+              "path": "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/协方差矩阵",
               "sidebar": "Sidebar"
             },
             {
-              "id": "mathmodel/规划方法/线性规划/线性规划",
-              "path": "/docs/mathmodel/规划方法/线性规划/",
+              "id": "mathmodel/第十章 多元分析方法/10.1 主成分分析/主成分分析的原理",
+              "path": "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/主成分分析的原理",
+              "sidebar": "Sidebar"
+            },
+            {
+              "id": "mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法",
+              "path": "/docs/mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法",
+              "sidebar": "Sidebar"
+            },
+            {
+              "id": "mathmodel/第一章 规划方法/1.1 线性规划/线性规划",
+              "path": "/docs/mathmodel/第一章 规划方法/1.1 线性规划/线性规划",
               "sidebar": "Sidebar"
             },
             {
               "id": "mathmodel/ALL打卡",
               "path": "/docs/mathmodel/ALL打卡",
+              "sidebar": "Sidebar"
+            },
+            {
+              "id": "mathmodel/intro",
+              "path": "/docs/mathmodel/intro",
               "sidebar": "Sidebar"
             },
             {

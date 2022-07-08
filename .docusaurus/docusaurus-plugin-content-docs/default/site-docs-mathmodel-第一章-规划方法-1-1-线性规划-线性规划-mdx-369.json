@@ -1,0 +1,26 @@
+{
+  "unversionedId": "mathmodel/第一章 规划方法/1.1 线性规划/线性规划",
+  "id": "mathmodel/第一章 规划方法/1.1 线性规划/线性规划",
+  "title": "🪅线性规划",
+  "description": "",
+  "source": "@site/docs\\mathmodel\\第一章 规划方法\\1.1 线性规划\\线性规划.mdx",
+  "sourceDirName": "mathmodel/第一章 规划方法/1.1 线性规划",
+  "slug": "/mathmodel/第一章 规划方法/1.1 线性规划/线性规划",
+  "permalink": "/docs/mathmodel/第一章 规划方法/1.1 线性规划/线性规划",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/第一章 规划方法/1.1 线性规划/线性规划.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🪅线性规划"
+  },
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "常用的等价无穷小",
+    "permalink": "/docs/MathCompetetion/常用的等价无穷小"
+  },
+  "next": {
+    "title": "🪅10.1 主成分分析的原理",
+    "permalink": "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/主成分分析的原理"
+  }
+}

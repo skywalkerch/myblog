@@ -97,7 +97,7 @@
       "plugin": "plugin---searchf-96-cc7"
     }
   },
-  "/docs-ec8": {
+  "/docs-d05": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-tags-092-6c8"
@@ -188,21 +188,33 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-math-competetion-常用的等价无穷小a-2-a-d7c"
   },
-  "/docs/mathmodel/多元分析方法/层次分析法/-a65": {
+  "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/降维-efb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-mathmodel-多元分析方法-层次分析法-584-eee"
+    "content": "content---docs-mathmodel-第十章-多元分析方法-10-1-主成分分析-降维-31-a-df8"
   },
-  "/docs/mathmodel/多元分析方法/主成分分析/主成分分析的原理-837": {
+  "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/协方差矩阵-eac": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-mathmodel-多元分析方法-主成分分析-主成分分析的原理-453-ae1"
+    "content": "content---docs-mathmodel-第十章-多元分析方法-10-1-主成分分析-协方差矩阵f-06-e2f"
   },
-  "/docs/mathmodel/规划方法/线性规划/-0e2": {
+  "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/主成分分析的原理-76e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-mathmodel-规划方法-线性规划-be-8-0b2"
+    "content": "content---docs-mathmodel-第十章-多元分析方法-10-1-主成分分析-主成分分析的原理d-2-f-f34"
+  },
+  "/docs/mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法-776": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-mathmodel-第十章-多元分析方法-10-2-层次分析法-层次分析法-67-d-ce4"
+  },
+  "/docs/mathmodel/第一章 规划方法/1.1 线性规划/线性规划-3eb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-mathmodel-第一章-规划方法-1-1-线性规划-线性规划-369-667"
   },
   "/docs/mathmodel/ALL打卡-b99": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-mathmodel-al-l打卡e-79-885"
+  },
+  "/docs/mathmodel/intro-7f1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-mathmodel-intro-68-d-d9b"
   },
   "/docs/write/2022-6-30-05b": {
     "__comp": "__comp---theme-doc-item-178-a40",

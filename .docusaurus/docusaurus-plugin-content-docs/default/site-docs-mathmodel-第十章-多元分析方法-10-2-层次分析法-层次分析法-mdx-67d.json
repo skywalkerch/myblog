@@ -1,0 +1,26 @@
+{
+  "unversionedId": "mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法",
+  "id": "mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法",
+  "title": "🪅10.2 层次分析法",
+  "description": "",
+  "source": "@site/docs\\mathmodel\\第十章 多元分析方法\\10.2 层次分析法\\层次分析法.mdx",
+  "sourceDirName": "mathmodel/第十章 多元分析方法/10.2 层次分析法",
+  "slug": "/mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法",
+  "permalink": "/docs/mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🪅10.2 层次分析法"
+  },
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "🤖降维的作用",
+    "permalink": "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/降维"
+  },
+  "next": {
+    "title": "数学建模学习打卡记录",
+    "permalink": "/docs/mathmodel/ALL打卡"
+  }
+}

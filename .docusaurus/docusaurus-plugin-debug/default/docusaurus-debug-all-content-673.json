@@ -138,8 +138,8 @@
               },
               "sidebar": "Sidebar",
               "previous": {
-                "title": "数学建模学习打卡记录",
-                "permalink": "/docs/mathmodel/ALL打卡"
+                "title": "数学建模单元介绍",
+                "permalink": "/docs/mathmodel/intro"
               },
               "next": {
                 "title": "作文真题",
@@ -561,46 +561,20 @@
               },
               "next": {
                 "title": "🪅线性规划",
-                "permalink": "/docs/mathmodel/规划方法/线性规划/"
+                "permalink": "/docs/mathmodel/第一章 规划方法/1.1 线性规划/线性规划"
               }
             },
             {
-              "unversionedId": "mathmodel/多元分析方法/层次分析法/层次分析法",
-              "id": "mathmodel/多元分析方法/层次分析法/层次分析法",
-              "title": "🪅层次分析法",
-              "description": "",
-              "source": "@site/docs\\mathmodel\\多元分析方法\\层次分析法\\层次分析法.mdx",
-              "sourceDirName": "mathmodel/多元分析方法/层次分析法",
-              "slug": "/mathmodel/多元分析方法/层次分析法/",
-              "permalink": "/docs/mathmodel/多元分析方法/层次分析法/",
+              "unversionedId": "mathmodel/第十章 多元分析方法/10.1 主成分分析/降维",
+              "id": "mathmodel/第十章 多元分析方法/10.1 主成分分析/降维",
+              "title": "🤖降维的作用",
+              "description": "降维的介绍",
+              "source": "@site/docs\\mathmodel\\第十章 多元分析方法\\10.1 主成分分析\\降维.md",
+              "sourceDirName": "mathmodel/第十章 多元分析方法/10.1 主成分分析",
+              "slug": "/mathmodel/第十章 多元分析方法/10.1 主成分分析/降维",
+              "permalink": "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/降维",
               "draft": false,
-              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/多元分析方法/层次分析法/层次分析法.mdx",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "🪅层次分析法"
-              },
-              "sidebar": "Sidebar",
-              "previous": {
-                "title": "🪅主成分分析的原理",
-                "permalink": "/docs/mathmodel/多元分析方法/主成分分析/主成分分析的原理"
-              },
-              "next": {
-                "title": "数学建模学习打卡记录",
-                "permalink": "/docs/mathmodel/ALL打卡"
-              }
-            },
-            {
-              "unversionedId": "mathmodel/多元分析方法/主成分分析/主成分分析的原理",
-              "id": "mathmodel/多元分析方法/主成分分析/主成分分析的原理",
-              "title": "🪅主成分分析的原理",
-              "description": "主成分分析：Pricipal Component Analysis(PCA)",
-              "source": "@site/docs\\mathmodel\\多元分析方法\\主成分分析\\主成分分析的原理.md",
-              "sourceDirName": "mathmodel/多元分析方法/主成分分析",
-              "slug": "/mathmodel/多元分析方法/主成分分析/主成分分析的原理",
-              "permalink": "/docs/mathmodel/多元分析方法/主成分分析/主成分分析的原理",
-              "draft": false,
-              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/多元分析方法/主成分分析/主成分分析的原理.md",
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/降维.md",
               "tags": [
                 {
                   "label": "数学建模",
@@ -613,7 +587,85 @@
               ],
               "version": "current",
               "frontMatter": {
-                "title": "🪅主成分分析的原理",
+                "title": "🤖降维的作用",
+                "tags": [
+                  "数学建模",
+                  "主成分分析"
+                ]
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "🤖协方差矩阵",
+                "permalink": "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/协方差矩阵"
+              },
+              "next": {
+                "title": "🪅10.2 层次分析法",
+                "permalink": "/docs/mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法"
+              }
+            },
+            {
+              "unversionedId": "mathmodel/第十章 多元分析方法/10.1 主成分分析/协方差矩阵",
+              "id": "mathmodel/第十章 多元分析方法/10.1 主成分分析/协方差矩阵",
+              "title": "🤖协方差矩阵",
+              "description": "$$\\mathcal(X,Y)=E(X- \\overline{X})E(Y- \\overline{Y})=E(XY)-E(X)E(Y)$$",
+              "source": "@site/docs\\mathmodel\\第十章 多元分析方法\\10.1 主成分分析\\协方差矩阵.md",
+              "sourceDirName": "mathmodel/第十章 多元分析方法/10.1 主成分分析",
+              "slug": "/mathmodel/第十章 多元分析方法/10.1 主成分分析/协方差矩阵",
+              "permalink": "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/协方差矩阵",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/协方差矩阵.md",
+              "tags": [
+                {
+                  "label": "数学建模",
+                  "permalink": "/docs/tags/数学建模"
+                },
+                {
+                  "label": "主成分分析",
+                  "permalink": "/docs/tags/主成分分析"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "🤖协方差矩阵",
+                "tags": [
+                  "数学建模",
+                  "主成分分析"
+                ]
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "🪅10.1 主成分分析的原理",
+                "permalink": "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/主成分分析的原理"
+              },
+              "next": {
+                "title": "🤖降维的作用",
+                "permalink": "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/降维"
+              }
+            },
+            {
+              "unversionedId": "mathmodel/第十章 多元分析方法/10.1 主成分分析/主成分分析的原理",
+              "id": "mathmodel/第十章 多元分析方法/10.1 主成分分析/主成分分析的原理",
+              "title": "🪅10.1 主成分分析的原理",
+              "description": "主成分分析：Pricipal Component Analysis(PCA)",
+              "source": "@site/docs\\mathmodel\\第十章 多元分析方法\\10.1 主成分分析\\主成分分析的原理.md",
+              "sourceDirName": "mathmodel/第十章 多元分析方法/10.1 主成分分析",
+              "slug": "/mathmodel/第十章 多元分析方法/10.1 主成分分析/主成分分析的原理",
+              "permalink": "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/主成分分析的原理",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/主成分分析的原理.md",
+              "tags": [
+                {
+                  "label": "数学建模",
+                  "permalink": "/docs/tags/数学建模"
+                },
+                {
+                  "label": "主成分分析",
+                  "permalink": "/docs/tags/主成分分析"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "🪅10.1 主成分分析的原理",
                 "tags": [
                   "数学建模",
                   "主成分分析"
@@ -622,24 +674,50 @@
               "sidebar": "Sidebar",
               "previous": {
                 "title": "🪅线性规划",
-                "permalink": "/docs/mathmodel/规划方法/线性规划/"
+                "permalink": "/docs/mathmodel/第一章 规划方法/1.1 线性规划/线性规划"
               },
               "next": {
-                "title": "🪅层次分析法",
-                "permalink": "/docs/mathmodel/多元分析方法/层次分析法/"
+                "title": "🤖协方差矩阵",
+                "permalink": "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/协方差矩阵"
               }
             },
             {
-              "unversionedId": "mathmodel/规划方法/线性规划/线性规划",
-              "id": "mathmodel/规划方法/线性规划/线性规划",
+              "unversionedId": "mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法",
+              "id": "mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法",
+              "title": "🪅10.2 层次分析法",
+              "description": "",
+              "source": "@site/docs\\mathmodel\\第十章 多元分析方法\\10.2 层次分析法\\层次分析法.mdx",
+              "sourceDirName": "mathmodel/第十章 多元分析方法/10.2 层次分析法",
+              "slug": "/mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法",
+              "permalink": "/docs/mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "🪅10.2 层次分析法"
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "🤖降维的作用",
+                "permalink": "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/降维"
+              },
+              "next": {
+                "title": "数学建模学习打卡记录",
+                "permalink": "/docs/mathmodel/ALL打卡"
+              }
+            },
+            {
+              "unversionedId": "mathmodel/第一章 规划方法/1.1 线性规划/线性规划",
+              "id": "mathmodel/第一章 规划方法/1.1 线性规划/线性规划",
               "title": "🪅线性规划",
               "description": "",
-              "source": "@site/docs\\mathmodel\\规划方法\\线性规划\\线性规划.mdx",
-              "sourceDirName": "mathmodel/规划方法/线性规划",
-              "slug": "/mathmodel/规划方法/线性规划/",
-              "permalink": "/docs/mathmodel/规划方法/线性规划/",
+              "source": "@site/docs\\mathmodel\\第一章 规划方法\\1.1 线性规划\\线性规划.mdx",
+              "sourceDirName": "mathmodel/第一章 规划方法/1.1 线性规划",
+              "slug": "/mathmodel/第一章 规划方法/1.1 线性规划/线性规划",
+              "permalink": "/docs/mathmodel/第一章 规划方法/1.1 线性规划/线性规划",
               "draft": false,
-              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/规划方法/线性规划/线性规划.mdx",
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/第一章 规划方法/1.1 线性规划/线性规划.mdx",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -651,8 +729,8 @@
                 "permalink": "/docs/MathCompetetion/常用的等价无穷小"
               },
               "next": {
-                "title": "🪅主成分分析的原理",
-                "permalink": "/docs/mathmodel/多元分析方法/主成分分析/主成分分析的原理"
+                "title": "🪅10.1 主成分分析的原理",
+                "permalink": "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/主成分分析的原理"
               }
             },
             {
@@ -673,8 +751,34 @@
               },
               "sidebar": "Sidebar",
               "previous": {
-                "title": "🪅层次分析法",
-                "permalink": "/docs/mathmodel/多元分析方法/层次分析法/"
+                "title": "🪅10.2 层次分析法",
+                "permalink": "/docs/mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法"
+              },
+              "next": {
+                "title": "数学建模单元介绍",
+                "permalink": "/docs/mathmodel/intro"
+              }
+            },
+            {
+              "unversionedId": "mathmodel/intro",
+              "id": "mathmodel/intro",
+              "title": "数学建模单元介绍",
+              "description": "本单元主要记录学习数学建模各种方法的笔记和心得",
+              "source": "@site/docs/mathmodel/intro.md",
+              "sourceDirName": "mathmodel",
+              "slug": "/mathmodel/intro",
+              "permalink": "/docs/mathmodel/intro",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/intro.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "数学建模单元介绍"
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "数学建模学习打卡记录",
+                "permalink": "/docs/mathmodel/ALL打卡"
               },
               "next": {
                 "title": "五个英语学习的技巧",
@@ -857,19 +961,19 @@
                 "items": [
                   {
                     "type": "category",
-                    "label": "🧸规划方法",
+                    "label": "🧸第一章 规划方法",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
                       {
                         "type": "category",
-                        "label": "🧸线性规划",
+                        "label": "🧸1.1 线性规划",
                         "collapsible": true,
                         "collapsed": true,
                         "items": [
                           {
                             "type": "doc",
-                            "id": "mathmodel/规划方法/线性规划/线性规划"
+                            "id": "mathmodel/第一章 规划方法/1.1 线性规划/线性规划"
                           }
                         ]
                       }
@@ -877,31 +981,39 @@
                   },
                   {
                     "type": "category",
-                    "label": "🧸多元分析方法",
+                    "label": "🧸第十章 多元分析方法",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
                       {
                         "type": "category",
-                        "label": "🧸主成分分析",
+                        "label": "🧸10.1 主成分分析",
                         "collapsible": true,
                         "collapsed": true,
                         "items": [
                           {
                             "type": "doc",
-                            "id": "mathmodel/多元分析方法/主成分分析/主成分分析的原理"
+                            "id": "mathmodel/第十章 多元分析方法/10.1 主成分分析/主成分分析的原理"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "mathmodel/第十章 多元分析方法/10.1 主成分分析/协方差矩阵"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "mathmodel/第十章 多元分析方法/10.1 主成分分析/降维"
                           }
                         ]
                       },
                       {
                         "type": "category",
-                        "label": "🧸层次分析法",
+                        "label": "🧸10.2 层次分析法",
                         "collapsible": true,
                         "collapsed": true,
                         "items": [
                           {
                             "type": "doc",
-                            "id": "mathmodel/多元分析方法/层次分析法/层次分析法"
+                            "id": "mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法"
                           }
                         ]
                       }
@@ -910,6 +1022,10 @@
                   {
                     "type": "doc",
                     "id": "mathmodel/ALL打卡"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "mathmodel/intro"
                   }
                 ]
               },

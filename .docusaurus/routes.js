@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ec8'),
+    component: ComponentCreator('/docs', 'd05'),
     routes: [
       {
         path: '/docs/CET6/翻译预测',
@@ -208,26 +208,44 @@ export default [
         sidebar: "Sidebar"
       },
       {
-        path: '/docs/mathmodel/多元分析方法/层次分析法/',
-        component: ComponentCreator('/docs/mathmodel/多元分析方法/层次分析法/', 'a65'),
+        path: '/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/降维',
+        component: ComponentCreator('/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/降维', 'efb'),
         exact: true,
         sidebar: "Sidebar"
       },
       {
-        path: '/docs/mathmodel/多元分析方法/主成分分析/主成分分析的原理',
-        component: ComponentCreator('/docs/mathmodel/多元分析方法/主成分分析/主成分分析的原理', '837'),
+        path: '/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/协方差矩阵',
+        component: ComponentCreator('/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/协方差矩阵', 'eac'),
         exact: true,
         sidebar: "Sidebar"
       },
       {
-        path: '/docs/mathmodel/规划方法/线性规划/',
-        component: ComponentCreator('/docs/mathmodel/规划方法/线性规划/', '0e2'),
+        path: '/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/主成分分析的原理',
+        component: ComponentCreator('/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/主成分分析的原理', '76e'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法',
+        component: ComponentCreator('/docs/mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法', '776'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/mathmodel/第一章 规划方法/1.1 线性规划/线性规划',
+        component: ComponentCreator('/docs/mathmodel/第一章 规划方法/1.1 线性规划/线性规划', '3eb'),
         exact: true,
         sidebar: "Sidebar"
       },
       {
         path: '/docs/mathmodel/ALL打卡',
         component: ComponentCreator('/docs/mathmodel/ALL打卡', 'b99'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/mathmodel/intro',
+        component: ComponentCreator('/docs/mathmodel/intro', '7f1'),
         exact: true,
         sidebar: "Sidebar"
       },

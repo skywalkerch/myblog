@@ -1,0 +1,26 @@
+{
+  "unversionedId": "mathmodel/intro",
+  "id": "mathmodel/intro",
+  "title": "数学建模单元介绍",
+  "description": "本单元主要记录学习数学建模各种方法的笔记和心得",
+  "source": "@site/docs/mathmodel/intro.md",
+  "sourceDirName": "mathmodel",
+  "slug": "/mathmodel/intro",
+  "permalink": "/docs/mathmodel/intro",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "数学建模单元介绍"
+  },
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "数学建模学习打卡记录",
+    "permalink": "/docs/mathmodel/ALL打卡"
+  },
+  "next": {
+    "title": "五个英语学习的技巧",
+    "permalink": "/docs/CET6/五个英语学习技巧"
+  }
+}
