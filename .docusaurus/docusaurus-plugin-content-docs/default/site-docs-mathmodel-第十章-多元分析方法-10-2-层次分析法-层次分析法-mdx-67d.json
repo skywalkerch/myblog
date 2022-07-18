@@ -2,7 +2,7 @@
   "unversionedId": "mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法",
   "id": "mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法",
   "title": "🪅10.2 层次分析法",
-  "description": "",
+  "description": "什么是层次分析法",
   "source": "@site/docs\\mathmodel\\第十章 多元分析方法\\10.2 层次分析法\\层次分析法.mdx",
   "sourceDirName": "mathmodel/第十章 多元分析方法/10.2 层次分析法",
   "slug": "/mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法",
@@ -16,8 +16,8 @@
   },
   "sidebar": "Sidebar",
   "previous": {
-    "title": "🤖降维的作用",
-    "permalink": "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/降维"
+    "title": "🧸因子载荷矩阵的统计意义",
+    "permalink": "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子载荷矩阵的统计意义"
   },
   "next": {
     "title": "数学建模学习打卡记录",

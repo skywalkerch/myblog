@@ -14,9 +14,9 @@
           "editUrlLocalized": "https://github.com/skywalkerch/myblog/blob/main/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\skywalkerch\\mysite\\sidebars.js",
-          "contentPath": "C:\\Users\\skywalkerch\\mysite\\docs",
-          "contentPathLocalized": "C:\\Users\\skywalkerch\\mysite\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\Users\\skywalkerch\\myblog\\sidebars.js",
+          "contentPath": "C:\\Users\\skywalkerch\\myblog\\docs",
+          "contentPathLocalized": "C:\\Users\\skywalkerch\\myblog\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "CET6/翻译预测",
@@ -599,8 +599,8 @@
                 "permalink": "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/协方差矩阵"
               },
               "next": {
-                "title": "🪅10.2 层次分析法",
-                "permalink": "/docs/mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法"
+                "title": "🪅因子分析方法",
+                "permalink": "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法原理"
               }
             },
             {
@@ -685,7 +685,7 @@
               "unversionedId": "mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法",
               "id": "mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法",
               "title": "🪅10.2 层次分析法",
-              "description": "",
+              "description": "什么是层次分析法",
               "source": "@site/docs\\mathmodel\\第十章 多元分析方法\\10.2 层次分析法\\层次分析法.mdx",
               "sourceDirName": "mathmodel/第十章 多元分析方法/10.2 层次分析法",
               "slug": "/mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法",
@@ -699,8 +699,8 @@
               },
               "sidebar": "Sidebar",
               "previous": {
-                "title": "🤖降维的作用",
-                "permalink": "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/降维"
+                "title": "🧸因子载荷矩阵的统计意义",
+                "permalink": "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子载荷矩阵的统计意义"
               },
               "next": {
                 "title": "数学建模学习打卡记录",
@@ -708,10 +708,88 @@
               }
             },
             {
+              "unversionedId": "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法的介绍",
+              "id": "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法的介绍",
+              "title": "🧸因子分析法的介绍",
+              "description": "",
+              "source": "@site/docs\\mathmodel\\第十章 多元分析方法\\10.3 因子分析法\\因子分析法的介绍.md",
+              "sourceDirName": "mathmodel/第十章 多元分析方法/10.3 因子分析法",
+              "slug": "/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法的介绍",
+              "permalink": "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法的介绍",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法的介绍.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "🧸因子分析法的介绍"
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "🪅因子分析方法",
+                "permalink": "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法原理"
+              },
+              "next": {
+                "title": "🧸因子载荷矩阵的统计意义",
+                "permalink": "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子载荷矩阵的统计意义"
+              }
+            },
+            {
+              "unversionedId": "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法原理",
+              "id": "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法原理",
+              "title": "🪅因子分析方法",
+              "description": "假设有$n$个样本，$p$个指标，则可以构成大小为$n \\times p$的样本矩阵",
+              "source": "@site/docs\\mathmodel\\第十章 多元分析方法\\10.3 因子分析法\\因子分析法原理.md",
+              "sourceDirName": "mathmodel/第十章 多元分析方法/10.3 因子分析法",
+              "slug": "/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法原理",
+              "permalink": "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法原理",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法原理.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "🪅因子分析方法"
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "🤖降维的作用",
+                "permalink": "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/降维"
+              },
+              "next": {
+                "title": "🧸因子分析法的介绍",
+                "permalink": "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法的介绍"
+              }
+            },
+            {
+              "unversionedId": "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子载荷矩阵的统计意义",
+              "id": "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子载荷矩阵的统计意义",
+              "title": "🧸因子载荷矩阵的统计意义",
+              "description": "",
+              "source": "@site/docs\\mathmodel\\第十章 多元分析方法\\10.3 因子分析法\\因子载荷矩阵的统计意义.md",
+              "sourceDirName": "mathmodel/第十章 多元分析方法/10.3 因子分析法",
+              "slug": "/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子载荷矩阵的统计意义",
+              "permalink": "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子载荷矩阵的统计意义",
+              "draft": false,
+              "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子载荷矩阵的统计意义.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "🧸因子载荷矩阵的统计意义"
+              },
+              "sidebar": "Sidebar",
+              "previous": {
+                "title": "🧸因子分析法的介绍",
+                "permalink": "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法的介绍"
+              },
+              "next": {
+                "title": "🪅10.2 层次分析法",
+                "permalink": "/docs/mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法"
+              }
+            },
+            {
               "unversionedId": "mathmodel/第一章 规划方法/1.1 线性规划/线性规划",
               "id": "mathmodel/第一章 规划方法/1.1 线性规划/线性规划",
               "title": "🪅线性规划",
-              "description": "",
+              "description": "线性规划的三要素",
               "source": "@site/docs\\mathmodel\\第一章 规划方法\\1.1 线性规划\\线性规划.mdx",
               "sourceDirName": "mathmodel/第一章 规划方法/1.1 线性规划",
               "slug": "/mathmodel/第一章 规划方法/1.1 线性规划/线性规划",
@@ -1007,6 +1085,26 @@
                       },
                       {
                         "type": "category",
+                        "label": "🧸10.1 主成分分析",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法原理"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法的介绍"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子载荷矩阵的统计意义"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "category",
                         "label": "🧸10.2 层次分析法",
                         "collapsible": true,
                         "collapsed": true,
@@ -1204,7 +1302,7 @@
         "type": "mdx",
         "permalink": "/nevigation",
         "source": "@site/src/pages/nevigation.md",
-        "description": "Books",
+        "description": "Notes:",
         "frontMatter": {}
       }
     ]

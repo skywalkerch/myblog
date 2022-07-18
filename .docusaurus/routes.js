@@ -4,82 +4,82 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'fd6'),
+    component: ComponentCreator('/__docusaurus/debug', '884'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '355'),
+    component: ComponentCreator('/__docusaurus/debug/config', '623'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '2e2'),
+    component: ComponentCreator('/__docusaurus/debug/content', '866'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c8a'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', '241'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '4bb'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '5fa'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', 'ba6'),
+    component: ComponentCreator('/__docusaurus/debug/registry', 'b5a'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', 'bbb'),
+    component: ComponentCreator('/__docusaurus/debug/routes', '40d'),
     exact: true
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '527'),
+    component: ComponentCreator('/about', '3f4'),
     exact: true
   },
   {
     path: '/docs/tags',
-    component: ComponentCreator('/docs/tags', '6fd'),
+    component: ComponentCreator('/docs/tags', '5fd'),
     exact: true
   },
   {
     path: '/docs/tags/极限',
-    component: ComponentCreator('/docs/tags/极限', '4a4'),
+    component: ComponentCreator('/docs/tags/极限', '982'),
     exact: true
   },
   {
     path: '/docs/tags/数学建模',
-    component: ComponentCreator('/docs/tags/数学建模', 'd72'),
+    component: ComponentCreator('/docs/tags/数学建模', '150'),
     exact: true
   },
   {
     path: '/docs/tags/数学竞赛',
-    component: ComponentCreator('/docs/tags/数学竞赛', '953'),
+    component: ComponentCreator('/docs/tags/数学竞赛', '557'),
     exact: true
   },
   {
     path: '/docs/tags/主成分分析',
-    component: ComponentCreator('/docs/tags/主成分分析', '0bc'),
+    component: ComponentCreator('/docs/tags/主成分分析', 'e2f'),
     exact: true
   },
   {
     path: '/nevigation',
-    component: ComponentCreator('/nevigation', 'e0e'),
+    component: ComponentCreator('/nevigation', '88d'),
     exact: true
   },
   {
     path: '/search',
-    component: ComponentCreator('/search', '532'),
+    component: ComponentCreator('/search', 'ee2'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd05'),
+    component: ComponentCreator('/docs', '70d'),
     routes: [
       {
         path: '/docs/CET6/翻译预测',
@@ -232,6 +232,24 @@ export default [
         sidebar: "Sidebar"
       },
       {
+        path: '/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法的介绍',
+        component: ComponentCreator('/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法的介绍', '7da'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法原理',
+        component: ComponentCreator('/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法原理', 'ee5'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
+        path: '/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子载荷矩阵的统计意义',
+        component: ComponentCreator('/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子载荷矩阵的统计意义', 'f65'),
+        exact: true,
+        sidebar: "Sidebar"
+      },
+      {
         path: '/docs/mathmodel/第一章 规划方法/1.1 线性规划/线性规划',
         component: ComponentCreator('/docs/mathmodel/第一章 规划方法/1.1 线性规划/线性规划', '3eb'),
         exact: true,
@@ -283,7 +301,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '812'),
+    component: ComponentCreator('/', '0e7'),
     exact: true
   },
   {

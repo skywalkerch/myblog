@@ -116,6 +116,32 @@
               },
               {
                 "type": "category",
+                "label": "🧸10.1 主成分分析",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "🪅因子分析方法",
+                    "href": "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法原理",
+                    "docId": "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法原理"
+                  },
+                  {
+                    "type": "link",
+                    "label": "🧸因子分析法的介绍",
+                    "href": "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法的介绍",
+                    "docId": "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法的介绍"
+                  },
+                  {
+                    "type": "link",
+                    "label": "🧸因子载荷矩阵的统计意义",
+                    "href": "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子载荷矩阵的统计意义",
+                    "docId": "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子载荷矩阵的统计意义"
+                  }
+                ]
+              },
+              {
+                "type": "category",
                 "label": "🧸10.2 层次分析法",
                 "collapsible": true,
                 "collapsed": true,
@@ -476,13 +502,31 @@
     "mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法": {
       "id": "mathmodel/第十章 多元分析方法/10.2 层次分析法/层次分析法",
       "title": "🪅10.2 层次分析法",
+      "description": "什么是层次分析法",
+      "sidebar": "Sidebar"
+    },
+    "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法的介绍": {
+      "id": "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法的介绍",
+      "title": "🧸因子分析法的介绍",
+      "description": "",
+      "sidebar": "Sidebar"
+    },
+    "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法原理": {
+      "id": "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法原理",
+      "title": "🪅因子分析方法",
+      "description": "假设有$n$个样本，$p$个指标，则可以构成大小为$n \\times p$的样本矩阵",
+      "sidebar": "Sidebar"
+    },
+    "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子载荷矩阵的统计意义": {
+      "id": "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子载荷矩阵的统计意义",
+      "title": "🧸因子载荷矩阵的统计意义",
       "description": "",
       "sidebar": "Sidebar"
     },
     "mathmodel/第一章 规划方法/1.1 线性规划/线性规划": {
       "id": "mathmodel/第一章 规划方法/1.1 线性规划/线性规划",
       "title": "🪅线性规划",
-      "description": "",
+      "description": "线性规划的三要素",
       "sidebar": "Sidebar"
     },
     "mathmodel/ALL打卡": {

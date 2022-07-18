@@ -136,6 +136,21 @@
               "sidebar": "Sidebar"
             },
             {
+              "id": "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法的介绍",
+              "path": "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法的介绍",
+              "sidebar": "Sidebar"
+            },
+            {
+              "id": "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法原理",
+              "path": "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法原理",
+              "sidebar": "Sidebar"
+            },
+            {
+              "id": "mathmodel/第十章 多元分析方法/10.3 因子分析法/因子载荷矩阵的统计意义",
+              "path": "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子载荷矩阵的统计意义",
+              "sidebar": "Sidebar"
+            },
+            {
               "id": "mathmodel/第一章 规划方法/1.1 线性规划/线性规划",
               "path": "/docs/mathmodel/第一章 规划方法/1.1 线性规划/线性规划",
               "sidebar": "Sidebar"

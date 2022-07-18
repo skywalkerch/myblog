@@ -18,7 +18,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\skywalkerch\\mysite\\sidebars.js",
+          "sidebarPath": "C:\\Users\\skywalkerch\\myblog\\sidebars.js",
           "remarkPlugins": [
             null,
             null
@@ -33,7 +33,7 @@ export default {
           "editUrl": "https://github.com/skywalkerch/myblog/blob/main"
         },
         "theme": {
-          "customCss": "C:\\Users\\skywalkerch\\mysite\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\skywalkerch\\myblog\\src\\css\\custom.css"
         }
       }
     ]
@@ -348,7 +348,7 @@ export default {
   },
   "themes": [
     [
-      "C:\\Users\\skywalkerch\\mysite\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      "C:\\Users\\skywalkerch\\myblog\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
       {
         "hashed": true,
         "language": [

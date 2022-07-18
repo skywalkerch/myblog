@@ -1,0 +1,24 @@
+{
+  "unversionedId": "mathmodel/第十章 多元分析方法/10.3 因子分析法/Untitled",
+  "id": "mathmodel/第十章 多元分析方法/10.3 因子分析法/Untitled",
+  "title": "Untitled",
+  "description": "",
+  "source": "@site/docs\\mathmodel\\第十章 多元分析方法\\10.3 因子分析法\\Untitled.md",
+  "sourceDirName": "mathmodel/第十章 多元分析方法/10.3 因子分析法",
+  "slug": "/mathmodel/第十章 多元分析方法/10.3 因子分析法/Untitled",
+  "permalink": "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/Untitled",
+  "draft": false,
+  "editUrl": "https://github.com/skywalkerch/myblog/blob/main/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/Untitled.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "Sidebar",
+  "previous": {
+    "title": "🤖降维的作用",
+    "permalink": "/docs/mathmodel/第十章 多元分析方法/10.1 主成分分析/降维"
+  },
+  "next": {
+    "title": "🪅因子分析方法",
+    "permalink": "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法原理"
+  }
+}

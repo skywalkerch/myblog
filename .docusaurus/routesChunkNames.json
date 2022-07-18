@@ -1,106 +1,106 @@
 {
-  "/__docusaurus/debug-fd6": {
+  "/__docusaurus/debug-884": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-005-017"
+      "plugin": "plugin---docusaurus-debug-3-fe-c29"
     }
   },
-  "/__docusaurus/debug/config-355": {
+  "/__docusaurus/debug/config-623": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-005-017"
+      "plugin": "plugin---docusaurus-debug-3-fe-c29"
     }
   },
-  "/__docusaurus/debug/content-2e2": {
+  "/__docusaurus/debug/content-866": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-005-017"
+      "plugin": "plugin---docusaurus-debug-3-fe-c29"
     },
     "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/__docusaurus/debug/globalData-c8a": {
+  "/__docusaurus/debug/globalData-241": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-005-017"
+      "plugin": "plugin---docusaurus-debug-3-fe-c29"
     }
   },
-  "/__docusaurus/debug/metadata-4bb": {
+  "/__docusaurus/debug/metadata-5fa": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-005-017"
+      "plugin": "plugin---docusaurus-debug-3-fe-c29"
     }
   },
-  "/__docusaurus/debug/registry-ba6": {
+  "/__docusaurus/debug/registry-b5a": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-005-017"
+      "plugin": "plugin---docusaurus-debug-3-fe-c29"
     }
   },
-  "/__docusaurus/debug/routes-bbb": {
+  "/__docusaurus/debug/routes-40d": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-005-017"
+      "plugin": "plugin---docusaurus-debug-3-fe-c29"
     }
   },
-  "/about-527": {
+  "/about-3f4": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---about-942-6e2"
+      "plugin": "plugin---about-38-e-e66"
     },
     "content": "content---aboutc-9-f-e93"
   },
-  "/docs/tags-6fd": {
+  "/docs/tags-5fd": {
     "__comp": "__comp---theme-doc-tags-list-page-372-89e",
     "__context": {
-      "plugin": "plugin---docs-tags-092-6c8"
+      "plugin": "plugin---docs-tags-61-a-4c6"
     },
     "tags": "tags---docs-tags-559-5e5"
   },
-  "/docs/tags/极限-4a4": {
+  "/docs/tags/极限-982": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__context": {
-      "plugin": "plugin---docs-tags-092-6c8"
+      "plugin": "plugin---docs-tags-61-a-4c6"
     },
     "tag": "tag---docs-tags-极限-496-bc8"
   },
-  "/docs/tags/数学建模-d72": {
+  "/docs/tags/数学建模-150": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__context": {
-      "plugin": "plugin---docs-tags-092-6c8"
+      "plugin": "plugin---docs-tags-61-a-4c6"
     },
     "tag": "tag---docs-tags-数学建模-1-f-7-d35"
   },
-  "/docs/tags/数学竞赛-953": {
+  "/docs/tags/数学竞赛-557": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__context": {
-      "plugin": "plugin---docs-tags-092-6c8"
+      "plugin": "plugin---docs-tags-61-a-4c6"
     },
     "tag": "tag---docs-tags-数学竞赛-66-d-3d5"
   },
-  "/docs/tags/主成分分析-0bc": {
+  "/docs/tags/主成分分析-e2f": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__context": {
-      "plugin": "plugin---docs-tags-092-6c8"
+      "plugin": "plugin---docs-tags-61-a-4c6"
     },
     "tag": "tag---docs-tags-主成分分析-0-ca-c66"
   },
-  "/nevigation-e0e": {
+  "/nevigation-88d": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---about-942-6e2"
+      "plugin": "plugin---about-38-e-e66"
     },
     "content": "content---nevigatione-24-332"
   },
-  "/search-532": {
+  "/search-ee2": {
     "__comp": "__comp---theme-search-page-1-a-4-d6f",
     "__context": {
-      "plugin": "plugin---searchf-96-cc7"
+      "plugin": "plugin---search-3-ef-d6d"
     }
   },
-  "/docs-d05": {
+  "/docs-70d": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---docs-tags-092-6c8"
+      "plugin": "plugin---docs-tags-61-a-4c6"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -204,6 +204,18 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-mathmodel-第十章-多元分析方法-10-2-层次分析法-层次分析法-67-d-ce4"
   },
+  "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法的介绍-7da": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-mathmodel-第十章-多元分析方法-10-3-因子分析法-因子分析法的介绍-743-7fd"
+  },
+  "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子分析法原理-ee5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-mathmodel-第十章-多元分析方法-10-3-因子分析法-因子分析法原理-097-c0a"
+  },
+  "/docs/mathmodel/第十章 多元分析方法/10.3 因子分析法/因子载荷矩阵的统计意义-f65": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-mathmodel-第十章-多元分析方法-10-3-因子分析法-因子载荷矩阵的统计意义bbc-b5b"
+  },
   "/docs/mathmodel/第一章 规划方法/1.1 线性规划/线性规划-3eb": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-mathmodel-第一章-规划方法-1-1-线性规划-线性规划-369-667"
@@ -236,10 +248,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-write-wsl安装-arch-linuxabc-e80"
   },
-  "/-812": {
+  "/-0e7": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "plugin---about-942-6e2"
+      "plugin": "plugin---about-38-e-e66"
     },
     "config": "config---5-e-9-4f3"
   }
